@@ -34,7 +34,42 @@
       "transliteration": "Fayf zin-toy-khen, beh-layf het lay-ven.",
       "category": "Numbers",
       "generated_at": "2026-06-15T22:21:11.018994"
+    },
+    {
+      "english": "Slow down, breathe deep.",
+      "dutch": "Doe rustig aan, haal diep adem.",
+      "transliteration": "Doo rus-tikh aan, haal deep aa-dhem.",
+      "category": "Balance",
+      "generated_at": "2026-06-15T22:27:09.798594"
+    },
+    {
+      "english": "Find your center, ground yourself.",
+      "dutch": "Vind je midden, maak je stabiel.",
+      "transliteration": "Vind yuh mid-den, maak yuh sta-beell.",
+      "category": "Balance",
+      "generated_at": "2026-06-15T22:27:09.798605"
+    },
+    {
+      "english": "One step at a time, forward.",
+      "dutch": "Eén stap per keer, vooruit.",
+      "transliteration": "Een stap pair keer, voor-uyt.",
+      "category": "Balance",
+      "generated_at": "2026-06-15T22:27:09.798607"
+    },
+    {
+      "english": "Listen closely, feel the rhythm.",
+      "dutch": "Luister goed, voel het ritme.",
+      "transliteration": "Luy-ster khoot, fool het rit-meh.",
+      "category": "Balance",
+      "generated_at": "2026-06-15T22:27:09.798608"
+    },
+    {
+      "english": "Be present, right here, now.",
+      "dutch": "Wees hier, precies nu.",
+      "transliteration": "Vaseer, pre-sees new.",
+      "category": "Balance",
+      "generated_at": "2026-06-15T22:27:09.798610"
     }
   ],
-  "last_updated": "2026-06-15T22:21:11.018996"
+  "last_updated": "2026-06-15T22:27:09.798611"
 }
