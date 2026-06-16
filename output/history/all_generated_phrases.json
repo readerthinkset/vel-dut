@@ -139,7 +139,42 @@
       "transliteration": "Dit moh-ment, is ah-less vats er is.",
       "category": "Mindfulness",
       "generated_at": "2026-06-16T16:57:39.445500"
+    },
+    {
+      "english": "Hello, how are you?",
+      "dutch": "Hallo, hoe gaat het?",
+      "transliteration": "Hah-loh, hoo gaat het?",
+      "category": "Travel",
+      "generated_at": "2026-06-16T18:24:30.173124"
+    },
+    {
+      "english": "Where is the train station?",
+      "dutch": "Waar is het treinstation?",
+      "transliteration": "Vaar is het train-stah-shon?",
+      "category": "Travel",
+      "generated_at": "2026-06-16T18:24:30.173135"
+    },
+    {
+      "english": "A ticket to Amsterdam, please.",
+      "dutch": "Een kaartje naar Amsterdam, alstublieft.",
+      "transliteration": "Een kaar-tcheh naar Am-ster-dam, al-stoo-bleeft.",
+      "category": "Travel",
+      "generated_at": "2026-06-16T18:24:30.173137"
+    },
+    {
+      "english": "How much does this cost?",
+      "dutch": "Hoeveel kost dit?",
+      "transliteration": "Hoo-vehl kost dit?",
+      "category": "Travel",
+      "generated_at": "2026-06-16T18:24:30.173138"
+    },
+    {
+      "english": "Can you help me?",
+      "dutch": "Kunt u mij helpen?",
+      "transliteration": "Kunt oo mei hel-pen?",
+      "category": "Travel",
+      "generated_at": "2026-06-16T18:24:30.173140"
     }
   ],
-  "last_updated": "2026-06-16T16:57:39.445502"
+  "last_updated": "2026-06-16T18:24:30.173141"
 }
