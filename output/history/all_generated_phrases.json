@@ -209,7 +209,42 @@
       "transliteration": "Loo-ster mair, spraik min-der.",
       "category": "Self Improvement",
       "generated_at": "2026-06-16T20:15:06.083200"
+    },
+    {
+      "english": "Now, let's begin.",
+      "dutch": "Nu, laten we beginnen.",
+      "transliteration": "Nü, lahten we behin-nen.",
+      "category": "Time",
+      "generated_at": "2026-06-16T22:12:42.079585"
+    },
+    {
+      "english": "Later, maybe.",
+      "dutch": "Later, misschien.",
+      "transliteration": "Lah-ter, mes-heen.",
+      "category": "Time",
+      "generated_at": "2026-06-16T22:12:42.079595"
+    },
+    {
+      "english": "Soon, we will go.",
+      "dutch": "Binnenkort, gaan we weg.",
+      "transliteration": "Bin-nen-kort, gahn we vekh.",
+      "category": "Time",
+      "generated_at": "2026-06-16T22:12:42.079597"
+    },
+    {
+      "english": "Already, it's time.",
+      "dutch": "Al, het is tijd.",
+      "transliteration": "Ahl, het is teit.",
+      "category": "Time",
+      "generated_at": "2026-06-16T22:12:42.079598"
+    },
+    {
+      "english": "In a moment, please.",
+      "dutch": "Zo meteen, alstublieft.",
+      "transliteration": "Zoh me-tehn, ahlst-oo-bleeft.",
+      "category": "Time",
+      "generated_at": "2026-06-16T22:12:42.079600"
     }
   ],
-  "last_updated": "2026-06-16T20:15:06.083201"
+  "last_updated": "2026-06-16T22:12:42.079602"
 }
