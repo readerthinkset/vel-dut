@@ -349,7 +349,42 @@
       "transliteration": "Lair van fout-en, groo-ee.",
       "category": "Perseverance",
       "generated_at": "2026-06-17T16:50:26.237376"
+    },
+    {
+      "english": "One table, for two, please.",
+      "dutch": "Eén tafel, voor twee, alstublieft.",
+      "transliteration": "Ehn tah-fel, for tway, ahl-stoo-bleeft.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T22:05:08.599428"
+    },
+    {
+      "english": "Do you have, a menu?",
+      "dutch": "Heeft u, een menukaart?",
+      "transliteration": "Haft oo, ehn meh-noo-kart?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T22:05:08.599439"
+    },
+    {
+      "english": "What do you, recommend?",
+      "dutch": "Wat raadt u, aan?",
+      "transliteration": "Vaht raht oo, ahn?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T22:05:08.599441"
+    },
+    {
+      "english": "I would like, the soup.",
+      "dutch": "Ik wil graag, de soep.",
+      "transliteration": "Ik vil grahkh, deh soop.",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T22:05:08.599443"
+    },
+    {
+      "english": "Can I have, water?",
+      "dutch": "Mag ik, water?",
+      "transliteration": "Mahkh ik, wah-ter?",
+      "category": "Restaurant",
+      "generated_at": "2026-06-17T22:05:08.599444"
     }
   ],
-  "last_updated": "2026-06-17T16:50:26.237378"
+  "last_updated": "2026-06-17T22:05:08.599446"
 }
