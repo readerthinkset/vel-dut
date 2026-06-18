@@ -524,7 +524,42 @@
       "transliteration": "Denk ayrsht, doo dan.",
       "category": "Wisdom",
       "generated_at": "2026-06-18T19:41:18.170788"
+    },
+    {
+      "english": "My dear mother, I love you.",
+      "dutch": "Mijn lieve moeder, ik hou van je.",
+      "transliteration": "Mine leave moo-der, ik how fan yuh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T22:10:19.616534"
+    },
+    {
+      "english": "Father, can you help me?",
+      "dutch": "Vader, kun je me helpen?",
+      "transliteration": "Fah-der, kun yuh muh help-uh?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T22:10:19.616544"
+    },
+    {
+      "english": "My brother, he is tall.",
+      "dutch": "Mijn broer, hij is lang.",
+      "transliteration": "Mine broor, hey is lang.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T22:10:19.616546"
+    },
+    {
+      "english": "My sister, she is kind.",
+      "dutch": "Mijn zus, zij is lief.",
+      "transliteration": "Mine zus, zay is leef.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T22:10:19.616548"
+    },
+    {
+      "english": "Grandma, tell me a story.",
+      "dutch": "Oma, vertel me een verhaal.",
+      "transliteration": "Oh-mah, ver-tel muh en fer-hal.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-18T22:10:19.616549"
     }
   ],
-  "last_updated": "2026-06-18T19:41:18.170790"
+  "last_updated": "2026-06-18T22:10:19.616551"
 }
