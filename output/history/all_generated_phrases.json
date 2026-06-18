@@ -384,7 +384,42 @@
       "transliteration": "Mahkh ik, wah-ter?",
       "category": "Restaurant",
       "generated_at": "2026-06-17T22:05:08.599444"
+    },
+    {
+      "english": "Keep going, you're doing great.",
+      "dutch": "Ga door, je doet het goed.",
+      "transliteration": "Gaa door, yuh doot het khoot.",
+      "category": "Success",
+      "generated_at": "2026-06-18T04:24:45.028785"
+    },
+    {
+      "english": "Little steps, big progress.",
+      "dutch": "Kleine stappen, grote vooruitgang.",
+      "transliteration": "Klay-nuh stap-pen, khro-tuh voor-uit-khang.",
+      "category": "Success",
+      "generated_at": "2026-06-18T04:24:45.028796"
+    },
+    {
+      "english": "Your effort, it pays off.",
+      "dutch": "Jouw inzet, het loont.",
+      "transliteration": "Yow-er in-zet, het lohnt.",
+      "category": "Success",
+      "generated_at": "2026-06-18T04:24:45.028797"
+    },
+    {
+      "english": "One word, then another.",
+      "dutch": "Eén woord, dan een ander.",
+      "transliteration": "Een woort, dan een an-der.",
+      "category": "Success",
+      "generated_at": "2026-06-18T04:24:45.028798"
+    },
+    {
+      "english": "Mistakes are learning opportunities.",
+      "dutch": "Fouten zijn leermomenten.",
+      "transliteration": "Fow-ten zayn layr-mo-men-ten.",
+      "category": "Success",
+      "generated_at": "2026-06-18T04:24:45.028799"
     }
   ],
-  "last_updated": "2026-06-17T22:05:08.599446"
+  "last_updated": "2026-06-18T04:24:45.028800"
 }
