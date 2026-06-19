@@ -594,7 +594,42 @@
       "transliteration": "Mine lief-deh, for yauw groeit.",
       "category": "Love",
       "generated_at": "2026-06-19T04:51:47.370869"
+    },
+    {
+      "english": "Good morning, sunshine.",
+      "dutch": "Goedemorgen, zonneschijn.",
+      "transliteration": "Hoot-mor-gen, zon-shain.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T15:23:33.875564"
+    },
+    {
+      "english": "Thank you, very much.",
+      "dutch": "Dank u wel, heel erg.",
+      "transliteration": "Dank oo wel, heel erg.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T15:23:33.875574"
+    },
+    {
+      "english": "Yes, please, I would.",
+      "dutch": "Ja, graag, dat wil ik.",
+      "transliteration": "Yah, grahkh, daht wil ik.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T15:23:33.875576"
+    },
+    {
+      "english": "No, thank you.",
+      "dutch": "Nee, dank u wel.",
+      "transliteration": "Nay, dank oo wel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T15:23:33.875577"
+    },
+    {
+      "english": "Excuse me, please.",
+      "dutch": "Pardon, alstublieft.",
+      "transliteration": "Par-don, al-stoo-bleeft.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-19T15:23:33.875582"
     }
   ],
-  "last_updated": "2026-06-19T04:51:47.370871"
+  "last_updated": "2026-06-19T15:23:33.875583"
 }
