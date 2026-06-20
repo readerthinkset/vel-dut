@@ -804,7 +804,42 @@
       "transliteration": "Sind-sdeen, is fayl ge-beurt.",
       "category": "Time",
       "generated_at": "2026-06-20T14:08:47.637136"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "dutch": "Dank je wel, voor alles.",
+      "transliteration": "Dank yuh vel, for ah-less.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T15:27:23.536112"
+    },
+    {
+      "english": "I appreciate, this so much.",
+      "dutch": "Ik waardeer, dit enorm.",
+      "transliteration": "Ik vahr-deer, dit eh-norm.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T15:27:23.536120"
+    },
+    {
+      "english": "You are, very kind.",
+      "dutch": "Je bent, erg aardig.",
+      "transliteration": "Yuh bent, erg ahr-dikh.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T15:27:23.536121"
+    },
+    {
+      "english": "This means, a lot to me.",
+      "dutch": "Dit betekent, veel voor mij.",
+      "transliteration": "Dit beh-tay-kent, veel for my.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T15:27:23.536123"
+    },
+    {
+      "english": "I am grateful, for your help.",
+      "dutch": "Ik ben dankbaar, voor je hulp.",
+      "transliteration": "Ik ben dank-bahr, for yuh hylp.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-20T15:27:23.536124"
     }
   ],
-  "last_updated": "2026-06-20T14:08:47.637138"
+  "last_updated": "2026-06-20T15:27:23.536129"
 }
