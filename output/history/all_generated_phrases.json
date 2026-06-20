@@ -769,7 +769,42 @@
       "transliteration": "El-keh in-span-ning telt, blife pro-bay-ren.",
       "category": "Growth",
       "generated_at": "2026-06-20T04:06:12.626159"
+    },
+    {
+      "english": "Before, it was dark.",
+      "dutch": "Vroeger, was het donker.",
+      "transliteration": "Vroo-her, vahs het don-ker.",
+      "category": "Time",
+      "generated_at": "2026-06-20T14:08:47.637123"
+    },
+    {
+      "english": "After, we will see.",
+      "dutch": "Daarna, zullen we zien.",
+      "transliteration": "Dah-nah, zoo-len we seen.",
+      "category": "Time",
+      "generated_at": "2026-06-20T14:08:47.637132"
+    },
+    {
+      "english": "For now, let's wait.",
+      "dutch": "Voor nu, wachten we.",
+      "transliteration": "Voor nü, vahk-ten we.",
+      "category": "Time",
+      "generated_at": "2026-06-20T14:08:47.637134"
+    },
+    {
+      "english": "Then, it will change.",
+      "dutch": "Dan, zal het veranderen.",
+      "transliteration": "Dahn, sahl het ver-ahn-der-en.",
+      "category": "Time",
+      "generated_at": "2026-06-20T14:08:47.637135"
+    },
+    {
+      "english": "Since then, much has passed.",
+      "dutch": "Sindsdien, is veel gebeurd.",
+      "transliteration": "Sind-sdeen, is fayl ge-beurt.",
+      "category": "Time",
+      "generated_at": "2026-06-20T14:08:47.637136"
     }
   ],
-  "last_updated": "2026-06-20T04:06:12.626161"
+  "last_updated": "2026-06-20T14:08:47.637138"
 }
