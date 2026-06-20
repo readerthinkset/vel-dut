@@ -839,7 +839,42 @@
       "transliteration": "Ik ben dank-bahr, for yuh hylp.",
       "category": "Gratitude",
       "generated_at": "2026-06-20T15:27:23.536124"
+    },
+    {
+      "english": "Happy day, to you!",
+      "dutch": "Fijne dag, voor jou!",
+      "transliteration": "Fi-nuh dakh, vor yow!",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:18:01.258873"
+    },
+    {
+      "english": "So good, to see you.",
+      "dutch": "Zo fijn, je te zien.",
+      "transliteration": "Zo fi-n, ye teh seen.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:18:01.258884"
+    },
+    {
+      "english": "This is wonderful!",
+      "dutch": "Dit is heerlijk!",
+      "transliteration": "Dit is heer-lik!",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:18:01.258886"
+    },
+    {
+      "english": "What a great time.",
+      "dutch": "Wat een leuke tijd.",
+      "transliteration": "Vat een leu-kuh ti-d.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:18:01.258887"
+    },
+    {
+      "english": "Feeling great, today.",
+      "dutch": "Voel me goed, vandaag.",
+      "transliteration": "Fool meh khoot, fan-dakh.",
+      "category": "Joy",
+      "generated_at": "2026-06-20T18:18:01.258888"
     }
   ],
-  "last_updated": "2026-06-20T15:27:23.536129"
+  "last_updated": "2026-06-20T18:18:01.258890"
 }
