@@ -1049,7 +1049,42 @@
       "transliteration": "Waar is het pas-hok-je?",
       "category": "Shopping",
       "generated_at": "2026-06-21T18:23:10.196139"
+    },
+    {
+      "english": "Take your time, relax.",
+      "dutch": "Neem je tijd, ontspan.",
+      "transliteration": "Naim yai taim, ontspan.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T21:15:01.309895"
+    },
+    {
+      "english": "That's interesting, tell me more.",
+      "dutch": "Dat is interessant, vertel meer.",
+      "transliteration": "Dat is interresant, vertel meer.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T21:15:01.309903"
+    },
+    {
+      "english": "No problem, anytime.",
+      "dutch": "Geen probleem, altijd welkom.",
+      "transliteration": "Gayn problem, altijd welkom.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T21:15:01.309905"
+    },
+    {
+      "english": "Let's go, it's late.",
+      "dutch": "Laten we gaan, het is laat.",
+      "transliteration": "Laten we gahn, het is laht.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T21:15:01.309906"
+    },
+    {
+      "english": "I understand, what next?",
+      "dutch": "Ik begrijp het, wat nu?",
+      "transliteration": "Ik begraip het, wat noo?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-21T21:15:01.309907"
     }
   ],
-  "last_updated": "2026-06-21T18:23:10.196141"
+  "last_updated": "2026-06-21T21:15:01.309909"
 }
