@@ -1014,7 +1014,42 @@
       "transliteration": "KEES VREEN-duh-lik-hait, EL-kuh DAKH.",
       "category": "Kindness",
       "generated_at": "2026-06-21T15:43:53.970170"
+    },
+    {
+      "english": "Do you have this, in blue?",
+      "dutch": "Heeft u dit, in het blauw?",
+      "transliteration": "Heft oo dit, in het blauw?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T18:23:10.196121"
+    },
+    {
+      "english": "How much, is this item?",
+      "dutch": "Hoeveel kost, dit artikel?",
+      "transliteration": "Hoeveel kost, dit ar-ti-kel?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T18:23:10.196134"
+    },
+    {
+      "english": "I'm just looking, thank you.",
+      "dutch": "Ik kijk alleen, dank u wel.",
+      "transliteration": "Ik kijk a-leen, dank oo wel.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T18:23:10.196136"
+    },
+    {
+      "english": "Can I try this, on please?",
+      "dutch": "Mag ik dit, even passen?",
+      "transliteration": "Mag ik dit, e-ven pas-sen?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T18:23:10.196137"
+    },
+    {
+      "english": "Where is the changing room?",
+      "dutch": "Waar is het pashokje?",
+      "transliteration": "Waar is het pas-hok-je?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T18:23:10.196139"
     }
   ],
-  "last_updated": "2026-06-21T15:43:53.970172"
+  "last_updated": "2026-06-21T18:23:10.196141"
 }
