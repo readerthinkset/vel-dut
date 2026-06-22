@@ -1189,7 +1189,42 @@
       "transliteration": "On-zuh bay-bee, zo kline.",
       "category": "Family Terms",
       "generated_at": "2026-06-22T18:09:17.261938"
+    },
+    {
+      "english": "Six days, a work week.",
+      "dutch": "Zes dagen, een werkweek.",
+      "transliteration": "Zes dah-khen, ayn vark-vake.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:11:03.010438"
+    },
+    {
+      "english": "Seven days, a full week.",
+      "dutch": "Zeven dagen, een hele week.",
+      "transliteration": "Zay-ven dah-khen, ayn hay-luh vake.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:11:03.010444"
+    },
+    {
+      "english": "Eight notes, make a melody.",
+      "dutch": "Acht noten, maken een melodie.",
+      "transliteration": "Akh no-ten, mah-ken ayn meh-lo-dee.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:11:03.010445"
+    },
+    {
+      "english": "Nine planets, in our system.",
+      "dutch": "Negen planeten, in ons systeem.",
+      "transliteration": "Nay-khen plah-nay-ten, in ons sis-taym.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:11:03.010447"
+    },
+    {
+      "english": "Ten fingers, count them all.",
+      "dutch": "Tien vingers, tel ze allemaal.",
+      "transliteration": "Teen ving-ers, tel ze ahl-le-mahl.",
+      "category": "Numbers",
+      "generated_at": "2026-06-22T20:11:03.010448"
     }
   ],
-  "last_updated": "2026-06-22T18:09:17.261940"
+  "last_updated": "2026-06-22T20:11:03.010450"
 }
