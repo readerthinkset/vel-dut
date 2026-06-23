@@ -1329,7 +1329,42 @@
       "transliteration": "Ik mis, yeh an-weiz-heidd.",
       "category": "Love",
       "generated_at": "2026-06-23T16:18:27.452476"
+    },
+    {
+      "english": "I would like a coffee.",
+      "dutch": "Ik wil graag koffie.",
+      "transliteration": "Ik vil grah-kh Kof-fee.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T21:43:37.767527"
+    },
+    {
+      "english": "Enjoy your meal.",
+      "dutch": "Eet smakelijk.",
+      "transliteration": "Eet smak-uh-lik.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T21:43:37.767535"
+    },
+    {
+      "english": "Do you speak English?",
+      "dutch": "Spreekt u Engels?",
+      "transliteration": "Spreykt oo Eng-hels?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T21:43:37.767537"
+    },
+    {
+      "english": "Thank you, goodbye.",
+      "dutch": "Dank u wel, dag.",
+      "transliteration": "Dank oo vel, dahkh.",
+      "category": "Travel",
+      "generated_at": "2026-06-23T21:43:37.767538"
+    },
+    {
+      "english": "Excuse me, where is the toilet?",
+      "dutch": "Pardon, waar is het toilet?",
+      "transliteration": "Par-don, vaar is het twah-let?",
+      "category": "Travel",
+      "generated_at": "2026-06-23T21:43:37.767539"
     }
   ],
-  "last_updated": "2026-06-23T16:18:27.452477"
+  "last_updated": "2026-06-23T21:43:37.767541"
 }
