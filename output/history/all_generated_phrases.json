@@ -1504,7 +1504,42 @@
       "transliteration": "Loy-ster khoot, leyr mayr.",
       "category": "Positive Life",
       "generated_at": "2026-06-24T18:55:48.595945"
+    },
+    {
+      "english": "Cherish moments, with loved ones.",
+      "dutch": "Koester momenten, met dierbaren.",
+      "transliteration": "Koos-ter moh-men-ten, met deer-bah-ren.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T21:22:53.814215"
+    },
+    {
+      "english": "Good vibes, only please.",
+      "dutch": "Goede sferen, graag hier.",
+      "transliteration": "Hoo-duh sfeh-ren, grahkh heer.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T21:22:53.814223"
+    },
+    {
+      "english": "Enjoy life's journey, slowly.",
+      "dutch": "Geniet van het leven, rustig.",
+      "transliteration": "Ge-neet fan het leh-ven, roos-tikh.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T21:22:53.814224"
+    },
+    {
+      "english": "Peace within, is happiness.",
+      "dutch": "Rust vanbinnen, is geluk.",
+      "transliteration": "Roost fan-bin-nen, is ge-look.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T21:22:53.814224"
+    },
+    {
+      "english": "Let your heart, sing out.",
+      "dutch": "Laat je hart, zingen.",
+      "transliteration": "Laat yuh hart, sing-en.",
+      "category": "Happiness",
+      "generated_at": "2026-06-24T21:22:53.814225"
     }
   ],
-  "last_updated": "2026-06-24T18:55:48.595947"
+  "last_updated": "2026-06-24T21:22:53.814226"
 }
