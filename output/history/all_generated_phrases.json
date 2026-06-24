@@ -1364,7 +1364,42 @@
       "transliteration": "Par-don, vaar is het twah-let?",
       "category": "Travel",
       "generated_at": "2026-06-23T21:43:37.767539"
+    },
+    {
+      "english": "We're friends, always.",
+      "dutch": "We zijn vrienden, altijd.",
+      "transliteration": "Vey zayn vreen-den, al-tite.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T03:58:55.577209"
+    },
+    {
+      "english": "Thanks for being there.",
+      "dutch": "Bedankt dat je er bent.",
+      "transliteration": "Be-dankt dat yeh er bent.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T03:58:55.577218"
+    },
+    {
+      "english": "You're a great friend.",
+      "dutch": "Je bent een goede vriend.",
+      "transliteration": "Yeh bent un goo-duh vree-nt.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T03:58:55.577220"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "dutch": "Laten we snel afspreken.",
+      "transliteration": "La-ten we snel af-sprey-ken.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T03:58:55.577221"
+    },
+    {
+      "english": "I'm happy we met.",
+      "dutch": "Ik ben blij dat we elkaar kennen.",
+      "transliteration": "Ik ben bligh dat vey el-kar ken-nen.",
+      "category": "Friendship",
+      "generated_at": "2026-06-24T03:58:55.577222"
     }
   ],
-  "last_updated": "2026-06-23T21:43:37.767541"
+  "last_updated": "2026-06-24T03:58:55.577224"
 }
