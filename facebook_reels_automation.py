@@ -77,8 +77,7 @@ CATEGORIES_ENGLISH = [
     "Balance",
     "Growth",
     "Purpose",
-    "Mindfulness"
-
+    "Mindfulness",
     "Daily Routine",
     "Weather",
     "Feelings",
@@ -135,7 +134,27 @@ CATEGORIES_NATIVE = {
     "Balance": "Balans",
     "Growth": "Groei",
     "Purpose": "Doel",
-    "Mindfulness": "Mindfulness"
+    "Mindfulness": "Mindfulness",
+    "Daily Routine": "Dagelijkse routine",
+    "Weather": "Weer",
+    "Feelings": "Gevoelens",
+    "Food": "Eten",
+    "Health": "Gezondheid",
+    "Work": "Werk",
+    "Technology": "Technologie",
+    "Nature": "Natuur",
+    "Animals": "Dieren",
+    "Colors": "Kleuren",
+    "Directions": "Richtingen",
+    "Body Parts": "Lichaamsdelen",
+    "Clothes": "Kleding",
+    "Music": "Muziek",
+    "Sports": "Sport",
+    "Holidays": "Feestdagen",
+    "Education": "Onderwijs",
+    "Culture": "Cultuur",
+    "Finance": "Financiën",
+    "Relationships": "Relaties"
 }
 
 ENGLISH_VOICE = "en-US-GuyNeural"
