@@ -1784,7 +1784,42 @@
       "transliteration": "Vol-kuhn dray-vuhn, lahng-zahm, may.",
       "category": "Weather",
       "generated_at": "2026-06-28T04:14:55.148231"
+    },
+    {
+      "english": "A sweet bite, very good.",
+      "dutch": "Een zoete hap, erg lekker.",
+      "transliteration": "Een zoete hap, erg lek-ker.",
+      "category": "Food",
+      "generated_at": "2026-06-28T13:50:47.346549"
+    },
+    {
+      "english": "This cheese, tastes so rich.",
+      "dutch": "Deze kaas, smaakt zo vol.",
+      "transliteration": "Deze kaas, smaakt zo vol.",
+      "category": "Food",
+      "generated_at": "2026-06-28T13:50:47.346558"
+    },
+    {
+      "english": "Warm bread, fresh from oven.",
+      "dutch": "Warm brood, vers uit oven.",
+      "transliteration": "Warm brood, vers uyt oven.",
+      "category": "Food",
+      "generated_at": "2026-06-28T13:50:47.346559"
+    },
+    {
+      "english": "A little soup, makes me warm.",
+      "dutch": "Een beetje soep, maakt me warm.",
+      "transliteration": "Een beet-je soep, maakt me warm.",
+      "category": "Food",
+      "generated_at": "2026-06-28T13:50:47.346561"
+    },
+    {
+      "english": "Spicy sauce, a real kick.",
+      "dutch": "Pittige saus, een echte kick.",
+      "transliteration": "Pittige saus, een echte kick.",
+      "category": "Food",
+      "generated_at": "2026-06-28T13:50:47.346562"
     }
   ],
-  "last_updated": "2026-06-28T04:14:55.148233"
+  "last_updated": "2026-06-28T13:50:47.346563"
 }
