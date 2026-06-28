@@ -1819,7 +1819,42 @@
       "transliteration": "Pittige saus, een echte kick.",
       "category": "Food",
       "generated_at": "2026-06-28T13:50:47.346562"
+    },
+    {
+      "english": "The cat, naps soundly.",
+      "dutch": "De kat, dut zachtjes.",
+      "transliteration": "De kat, dut zachtjes.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:08:56.874388"
+    },
+    {
+      "english": "A dog, wags its tail.",
+      "dutch": "Een hond, kwispelt zijn staart.",
+      "transliteration": "Een hond, kwispelt zijn staart.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:08:56.874397"
+    },
+    {
+      "english": "Birds, sing in the trees.",
+      "dutch": "Vogels, zingen in de bomen.",
+      "transliteration": "Vogels, zingen in de bomen.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:08:56.874399"
+    },
+    {
+      "english": "Fish, swim in the pond.",
+      "dutch": "Vissen, zwemmen in de vijver.",
+      "transliteration": "Vissen, zwemmen in de vijver.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:08:56.874400"
+    },
+    {
+      "english": "A horse, gallops freely.",
+      "dutch": "Een paard, galoppeert vrij.",
+      "transliteration": "Een paard, galoppeert vrij.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T15:08:56.874401"
     }
   ],
-  "last_updated": "2026-06-28T13:50:47.346563"
+  "last_updated": "2026-06-28T15:08:56.874403"
 }
