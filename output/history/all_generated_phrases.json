@@ -1854,7 +1854,42 @@
       "transliteration": "Een paard, galoppeert vrij.",
       "category": "Animals",
       "generated_at": "2026-06-28T15:08:56.874401"
+    },
+    {
+      "english": "Look left, then right.",
+      "dutch": "Kijk links, dan rechts.",
+      "transliteration": "Kijk links, dan rechts.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:09:43.234807"
+    },
+    {
+      "english": "Go straight, don't turn.",
+      "dutch": "Ga rechtdoor, sla niet af.",
+      "transliteration": "Gah rekh-door, slah neet af.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:09:43.234816"
+    },
+    {
+      "english": "Turn right, at the corner.",
+      "dutch": "Sla rechtsaf, bij de hoek.",
+      "transliteration": "Slah rekhs-af, by duh hook.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:09:43.234818"
+    },
+    {
+      "english": "Walk past the store.",
+      "dutch": "Loop langs de winkel.",
+      "transliteration": "Loop langs duh vinkel.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:09:43.234819"
+    },
+    {
+      "english": "It's on your left side.",
+      "dutch": "Het is aan je linkerkant.",
+      "transliteration": "Het is an yuh linker-kant.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:09:43.234820"
     }
   ],
-  "last_updated": "2026-06-28T15:08:56.874403"
+  "last_updated": "2026-06-28T18:09:43.234822"
 }
