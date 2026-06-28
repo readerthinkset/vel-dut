@@ -1749,7 +1749,42 @@
       "transliteration": "Ver-blayt ghe-moe-de-ren, met zorg.",
       "category": "Kindness",
       "generated_at": "2026-06-27T21:04:23.278465"
+    },
+    {
+      "english": "The sky, is blue, today.",
+      "dutch": "De lucht, is blauw, vandaag.",
+      "transliteration": "De luhkht, is blauw, vahn-dahkh.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T04:14:55.148202"
+    },
+    {
+      "english": "Rain falls, gently, down.",
+      "dutch": "Regen valt, zachtjes, neer.",
+      "transliteration": "Ray-khuhn fahlt, zahkh-yuhs, nayr.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T04:14:55.148210"
+    },
+    {
+      "english": "Sun shines, warm, bright.",
+      "dutch": "Zon schijnt, warm, fel.",
+      "transliteration": "Zohn skhaynt, wahrm, fel.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T04:14:55.148212"
+    },
+    {
+      "english": "Wind blows, through trees.",
+      "dutch": "Wind waait, door bomen.",
+      "transliteration": "Vind vwayt, door bo-muhn.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T04:14:55.148213"
+    },
+    {
+      "english": "Clouds drift, slowly, by.",
+      "dutch": "Wolken drijven, langzaam, mee.",
+      "transliteration": "Vol-kuhn dray-vuhn, lahng-zahm, may.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T04:14:55.148231"
     }
   ],
-  "last_updated": "2026-06-27T21:04:23.278466"
+  "last_updated": "2026-06-28T04:14:55.148233"
 }
