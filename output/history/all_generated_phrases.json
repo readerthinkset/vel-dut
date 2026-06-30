@@ -2239,7 +2239,42 @@
       "transliteration": "Tow vonk, ont-stekt won-deh-ren.",
       "category": "Creativity",
       "generated_at": "2026-06-30T19:00:37.110843"
+    },
+    {
+      "english": "Play it loud, feel the beat.",
+      "dutch": "Speel het luid, voel de beat.",
+      "transliteration": "Spayl het loud, fool de beet.",
+      "category": "Music",
+      "generated_at": "2026-06-30T21:28:41.719290"
+    },
+    {
+      "english": "Sing along, join the choir.",
+      "dutch": "Zing mee, kom in het koor.",
+      "transliteration": "Zing may, kom in het koor.",
+      "category": "Music",
+      "generated_at": "2026-06-30T21:28:41.719301"
+    },
+    {
+      "english": "Dance freely, move your feet.",
+      "dutch": "Dans vrij, beweeg je voeten.",
+      "transliteration": "Dans vray, beh-vayg yuh foo-ten.",
+      "category": "Music",
+      "generated_at": "2026-06-30T21:28:41.719303"
+    },
+    {
+      "english": "Listen closely, hear the notes.",
+      "dutch": "Luister goed, hoor de noten.",
+      "transliteration": "Loo-ster goot, hoor de no-ten.",
+      "category": "Music",
+      "generated_at": "2026-06-30T21:28:41.719305"
+    },
+    {
+      "english": "Compose a song, write a lyric.",
+      "dutch": "Schrijf een lied, maak een tekst.",
+      "transliteration": "Skreef een leet, maak een tekst.",
+      "category": "Music",
+      "generated_at": "2026-06-30T21:28:41.719306"
     }
   ],
-  "last_updated": "2026-06-30T19:00:37.110845"
+  "last_updated": "2026-06-30T21:28:41.719307"
 }
