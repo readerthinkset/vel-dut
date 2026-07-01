@@ -2344,7 +2344,42 @@
       "transliteration": "Zow-dun vay, vat broht moh-khun?",
       "category": "Restaurant",
       "generated_at": "2026-07-01T14:40:54.339790"
+    },
+    {
+      "english": "Hello there, friend.",
+      "dutch": "Hallo daar, vriend.",
+      "transliteration": "Hah-loh dahr, vreehnt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T15:26:15.579567"
+    },
+    {
+      "english": "What's cooking, good looking?",
+      "dutch": "Wat is er aan de hand?",
+      "transliteration": "Vaht iss err ahn deh hahnd?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T15:26:15.579576"
+    },
+    {
+      "english": "Lovely day, isn't it?",
+      "dutch": "Mooie dag, nietwaar?",
+      "transliteration": "Moy-eh dahkh, neet-vahr?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T15:26:15.579577"
+    },
+    {
+      "english": "Can I help you?",
+      "dutch": "Kan ik u helpen?",
+      "transliteration": "Kahn ik oo hel-pen?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T15:26:15.579579"
+    },
+    {
+      "english": "Where are you going?",
+      "dutch": "Waar ga je heen?",
+      "transliteration": "Vahr ghah yuh heen?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-01T15:26:15.579580"
     }
   ],
-  "last_updated": "2026-07-01T14:40:54.339791"
+  "last_updated": "2026-07-01T15:26:15.579581"
 }
