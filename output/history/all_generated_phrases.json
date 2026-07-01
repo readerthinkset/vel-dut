@@ -2309,7 +2309,42 @@
       "transliteration": "Denk voor-oot, plan noo.",
       "category": "Common Expressions",
       "generated_at": "2026-07-01T04:17:32.188429"
+    },
+    {
+      "english": "A table for tonight, please.",
+      "dutch": "Een tafeltje, vanavond, graag.",
+      "transliteration": "Ay-n tah-fuhlt-yeh, fahv-nohv-unt, grahkh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T14:40:54.339774"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "dutch": "We zijn er klaar, voor om te bestellen.",
+      "transliteration": "Vay zayn-r klahr, foor om tuh buh-stel-lun.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T14:40:54.339785"
+    },
+    {
+      "english": "What's the special, today?",
+      "dutch": "Wat is het, speciale, vandaag?",
+      "transliteration": "Vat is het, spee-shee-ah-luh, van-dakh?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T14:40:54.339787"
+    },
+    {
+      "english": "This looks, delicious, indeed.",
+      "dutch": "Dit ziet, er heerlijk, uit, hoor.",
+      "transliteration": "Dit zeet, er heer-lik, oyt, hoor.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T14:40:54.339789"
+    },
+    {
+      "english": "Could we, get some bread?",
+      "dutch": "Zouden we, wat brood mogen?",
+      "transliteration": "Zow-dun vay, vat broht moh-khun?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-01T14:40:54.339790"
     }
   ],
-  "last_updated": "2026-07-01T04:17:32.188431"
+  "last_updated": "2026-07-01T14:40:54.339791"
 }
