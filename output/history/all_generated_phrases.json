@@ -2764,7 +2764,42 @@
       "transliteration": "Op dit uur, altijd.",
       "category": "Time",
       "generated_at": "2026-07-03T15:47:02.798306"
+    },
+    {
+      "english": "Juicy apple, crisp and tart.",
+      "dutch": "Sappige appel, fris en zuur.",
+      "transliteration": "Sah-pee-khuh ahp-pel, fris en zuur.",
+      "category": "Food",
+      "generated_at": "2026-07-03T18:17:34.431604"
+    },
+    {
+      "english": "Creamy yogurt, cool refreshment.",
+      "dutch": "Romige yoghurt, koele verfrissing.",
+      "transliteration": "Roh-mee-khuh yoh-khurt, koo-luh fer-fris-sing.",
+      "category": "Food",
+      "generated_at": "2026-07-03T18:17:34.431615"
+    },
+    {
+      "english": "Savory stew, deep flavors.",
+      "dutch": "Hartige stoof, diepe smaken.",
+      "transliteration": "Hahrt-ee-khuh stoof, dee-puh smay-ken.",
+      "category": "Food",
+      "generated_at": "2026-07-03T18:17:34.431617"
+    },
+    {
+      "english": "Fluffy pancakes, drizzled honey.",
+      "dutch": "Luchtige pannenkoeken, honing erop.",
+      "transliteration": "Loo-khi-khuh pah-nuh-koo-ken, hoh-ning erop.",
+      "category": "Food",
+      "generated_at": "2026-07-03T18:17:34.431618"
+    },
+    {
+      "english": "Fresh berries, sweet and bright.",
+      "dutch": "Verse bessen, zoet en levendig.",
+      "transliteration": "Ver-suh bes-sen, zoot en lay-ven-dikh.",
+      "category": "Food",
+      "generated_at": "2026-07-03T18:17:34.431619"
     }
   ],
-  "last_updated": "2026-07-03T15:47:02.798308"
+  "last_updated": "2026-07-03T18:17:34.431621"
 }
