@@ -2659,7 +2659,42 @@
       "transliteration": "Yow vayz-hayd, strahlt.",
       "category": "Strength",
       "generated_at": "2026-07-02T21:07:08.390401"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "dutch": "Beweeg je lichaam, voel je leven.",
+      "transliteration": "Be-vayg yuh lich-hahm, feel yuh lay-ven.",
+      "category": "Health",
+      "generated_at": "2026-07-03T03:40:18.992252"
+    },
+    {
+      "english": "Eat well, live longer.",
+      "dutch": "Eet goed, leef langer.",
+      "transliteration": "Eat good, layf lang-er.",
+      "category": "Health",
+      "generated_at": "2026-07-03T03:40:18.992260"
+    },
+    {
+      "english": "Sleep soundly, wake refreshed.",
+      "dutch": "Slaap diep, word wakker fris.",
+      "transliteration": "Slahp deep, word vak-ker fris.",
+      "category": "Health",
+      "generated_at": "2026-07-03T03:40:18.992262"
+    },
+    {
+      "english": "Drink water, stay hydrated.",
+      "dutch": "Drink water, blijf gehydrateerd.",
+      "transliteration": "Drink vah-ter, blighf ge-hy-dray-turd.",
+      "category": "Health",
+      "generated_at": "2026-07-03T03:40:18.992263"
+    },
+    {
+      "english": "Listen to your body.",
+      "dutch": "Luister naar je lichaam.",
+      "transliteration": "Loo-ster naar yuh lich-hahm.",
+      "category": "Health",
+      "generated_at": "2026-07-03T03:40:18.992265"
     }
   ],
-  "last_updated": "2026-07-02T21:07:08.390403"
+  "last_updated": "2026-07-03T03:40:18.992266"
 }
