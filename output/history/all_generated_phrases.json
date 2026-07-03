@@ -2729,7 +2729,42 @@
       "transliteration": "Een zeels-fer-vont, dat ben yai.",
       "category": "Friendship",
       "generated_at": "2026-07-03T14:09:35.253485"
+    },
+    {
+      "english": "On the dot, precisely.",
+      "dutch": "Stipt op tijd, precies.",
+      "transliteration": "Stipt op tijd, precies.",
+      "category": "Time",
+      "generated_at": "2026-07-03T15:47:02.798294"
+    },
+    {
+      "english": "Just in time, thankfully.",
+      "dutch": "Net op tijd, gelukkig.",
+      "transliteration": "Net op tijd, gelukkig.",
+      "category": "Time",
+      "generated_at": "2026-07-03T15:47:02.798302"
+    },
+    {
+      "english": "Long overdue, finally.",
+      "dutch": "Lang geleden, eindelijk.",
+      "transliteration": "Lang geleden, eindelijk.",
+      "category": "Time",
+      "generated_at": "2026-07-03T15:47:02.798304"
+    },
+    {
+      "english": "Not yet, still waiting.",
+      "dutch": "Nog niet, nog wachten.",
+      "transliteration": "Nog niet, nog wachten.",
+      "category": "Time",
+      "generated_at": "2026-07-03T15:47:02.798305"
+    },
+    {
+      "english": "At this hour, always.",
+      "dutch": "Op dit uur, altijd.",
+      "transliteration": "Op dit uur, altijd.",
+      "category": "Time",
+      "generated_at": "2026-07-03T15:47:02.798306"
     }
   ],
-  "last_updated": "2026-07-03T14:09:35.253487"
+  "last_updated": "2026-07-03T15:47:02.798308"
 }
