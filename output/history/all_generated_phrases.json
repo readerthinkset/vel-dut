@@ -2904,7 +2904,42 @@
       "transliteration": "Blik-sem flits, e-ven op.",
       "category": "Weather",
       "generated_at": "2026-07-04T13:37:19.781336"
+    },
+    {
+      "english": "Head towards, the tall clock tower.",
+      "dutch": "Ga richting, de hoge klokkentoren.",
+      "transliteration": "Gaa rikting, de hooge klokkentoren.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:56:47.257315"
+    },
+    {
+      "english": "Follow this path, until it bends.",
+      "dutch": "Volg dit pad, tot het buigt.",
+      "transliteration": "Volg dit paat, tot het buigt.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:56:47.257324"
+    },
+    {
+      "english": "Keep going, past the old church.",
+      "dutch": "Loop door, langs de oude kerk.",
+      "transliteration": "Loop door, langs de ouwe kerk.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:56:47.257326"
+    },
+    {
+      "english": "Bear slightly, to the east.",
+      "dutch": "Ga iets, naar het oosten.",
+      "transliteration": "Gaa iets, naar het oosten.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:56:47.257327"
+    },
+    {
+      "english": "Aim for, the red roof.",
+      "dutch": "Mik op, het rode dak.",
+      "transliteration": "Mick op, het rode dak.",
+      "category": "Directions",
+      "generated_at": "2026-07-04T14:56:47.257328"
     }
   ],
-  "last_updated": "2026-07-04T13:37:19.781337"
+  "last_updated": "2026-07-04T14:56:47.257330"
 }
