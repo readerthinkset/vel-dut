@@ -2834,7 +2834,42 @@
       "transliteration": "Om-arm het on-be-ken-de, ver-ken.",
       "category": "Courage",
       "generated_at": "2026-07-03T21:06:38.768228"
+    },
+    {
+      "english": "Help me, please, I'm lost.",
+      "dutch": "Help me, alsjeblieft, ik ben verdwaald.",
+      "transliteration": "Help meh, als-yeh-bleeft, ik ben fer-dwaald.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T03:33:44.713030"
+    },
+    {
+      "english": "I need a doctor, quickly.",
+      "dutch": "Ik heb een dokter nodig, snel.",
+      "transliteration": "Ik heb een dokter no-dik, snel.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T03:33:44.713039"
+    },
+    {
+      "english": "Is there a police station nearby?",
+      "dutch": "Is hier een politiebureau in de buurt?",
+      "transliteration": "Is heer een po-leet-see-bu-row in de boert?",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T03:33:44.713041"
+    },
+    {
+      "english": "Fire! Get out now!",
+      "dutch": "Brand! Ga nu naar buiten!",
+      "transliteration": "Brant! Ga noo naar bow-ten!",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T03:33:44.713042"
+    },
+    {
+      "english": "I feel very sick.",
+      "dutch": "Ik voel me erg ziek.",
+      "transliteration": "Ik fool meh erg zeek.",
+      "category": "Emergency",
+      "generated_at": "2026-07-04T03:33:44.713044"
     }
   ],
-  "last_updated": "2026-07-03T21:06:38.768230"
+  "last_updated": "2026-07-04T03:33:44.713045"
 }
