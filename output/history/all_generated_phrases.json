@@ -2939,7 +2939,42 @@
       "transliteration": "Mick op, het rode dak.",
       "category": "Directions",
       "generated_at": "2026-07-04T14:56:47.257328"
+    },
+    {
+      "english": "Hello there, lovely day!",
+      "dutch": "Hallo daar, fijne dag!",
+      "transliteration": "Hah-loh dahr, fai-nuh dahkh!",
+      "category": "Greetings",
+      "generated_at": "2026-07-04T18:06:42.651516"
+    },
+    {
+      "english": "Good morning, sunshine bright.",
+      "dutch": "Goedemorgen, zonnestraal.",
+      "transliteration": "Khoo-duh-mor-khuhn, zon-neh-strahl.",
+      "category": "Greetings",
+      "generated_at": "2026-07-04T18:06:42.651526"
+    },
+    {
+      "english": "Hey friend, what's new?",
+      "dutch": "Hé vriend, wat is er?",
+      "transliteration": "Hay vreen-t, vaht is er?",
+      "category": "Greetings",
+      "generated_at": "2026-07-04T18:06:42.651528"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "dutch": "Welkom, kom erin.",
+      "transliteration": "Vel-kom, kom eh-reen.",
+      "category": "Greetings",
+      "generated_at": "2026-07-04T18:06:42.651529"
+    },
+    {
+      "english": "Hi there, how are you?",
+      "dutch": "Hoi, hoe gaat het?",
+      "transliteration": "Hoy, khoo gaat het?",
+      "category": "Greetings",
+      "generated_at": "2026-07-04T18:06:42.651530"
     }
   ],
-  "last_updated": "2026-07-04T14:56:47.257330"
+  "last_updated": "2026-07-04T18:06:42.651532"
 }
