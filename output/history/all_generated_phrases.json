@@ -2869,7 +2869,42 @@
       "transliteration": "Ik fool meh erg zeek.",
       "category": "Emergency",
       "generated_at": "2026-07-04T03:33:44.713044"
+    },
+    {
+      "english": "A gentle mist, settles in.",
+      "dutch": "Een fijne nevel, daalt neer.",
+      "transliteration": "En fine nev-el, daalt neer.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T13:37:19.781323"
+    },
+    {
+      "english": "The air, feels crisp, and cool.",
+      "dutch": "De lucht, voelt fris, aan.",
+      "transliteration": "De luch, voelt fris, an.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T13:37:19.781332"
+    },
+    {
+      "english": "A sudden shower, passes quickly.",
+      "dutch": "Een plotselinge bui, trekt snel weg.",
+      "transliteration": "En plot-sel-ing-e buy, trekt snel veg.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T13:37:19.781333"
+    },
+    {
+      "english": "Thunder rumbles, far away.",
+      "dutch": "Donder rommelt, in de verte.",
+      "transliteration": "Don-der rom-melt, in de ver-te.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T13:37:19.781335"
+    },
+    {
+      "english": "Lightning flashes, briefly.",
+      "dutch": "Bliksem flitst, even op.",
+      "transliteration": "Blik-sem flits, e-ven op.",
+      "category": "Weather",
+      "generated_at": "2026-07-04T13:37:19.781336"
     }
   ],
-  "last_updated": "2026-07-04T03:33:44.713045"
+  "last_updated": "2026-07-04T13:37:19.781337"
 }
