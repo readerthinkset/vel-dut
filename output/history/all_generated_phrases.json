@@ -3324,7 +3324,42 @@
       "transliteration": "Die jurk, die is prachtig.",
       "category": "Clothes",
       "generated_at": "2026-07-06T19:00:07.853708"
+    },
+    {
+      "english": "One moment, in time.",
+      "dutch": "Eén moment, in de tijd.",
+      "transliteration": "Ein moh-ment, in de teit.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:22.141647"
+    },
+    {
+      "english": "Two paths, diverge here.",
+      "dutch": "Twee paden, splitsen hier.",
+      "transliteration": "Tway pah-den, spli-tsen heer.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:22.141654"
+    },
+    {
+      "english": "Three wishes, granted fast.",
+      "dutch": "Drie wensen, snel vervuld.",
+      "transliteration": "Dree ven-sen, snel fer-vuld.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:22.141655"
+    },
+    {
+      "english": "Four wheels, carry us far.",
+      "dutch": "Vier wielen, brengen ons ver.",
+      "transliteration": "Vier wee-len, bren-gen ons fer.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:22.141656"
+    },
+    {
+      "english": "Five stars, light the night.",
+      "dutch": "Vijf sterren, verlichten de nacht.",
+      "transliteration": "Vife ster-ren, ver-lich-ten de nacht.",
+      "category": "Numbers",
+      "generated_at": "2026-07-06T21:29:22.141658"
     }
   ],
-  "last_updated": "2026-07-06T19:00:07.853710"
+  "last_updated": "2026-07-06T21:29:22.141659"
 }
