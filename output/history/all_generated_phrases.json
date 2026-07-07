@@ -3394,7 +3394,42 @@
       "transliteration": "Wat een verrassing, vandaag!",
       "category": "Basic Phrases",
       "generated_at": "2026-07-07T03:49:54.275552"
+    },
+    {
+      "english": "The past, is a closed book.",
+      "dutch": "Het verleden, een gesloten boek.",
+      "transliteration": "Het ver-le-den, een ge-slo-ten boek.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-07T14:39:15.045325"
+    },
+    {
+      "english": "Let warmth, replace the hurt.",
+      "dutch": "Laat warmte, de pijn verdrijven.",
+      "transliteration": "Laat warm-te, de pijn ver-drij-ven.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-07T14:39:15.045338"
+    },
+    {
+      "english": "Shed the weight, feel lighter.",
+      "dutch": "Laat het gewicht los, voel je lichter.",
+      "transliteration": "Laat het ge-wicht los, voel je lich-ter.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-07T14:39:15.045339"
+    },
+    {
+      "english": "Open your heart, to calm.",
+      "dutch": "Open je hart, voor rust.",
+      "transliteration": "O-pen je hart, voor rust.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-07T14:39:15.045341"
+    },
+    {
+      "english": "A new dawn, is breaking.",
+      "dutch": "Een nieuwe dageraad, breekt aan.",
+      "transliteration": "Een nieu-we da-ge-raad, breekt aan.",
+      "category": "Forgiveness",
+      "generated_at": "2026-07-07T14:39:15.045342"
     }
   ],
-  "last_updated": "2026-07-07T03:49:54.275554"
+  "last_updated": "2026-07-07T14:39:15.045344"
 }
