@@ -3604,7 +3604,42 @@
       "transliteration": "Wat zit, in dit ge-recht?",
       "category": "Restaurant",
       "generated_at": "2026-07-08T18:22:46.998868"
+    },
+    {
+      "english": "You're building, with every word.",
+      "dutch": "Je bouwt, met elk woord.",
+      "transliteration": "Yuh bowt, met elk vooord.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T21:08:15.240577"
+    },
+    {
+      "english": "Your voice, Dutch will hear.",
+      "dutch": "Jouw stem, hoort het Nederlands.",
+      "transliteration": "Yowsteeem, hoort het Nee-der-lands.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T21:08:15.240586"
+    },
+    {
+      "english": "Embrace the challenge, bloom now.",
+      "dutch": "Omarm de uitdaging, bloei nu.",
+      "transliteration": "Om-arm de oyt-da-ching, bloy new.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T21:08:15.240587"
+    },
+    {
+      "english": "Listen closely, understand more.",
+      "dutch": "Luister goed, begrijp meer.",
+      "transliteration": "Loo-ster khoot, be-grayp mayr.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T21:08:15.240589"
+    },
+    {
+      "english": "Every attempt, brings you closer.",
+      "dutch": "Elke poging, brengt je dichterbij.",
+      "transliteration": "El-ke po-ching, brengt yuh dich-ter-bay.",
+      "category": "Confidence",
+      "generated_at": "2026-07-08T21:08:15.240590"
     }
   ],
-  "last_updated": "2026-07-08T18:22:46.998870"
+  "last_updated": "2026-07-08T21:08:15.240592"
 }
