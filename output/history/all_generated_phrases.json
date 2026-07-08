@@ -3569,7 +3569,42 @@
       "transliteration": "Buh-vus-tuh mo-men-ten, kal-mayr yuh hooft.",
       "category": "Health",
       "generated_at": "2026-07-08T15:57:06.905113"
+    },
+    {
+      "english": "Could we, perhaps, have the wine list?",
+      "dutch": "Mag ik, misschien, de wijnkaart?",
+      "transliteration": "Max ik, mis-chien, de vijn-kaart?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:22:46.998851"
+    },
+    {
+      "english": "This smells, wonderful, truly.",
+      "dutch": "Dit ruikt, heerlijk, echt waar.",
+      "transliteration": "Dit ruikt, heer-lijk, echt waar.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:22:46.998863"
+    },
+    {
+      "english": "Is this, very spicy?",
+      "dutch": "Is dit, erg pittig?",
+      "transliteration": "Is dit, erg pit-tig?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:22:46.998866"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "dutch": "Mijn complimenten, aan de kok.",
+      "transliteration": "Mijn kom-pli-men-ten, aan de kok.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:22:46.998867"
+    },
+    {
+      "english": "What's, in this dish?",
+      "dutch": "Wat zit, in dit gerecht?",
+      "transliteration": "Wat zit, in dit ge-recht?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-08T18:22:46.998868"
     }
   ],
-  "last_updated": "2026-07-08T15:57:06.905114"
+  "last_updated": "2026-07-08T18:22:46.998870"
 }
