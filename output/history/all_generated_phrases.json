@@ -3744,7 +3744,42 @@
       "transliteration": "Tohn may-duh-lay-fun, al-tite.",
       "category": "Kindness",
       "generated_at": "2026-07-09T16:20:30.693026"
+    },
+    {
+      "english": "A soft drizzle, mutes the world.",
+      "dutch": "Een zachte motregen, dempt de wereld.",
+      "transliteration": "Ein zah-hte moht-reh-ghen, demps de wer-reld.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:53:07.368727"
+    },
+    {
+      "english": "The wind, whispers secrets.",
+      "dutch": "De wind, fluistert geheimen.",
+      "transliteration": "Deh vind, fluhr-sturt geh-hay-men.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:53:07.368736"
+    },
+    {
+      "english": "Sunbeams, paint the fields gold.",
+      "dutch": "Zonnestralen, schilderen de velden goud.",
+      "transliteration": "Zoh-neh-strah-len, scil-duh-ren deh vel-den howt.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:53:07.368738"
+    },
+    {
+      "english": "Fog rolls in, like a blanket.",
+      "dutch": "Mist trekt op, als een deken.",
+      "transliteration": "Mist trekt op, als ein deh-ken.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:53:07.368739"
+    },
+    {
+      "english": "The air, smells of rain.",
+      "dutch": "De lucht, ruikt naar regen.",
+      "transliteration": "Deh luhct, ruykt naar reh-ghen.",
+      "category": "Weather",
+      "generated_at": "2026-07-09T18:53:07.368740"
     }
   ],
-  "last_updated": "2026-07-09T16:20:30.693027"
+  "last_updated": "2026-07-09T18:53:07.368742"
 }
