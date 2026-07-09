@@ -3779,7 +3779,42 @@
       "transliteration": "Deh luhct, ruykt naar reh-ghen.",
       "category": "Weather",
       "generated_at": "2026-07-09T18:53:07.368740"
+    },
+    {
+      "english": "My hand, it waves hello.",
+      "dutch": "Mijn hand, die zwaait gedag.",
+      "transliteration": "Mijn hant, dee zwaijt gedach.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:23:34.986449"
+    },
+    {
+      "english": "Her eyes, they sparkle bright.",
+      "dutch": "Haar ogen, die fonkelen fel.",
+      "transliteration": "Har oh-ghen, dee fon-ke-len fel.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:23:34.986457"
+    },
+    {
+      "english": "His leg, it kicks the ball.",
+      "dutch": "Zijn been, dat schopt de bal.",
+      "transliteration": "Zijn been, dat schopt dee bal.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:23:34.986459"
+    },
+    {
+      "english": "A nose, to smell the flowers.",
+      "dutch": "Een neus, om bloemen te ruiken.",
+      "transliteration": "Een neus, om blooh-men te ruy-ken.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:23:34.986461"
+    },
+    {
+      "english": "My ear, it hears a song.",
+      "dutch": "Mijn oor, dat hoort een lied.",
+      "transliteration": "Mijn oor, dat hoort een leet.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-09T21:23:34.986462"
     }
   ],
-  "last_updated": "2026-07-09T18:53:07.368742"
+  "last_updated": "2026-07-09T21:23:34.986463"
 }
