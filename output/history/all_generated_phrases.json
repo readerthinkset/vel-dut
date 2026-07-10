@@ -3884,7 +3884,42 @@
       "transliteration": "Zacht hart, krach-tih-guh dah-den.",
       "category": "Strength",
       "generated_at": "2026-07-10T14:30:57.058622"
+    },
+    {
+      "english": "A warm cookie, melts in mouth.",
+      "dutch": "Een warme koek, smelt in mond.",
+      "transliteration": "Een vahr-meh kook, smelt in mohnt.",
+      "category": "Food",
+      "generated_at": "2026-07-10T16:11:36.044566"
+    },
+    {
+      "english": "This fish, from the sea.",
+      "dutch": "Deze vis, uit de zee.",
+      "transliteration": "Deh-zeh vis, oyt deh zee.",
+      "category": "Food",
+      "generated_at": "2026-07-10T16:11:36.044590"
+    },
+    {
+      "english": "Fresh salad, crisp and green.",
+      "dutch": "Verse salade, knapperig en groen.",
+      "transliteration": "Fehr-seh sah-lah-deh, knah-preh-heeg en hroon.",
+      "category": "Food",
+      "generated_at": "2026-07-10T16:11:36.044591"
+    },
+    {
+      "english": "A tiny pastry, sweet surprise.",
+      "dutch": "Een klein gebakje, zoete verrassing.",
+      "transliteration": "Een klayn ghe-bahk-yeh, zoo-teh fehr-rahs-sing.",
+      "category": "Food",
+      "generated_at": "2026-07-10T16:11:36.044593"
+    },
+    {
+      "english": "Spicy curry, warms the soul.",
+      "dutch": "Pittige curry, verwarmt de ziel.",
+      "transliteration": "Pit-teh-ghe cur-ree, vehr-varmt deh zeel.",
+      "category": "Food",
+      "generated_at": "2026-07-10T16:11:36.044594"
     }
   ],
-  "last_updated": "2026-07-10T14:30:57.058623"
+  "last_updated": "2026-07-10T16:11:36.044596"
 }
