@@ -4094,7 +4094,42 @@
       "transliteration": "Breed glimlachen, van binnenuit.",
       "category": "Joy",
       "generated_at": "2026-07-11T14:43:27.013960"
+    },
+    {
+      "english": "This one, is lovely.",
+      "dutch": "Deze is prachtig.",
+      "transliteration": "Day-suh is-s prahk-tikh",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T17:58:36.275538"
+    },
+    {
+      "english": "Do you have, another size?",
+      "dutch": "Heeft u, een andere maat?",
+      "transliteration": "Hayft oo, ayn ahn-druh mah-t?",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T17:58:36.275547"
+    },
+    {
+      "english": "I need, a gift.",
+      "dutch": "Ik zoek, een cadeau.",
+      "transliteration": "Ik zook, ayn cah-doh.",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T17:58:36.275549"
+    },
+    {
+      "english": "Where can I, pay?",
+      "dutch": "Waar kan ik, betalen?",
+      "transliteration": "Wahr cahn ik, buh-tah-len?",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T17:58:36.275550"
+    },
+    {
+      "english": "This color, suits me.",
+      "dutch": "Deze kleur, staat me goed.",
+      "transliteration": "Day-suh kleur, staaht muh khoot.",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T17:58:36.275551"
     }
   ],
-  "last_updated": "2026-07-11T14:43:27.013961"
+  "last_updated": "2026-07-11T17:58:36.275553"
 }
