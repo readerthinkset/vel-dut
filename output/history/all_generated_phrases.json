@@ -4304,7 +4304,42 @@
       "transliteration": "Door dik en dun, zijn we er.",
       "category": "Relationships",
       "generated_at": "2026-07-12T18:02:25.244830"
+    },
+    {
+      "english": "Step this way, if you please.",
+      "dutch": "Stap deze kant op, alsjeblieft.",
+      "transliteration": "Stap deize kant op, alsjeblieft.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T20:48:25.051802"
+    },
+    {
+      "english": "Just around, that bend.",
+      "dutch": "Vlak om, die bocht heen.",
+      "transliteration": "Vlak om, dee bocht heen.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T20:48:25.051811"
+    },
+    {
+      "english": "Follow the cobblestones, a little further.",
+      "dutch": "Volg de kasseien, nog even.",
+      "transliteration": "Volg de kasseien, nog even.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T20:48:25.051813"
+    },
+    {
+      "english": "Take the next opening, on your right.",
+      "dutch": "Neem de volgende opening, rechts.",
+      "transliteration": "Neem de volgende opening, rechts.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T20:48:25.051814"
+    },
+    {
+      "english": "We'll head towards, the fountain.",
+      "dutch": "We gaan richting, de fontein.",
+      "transliteration": "We gaan richting, de fontein.",
+      "category": "Directions",
+      "generated_at": "2026-07-12T20:48:25.051815"
     }
   ],
-  "last_updated": "2026-07-12T18:02:25.244832"
+  "last_updated": "2026-07-12T20:48:25.051816"
 }
