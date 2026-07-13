@@ -4374,7 +4374,42 @@
       "transliteration": "Ont-gren-del Ned-er-lands, met ge-mak.",
       "category": "Success",
       "generated_at": "2026-07-13T02:37:16.371950"
+    },
+    {
+      "english": "The lion, roars mightily.",
+      "dutch": "De leeuw, brult krachtig.",
+      "transliteration": "De lew, brult krach-tig.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T03:25:57.821891"
+    },
+    {
+      "english": "A rabbit, twitches its nose.",
+      "dutch": "Een konijn, trekt zijn neus op.",
+      "transliteration": "En ko-nijn, trekt zijn neus op.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T03:25:57.821900"
+    },
+    {
+      "english": "The elephant, sprays water.",
+      "dutch": "De olifant, sproeit water.",
+      "transliteration": "De o-li-fant, sproeit wa-ter.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T03:25:57.821902"
+    },
+    {
+      "english": "A fox, sneaks quietly.",
+      "dutch": "Een vos, sluipt stilletjes.",
+      "transliteration": "En vos, sluipt stil-let-jes.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T03:25:57.821904"
+    },
+    {
+      "english": "The peacock, displays its tail.",
+      "dutch": "De pauw, pronkt met zijn staart.",
+      "transliteration": "De pauw, pronkt met zijn staart.",
+      "category": "Animals",
+      "generated_at": "2026-07-13T03:25:57.821905"
     }
   ],
-  "last_updated": "2026-07-13T02:37:16.371952"
+  "last_updated": "2026-07-13T03:25:57.821906"
 }
