@@ -4584,7 +4584,42 @@
       "transliteration": "Wat denk yai, vrient?",
       "category": "Basic Phrases",
       "generated_at": "2026-07-14T02:49:02.527922"
+    },
+    {
+      "english": "A quiet corner, for us, please.",
+      "dutch": "Een rustig hoekje, voor ons, graag.",
+      "transliteration": "Een rustig hoekje, voor ons, graag.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:48:37.082645"
+    },
+    {
+      "english": "Is there, a vegan option?",
+      "dutch": "Is er, een veganistische optie?",
+      "transliteration": "Is er, een veganistische optie?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:48:37.082656"
+    },
+    {
+      "english": "This dish, has nuts, right?",
+      "dutch": "Dit gerecht, bevat noten, toch?",
+      "transliteration": "Dit gerecht, bevat noten, toch?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:48:37.082658"
+    },
+    {
+      "english": "Could we, share this starter?",
+      "dutch": "Mogen we, dit voorgerecht delen?",
+      "transliteration": "Mogen we, dit voorgerecht delen?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:48:37.082659"
+    },
+    {
+      "english": "Just a little, something light.",
+      "dutch": "Gewoon iets, kleins, lichts.",
+      "transliteration": "Gewoon iets, kleins, lichts.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-14T13:48:37.082659"
     }
   ],
-  "last_updated": "2026-07-14T02:49:02.527924"
+  "last_updated": "2026-07-14T13:48:37.082661"
 }
