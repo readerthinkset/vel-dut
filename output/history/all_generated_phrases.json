@@ -4549,7 +4549,42 @@
       "transliteration": "Ons plahn, is steh-vikh.",
       "category": "Work",
       "generated_at": "2026-07-13T20:57:03.101168"
+    },
+    {
+      "english": "This is nice, really.",
+      "dutch": "Dit is fijn, echt.",
+      "transliteration": "Dit is fijn, echt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-14T02:49:02.527906"
+    },
+    {
+      "english": "Let's go, now.",
+      "dutch": "Laten we gaan, nu.",
+      "transliteration": "Laaten we gaann, nu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-14T02:49:02.527918"
+    },
+    {
+      "english": "That sounds good, yes.",
+      "dutch": "Dat klinkt goed, ja.",
+      "transliteration": "Dat klinkt goot, ya.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-14T02:49:02.527920"
+    },
+    {
+      "english": "I understand, a little.",
+      "dutch": "Ik begrijp het, een beetje.",
+      "transliteration": "Ik be-grijf het, een beet-ye.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-14T02:49:02.527921"
+    },
+    {
+      "english": "What do you think, friend?",
+      "dutch": "Wat denk jij, vriend?",
+      "transliteration": "Wat denk yai, vrient?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-14T02:49:02.527922"
     }
   ],
-  "last_updated": "2026-07-13T20:57:03.101170"
+  "last_updated": "2026-07-14T02:49:02.527924"
 }
