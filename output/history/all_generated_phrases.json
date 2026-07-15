@@ -4724,7 +4724,42 @@
       "transliteration": "Dit mo-ment, een zach-tuh lan-ding.",
       "category": "Mindfulness",
       "generated_at": "2026-07-14T21:00:19.351732"
+    },
+    {
+      "english": "The quiet moss, grows on stone.",
+      "dutch": "Het stille mos, groeit op steen.",
+      "transliteration": "Het stille mos, groeit op steen.",
+      "category": "Nature",
+      "generated_at": "2026-07-15T02:47:42.532240"
+    },
+    {
+      "english": "Dewdrops gleam, on spiderwebs.",
+      "dutch": "Dauwdropjes glanzen, op spinnenwebben.",
+      "transliteration": "Dauwdropjes glanzen, op spinnenwebben.",
+      "category": "Nature",
+      "generated_at": "2026-07-15T02:47:42.532251"
+    },
+    {
+      "english": "A lone hawk, circles high.",
+      "dutch": "Een eenzame havik, cirkelt hoog.",
+      "transliteration": "Een eenzame havik, cirkelt hoog.",
+      "category": "Nature",
+      "generated_at": "2026-07-15T02:47:42.532253"
+    },
+    {
+      "english": "Cracked earth, thirsts for rain.",
+      "dutch": "Gebarsten aarde, dorst naar regen.",
+      "transliteration": "Gebarsten aarde, dorst naar regen.",
+      "category": "Nature",
+      "generated_at": "2026-07-15T02:47:42.532255"
+    },
+    {
+      "english": "The ancient oak, stands so strong.",
+      "dutch": "De oude eik, staat zo sterk.",
+      "transliteration": "De oude eik, staat zo sterk.",
+      "category": "Nature",
+      "generated_at": "2026-07-15T02:47:42.532256"
     }
   ],
-  "last_updated": "2026-07-14T21:00:19.351733"
+  "last_updated": "2026-07-15T02:47:42.532258"
 }
