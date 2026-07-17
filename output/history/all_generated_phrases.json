@@ -5074,7 +5074,42 @@
       "transliteration": "De hem-el, huilt, met zacht-e tra-nen.",
       "category": "Weather",
       "generated_at": "2026-07-17T13:41:55.658786"
+    },
+    {
+      "english": "My bag, it's gone!",
+      "dutch": "Mijn tas, hij is weg!",
+      "transliteration": "Main tas, high iss wekh!",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T18:11:22.564370"
+    },
+    {
+      "english": "I can't breathe, help!",
+      "dutch": "Ik krijg geen lucht, help!",
+      "transliteration": "Ik kraykh ghayn luch, help!",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T18:11:22.564379"
+    },
+    {
+      "english": "Someone's following me.",
+      "dutch": "Iemand volgt mij.",
+      "transliteration": "Eemahnt folkh may.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T18:11:22.564381"
+    },
+    {
+      "english": "My phone, it died.",
+      "dutch": "Mijn telefoon, hij is leeg.",
+      "transliteration": "Main taylayfohn, high iss laykh.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T18:11:22.564382"
+    },
+    {
+      "english": "I need water, now.",
+      "dutch": "Ik heb water nodig, nu.",
+      "transliteration": "Ik heb wah-ter no-dikh, new.",
+      "category": "Emergency",
+      "generated_at": "2026-07-17T18:11:22.564383"
     }
   ],
-  "last_updated": "2026-07-17T13:41:55.658788"
+  "last_updated": "2026-07-17T18:11:22.564384"
 }
