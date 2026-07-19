@@ -5354,7 +5354,42 @@
       "transliteration": "Gah fer-der, by duh bahk-uh-rye.",
       "category": "Directions",
       "generated_at": "2026-07-19T03:18:55.642855"
+    },
+    {
+      "english": "This scarf, feels so soft.",
+      "dutch": "Deze sjaal, voelt zo zacht.",
+      "transliteration": "Deh-zuh shaahl, voold zo zaacht.",
+      "category": "Clothes",
+      "generated_at": "2026-07-19T13:22:00.617040"
+    },
+    {
+      "english": "My new hat, keeps me warm.",
+      "dutch": "Mijn nieuwe hoed, houdt me warm.",
+      "transliteration": "Mein nee-vuh hood, howt muh varm.",
+      "category": "Clothes",
+      "generated_at": "2026-07-19T13:22:00.617049"
+    },
+    {
+      "english": "These socks, are a bit tight.",
+      "dutch": "Deze sokken, zitten wat krap.",
+      "transliteration": "Deh-zuh sok-ken, zit-ten vaht krap.",
+      "category": "Clothes",
+      "generated_at": "2026-07-19T13:22:00.617051"
+    },
+    {
+      "english": "Your sweater, looks really cozy.",
+      "dutch": "Jouw trui, ziet er lekker uit.",
+      "transliteration": "Yow tray, zeet er lek-ker oyt.",
+      "category": "Clothes",
+      "generated_at": "2026-07-19T13:22:00.617052"
+    },
+    {
+      "english": "Such a bold tie, for today.",
+      "dutch": "Zo'n opvallende stropdas, voor vandaag.",
+      "transliteration": "Zohn op-vaah-len-duh strop-das, for fan-dahg.",
+      "category": "Clothes",
+      "generated_at": "2026-07-19T13:22:00.617054"
     }
   ],
-  "last_updated": "2026-07-19T03:18:55.642856"
+  "last_updated": "2026-07-19T13:22:00.617055"
 }
