@@ -5459,7 +5459,42 @@
       "transliteration": "Zons-op-gang tin-tuhn, slah-peh-ri-guh dor-puhn.",
       "category": "Holidays",
       "generated_at": "2026-07-19T18:02:13.067627"
+    },
+    {
+      "english": "Dawn's light, slowly breaks.",
+      "dutch": "De ochtend gloort, zachtjes.\n",
+      "transliteration": "Deh okh-tent glohert, zakh-tjes.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:48:08.071289"
+    },
+    {
+      "english": "Midday sun, shines brightly.",
+      "dutch": "Middagzon, schijnt fel.\n",
+      "transliteration": "Mid-dakh-zon, skhine feet.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:48:08.071299"
+    },
+    {
+      "english": "Twilight hush, descends now.",
+      "dutch": "Schemering valt, langzaam.\n",
+      "transliteration": "Skhey-mer-ing val, lang-zahm.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:48:08.071300"
+    },
+    {
+      "english": "Midnight oil, burning late.",
+      "dutch": "Middernacht olie, brandt lang.\n",
+      "transliteration": "Mid-der-nakh o-lie, brant lang.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:48:08.071302"
+    },
+    {
+      "english": "Seasons turn, each year.",
+      "dutch": "Seizoenen wisselen, elk jaar.\n",
+      "transliteration": "Se-zoo-nen vis-se-len, elk yahr.",
+      "category": "Time",
+      "generated_at": "2026-07-19T20:48:08.071303"
     }
   ],
-  "last_updated": "2026-07-19T18:02:13.067628"
+  "last_updated": "2026-07-19T20:48:08.071305"
 }
