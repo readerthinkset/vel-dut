@@ -5319,7 +5319,42 @@
       "transliteration": "om-arm het on-fer-vakh-tuh, al-tyt.",
       "category": "Common Expressions",
       "generated_at": "2026-07-18T20:47:31.568471"
+    },
+    {
+      "english": "Venture this way, past the market.",
+      "dutch": "Ga deze kant op, langs de markt.",
+      "transliteration": "Gah day-zuh kahn-t op, lahngs duh mahrt.",
+      "category": "Directions",
+      "generated_at": "2026-07-19T03:18:55.642839"
+    },
+    {
+      "english": "Veer slightly, toward the river.",
+      "dutch": "Stuur een beetje, naar de rivier.",
+      "transliteration": "Steer an bay-chuh, naar duh rih-feer.",
+      "category": "Directions",
+      "generated_at": "2026-07-19T03:18:55.642850"
+    },
+    {
+      "english": "Seek the blue door, on your right.",
+      "dutch": "Zoek de blauwe deur, aan je rechterkant.",
+      "transliteration": "Zook duh blow-wuh dehr, ahn yuh rek-tur-kahnt.",
+      "category": "Directions",
+      "generated_at": "2026-07-19T03:18:55.642852"
+    },
+    {
+      "english": "Follow the canal, to the bridge.",
+      "dutch": "Volg het kanaal, naar de brug.",
+      "transliteration": "Fol-luh het kah-nah-ul, naar duh brugh.",
+      "category": "Directions",
+      "generated_at": "2026-07-19T03:18:55.642853"
+    },
+    {
+      "english": "Continue onward, near the bakery.",
+      "dutch": "Ga verder, bij de bakkerij.",
+      "transliteration": "Gah fer-der, by duh bahk-uh-rye.",
+      "category": "Directions",
+      "generated_at": "2026-07-19T03:18:55.642855"
     }
   ],
-  "last_updated": "2026-07-18T20:47:31.568473"
+  "last_updated": "2026-07-19T03:18:55.642856"
 }
