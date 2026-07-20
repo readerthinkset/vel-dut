@@ -5494,7 +5494,42 @@
       "transliteration": "Se-zoo-nen vis-se-len, elk yahr.",
       "category": "Time",
       "generated_at": "2026-07-19T20:48:08.071303"
+    },
+    {
+      "english": "A tiny treat, truly delicious.",
+      "dutch": "Een klein snoepje, echt lekker.",
+      "transliteration": "Un kline snoep-yeh, echt lek-ker.",
+      "category": "Food",
+      "generated_at": "2026-07-20T03:33:22.331062"
+    },
+    {
+      "english": "This fruit, so vibrant.",
+      "dutch": "Dit fruit, zo levendig.",
+      "transliteration": "Dit früt, zo leh-ven-dikh.",
+      "category": "Food",
+      "generated_at": "2026-07-20T03:33:22.331071"
+    },
+    {
+      "english": "Warm stew, fills me up.",
+      "dutch": "Warme stoofpot, vult me.",
+      "transliteration": "War-meh stoof-pot, vult meh.",
+      "category": "Food",
+      "generated_at": "2026-07-20T03:33:22.331073"
+    },
+    {
+      "english": "A crispy wafer, light indeed.",
+      "dutch": "Een knapperige wafel, lichtjes hoor.",
+      "transliteration": "Un knap-per-ikh vah-fel, lich-tjes hoor.",
+      "category": "Food",
+      "generated_at": "2026-07-20T03:33:22.331074"
+    },
+    {
+      "english": "Spicy peppers, makes me sweat.",
+      "dutch": "Pittige pepers, ik zweet ervan.",
+      "transliteration": "Pit-tigh peh-pers, ik zwet er-van.",
+      "category": "Food",
+      "generated_at": "2026-07-20T03:33:22.331075"
     }
   ],
-  "last_updated": "2026-07-19T20:48:08.071305"
+  "last_updated": "2026-07-20T03:33:22.331077"
 }
