@@ -5739,7 +5739,42 @@
       "transliteration": "Deel je ver-ha-len, in het Ne-der-lands.",
       "category": "Purpose",
       "generated_at": "2026-07-21T13:55:42.737210"
+    },
+    {
+      "english": "The arm, reaches out, for help.",
+      "dutch": "De arm, strekt zich uit, voor hulp.",
+      "transliteration": "duh arm, strekt zich uit, for help.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-21T15:28:07.708908"
+    },
+    {
+      "english": "A foot, taps the beat.",
+      "dutch": "Een voet, tikt de maat.",
+      "transliteration": "en foet, tikt duh maat.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-21T15:28:07.708923"
+    },
+    {
+      "english": "My head, nods, in agreement.",
+      "dutch": "Mijn hoofd, knikt, van ja.",
+      "transliteration": "mijn hoofst, knikt, van ja.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-21T15:28:07.708925"
+    },
+    {
+      "english": "Her mouth, smiles, a warm welcome.",
+      "dutch": "Haar mond, lacht, een welkom.",
+      "transliteration": "har moont, lacht, en welkom.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-21T15:28:07.708927"
+    },
+    {
+      "english": "His shoulder, shrugs, a question.",
+      "dutch": "Zijn schouder, haalt op, een vraag.",
+      "transliteration": "zijn schouder, haalt op, en vraag.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-21T15:28:07.708929"
     }
   ],
-  "last_updated": "2026-07-21T13:55:42.737212"
+  "last_updated": "2026-07-21T15:28:07.708931"
 }
