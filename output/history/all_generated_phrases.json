@@ -5844,7 +5844,42 @@
       "transliteration": "Bowy an brugh, steyk oh-ver.",
       "category": "Courage",
       "generated_at": "2026-07-21T21:09:43.446418"
+    },
+    {
+      "english": "Your Dutch, it's taking flight.",
+      "dutch": "Je Nederlands, het krijgt vleugels.",
+      "transliteration": "Yeh nether-lands, het kregt vleu-gels.",
+      "category": "Success",
+      "generated_at": "2026-07-22T02:57:19.079081"
+    },
+    {
+      "english": "New words, like treasures found.",
+      "dutch": "Nieuwe woorden, schatten gevonden.",
+      "transliteration": "Nee-wuh voor-den, schat-ten ge-von-den.",
+      "category": "Success",
+      "generated_at": "2026-07-22T02:57:19.079090"
+    },
+    {
+      "english": "Soon, Dutch sounds natural.",
+      "dutch": "Straks klinkt Nederlands vertrouwd.",
+      "transliteration": "Straks klinkt nether-lands ver-trouwd.",
+      "category": "Success",
+      "generated_at": "2026-07-22T02:57:19.079092"
+    },
+    {
+      "english": "Each lesson, a new door opens.",
+      "dutch": "Elke les, een nieuwe deur.",
+      "transliteration": "El-kuh les, ein nee-wuh deur.",
+      "category": "Success",
+      "generated_at": "2026-07-22T02:57:19.079093"
+    },
+    {
+      "english": "You're building, brick by brick.",
+      "dutch": "Je bouwt, steen voor steen.",
+      "transliteration": "Yeh bouwt, steen voor steen.",
+      "category": "Success",
+      "generated_at": "2026-07-22T02:57:19.079095"
     }
   ],
-  "last_updated": "2026-07-21T21:09:43.446420"
+  "last_updated": "2026-07-22T02:57:19.079096"
 }
