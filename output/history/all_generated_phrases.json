@@ -5984,7 +5984,42 @@
       "transliteration": "BOW BRU-ghen, met ver-BEEL-ding.",
       "category": "Creativity",
       "generated_at": "2026-07-22T18:13:15.706208"
+    },
+    {
+      "english": "This cheese, is delicious.",
+      "dutch": "Deze kaas, is heerlijk.",
+      "transliteration": "Deh-suh kahs, is heer-luk.",
+      "category": "Travel",
+      "generated_at": "2026-07-22T21:09:25.482131"
+    },
+    {
+      "english": "A moment, please.",
+      "dutch": "Een ogenblik, alstublieft.",
+      "transliteration": "Een oh-gen-blik, ahlst-oo-bleeft.",
+      "category": "Travel",
+      "generated_at": "2026-07-22T21:09:25.482139"
+    },
+    {
+      "english": "What a beautiful canal.",
+      "dutch": "Wat een mooie gracht.",
+      "transliteration": "Vaht een mooy-uh grahkt.",
+      "category": "Travel",
+      "generated_at": "2026-07-22T21:09:25.482141"
+    },
+    {
+      "english": "May I have the bill?",
+      "dutch": "Mag ik de rekening?",
+      "transliteration": "Mahg ik deh ray-kuh-ning?",
+      "category": "Travel",
+      "generated_at": "2026-07-22T21:09:25.482142"
+    },
+    {
+      "english": "This town, is charming.",
+      "dutch": "Dit stadje, is charmant.",
+      "transliteration": "Dit staht-juh, is shar-mahnt.",
+      "category": "Travel",
+      "generated_at": "2026-07-22T21:09:25.482144"
     }
   ],
-  "last_updated": "2026-07-22T18:13:15.706209"
+  "last_updated": "2026-07-22T21:09:25.482145"
 }
