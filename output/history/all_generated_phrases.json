@@ -6054,7 +6054,42 @@
       "transliteration": "Wais un zachteh ahn-vaze-igh-heit, al-tait.",
       "category": "Kindness",
       "generated_at": "2026-07-23T03:19:14.681817"
+    },
+    {
+      "english": "Greetings, fellow traveler.",
+      "dutch": "Groeten, medereiziger.",
+      "transliteration": "Groh-ten, meh-duh-ray-zee-ger.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T09:27:31.167862"
+    },
+    {
+      "english": "A fine day, isn't it?",
+      "dutch": "Een mooie dag, hè?",
+      "transliteration": "Een moy-eh dack, heh?",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T09:27:31.167870"
+    },
+    {
+      "english": "Bright skies, happy soul.",
+      "dutch": "Zonnige luchten, blije ziel.",
+      "transliteration": "Zon-ni-ge luch-ten, blay-eh zeel.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T09:27:31.167871"
+    },
+    {
+      "english": "A warm welcome, indeed.",
+      "dutch": "Een warm welkom, zeker.",
+      "transliteration": "Een warm vel-kom, seh-ker.",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T09:27:31.167873"
+    },
+    {
+      "english": "How goes it, new friend?",
+      "dutch": "Hoe gaat het, nieuwe vriend?",
+      "transliteration": "Hoo gaat het, nee-vuh vree-nt?",
+      "category": "Greetings",
+      "generated_at": "2026-07-23T09:27:31.167874"
     }
   ],
-  "last_updated": "2026-07-23T03:19:14.681819"
+  "last_updated": "2026-07-23T09:27:31.167876"
 }
