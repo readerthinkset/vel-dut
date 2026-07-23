@@ -6264,7 +6264,42 @@
       "transliteration": "Elk geluid, een nieuwe verbinding.",
       "category": "Motivation",
       "generated_at": "2026-07-23T13:36:06.116652"
+    },
+    {
+      "english": "Sky, a soft grey, today.",
+      "dutch": "Lucht, een zacht grijs, vandaag.",
+      "transliteration": "Lucht, un zacht greys, vahn-dag.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T14:04:50.614353"
+    },
+    {
+      "english": "Sun peeks, through the clouds.",
+      "dutch": "Zon gluurt, door de wolken.",
+      "transliteration": "Zon gloert, door de wol-ken.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T14:04:50.614362"
+    },
+    {
+      "english": "A light breeze, tickles my face.",
+      "dutch": "Een lichte bries, kietelt mijn gezicht.",
+      "transliteration": "Un licht-uh brees, keet-elt mine ge-zicht.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T14:04:50.614378"
+    },
+    {
+      "english": "The air, smells like damp earth.",
+      "dutch": "De lucht, ruikt naar vochtige aarde.",
+      "transliteration": "De lucht, ruykt naar vocht-i-guh aar-duh.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T14:04:50.614379"
+    },
+    {
+      "english": "Sudden downpour, we run inside.",
+      "dutch": "Plotselinge stortbui, we rennen naar binnen.",
+      "transliteration": "Plots-eling-uh stort-buy, we ren-nen naar bin-nen.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T14:04:50.614380"
     }
   ],
-  "last_updated": "2026-07-23T13:36:06.116656"
+  "last_updated": "2026-07-23T14:04:50.614382"
 }
