@@ -6334,7 +6334,42 @@
       "transliteration": "Vind je ritme, dans vrij.",
       "category": "Happiness",
       "generated_at": "2026-07-23T15:46:44.650285"
+    },
+    {
+      "english": "A cup of coffee, chat.",
+      "dutch": "Koffie, gezellig babbelen.",
+      "transliteration": "Kof-ee, ge-zel-lig bab-bel-len.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:17:19.983113"
+    },
+    {
+      "english": "Always got my back.",
+      "dutch": "Steun me, altijd.",
+      "transliteration": "Stoon me, al-teet.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:17:19.983122"
+    },
+    {
+      "english": "You make things better.",
+      "dutch": "Jij, maakt 't mooier.",
+      "transliteration": "Yee, maakt 't moy-er.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:17:19.983124"
+    },
+    {
+      "english": "Good times, good company.",
+      "dutch": "Leuke tijden, goed gezelschap.",
+      "transliteration": "Loe-kuh tie-den, goot ge-zel-schap.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:17:19.983125"
+    },
+    {
+      "english": "Our bond, grows stronger.",
+      "dutch": "Onze band, sterker groeien.",
+      "transliteration": "On-zuh bond, ster-ker hgro-ee-en.",
+      "category": "Friendship",
+      "generated_at": "2026-07-23T18:17:19.983127"
     }
   ],
-  "last_updated": "2026-07-23T15:46:44.650286"
+  "last_updated": "2026-07-23T18:17:19.983128"
 }
