@@ -6404,7 +6404,42 @@
       "transliteration": "Bouw je spar-var-ken, lang-zaam.",
       "category": "Finance",
       "generated_at": "2026-07-23T21:06:17.885980"
+    },
+    {
+      "english": "My keys, are they here?",
+      "dutch": "Mijn sleutels, zijn ze hier?",
+      "transliteration": "Mein sleu-tels, zain ze heer?",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T00:15:24.186964"
+    },
+    {
+      "english": "I need a quiet, place, please.",
+      "dutch": "Ik wil graag, een rustige plek.",
+      "transliteration": "Ik wil graug, ain roos-ti-ge pleck.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T00:15:24.186974"
+    },
+    {
+      "english": "This is an, urgent, matter.",
+      "dutch": "Dit is een, dringende, zaak.",
+      "transliteration": "Dit is ain, drin-gen-de, zaak.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T00:15:24.186976"
+    },
+    {
+      "english": "Can you help, with this, quickly?",
+      "dutch": "Kunt u helpen, hiermee, snel?",
+      "transliteration": "Kunt u hel-pen, heer-may, snel?",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T00:15:24.186977"
+    },
+    {
+      "english": "Where is the, nearest, embassy?",
+      "dutch": "Waar is de, dichtstbijzijnde, ambassade?",
+      "transliteration": "Vwaar is de, dichtst-bai-zain-de, am-ba-sa-de?",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T00:15:24.186978"
     }
   ],
-  "last_updated": "2026-07-23T21:06:17.885982"
+  "last_updated": "2026-07-24T00:15:24.186979"
 }
