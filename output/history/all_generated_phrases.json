@@ -6579,7 +6579,42 @@
       "transliteration": "Om-arm de taal, voel de vreug-de.",
       "category": "Education",
       "generated_at": "2026-07-24T13:49:14.590654"
+    },
+    {
+      "english": "Morning arrives, softly.",
+      "dutch": "Ochtend komt, zachtjes aan.",
+      "transliteration": "Okh-tuhnt komts, zakh-tyuhs ahn.",
+      "category": "Time",
+      "generated_at": "2026-07-24T15:19:44.644560"
+    },
+    {
+      "english": "Daylight fades, slowly.",
+      "dutch": "Daglicht vervaagt, langzaam.",
+      "transliteration": "Dakh-likht fur-fakhgt, lang-zahm.",
+      "category": "Time",
+      "generated_at": "2026-07-24T15:19:44.644571"
+    },
+    {
+      "english": "Evening falls, peacefully.",
+      "dutch": "Avond valt, vredig neer.",
+      "transliteration": "Ah-vohnt falts, vray-dikh neer.",
+      "category": "Time",
+      "generated_at": "2026-07-24T15:19:44.644573"
+    },
+    {
+      "english": "Night descends, quietly.",
+      "dutch": "Nacht daalt, stil en zacht.",
+      "transliteration": "Nakh't dahlt, stil en zakh't.",
+      "category": "Time",
+      "generated_at": "2026-07-24T15:19:44.644574"
+    },
+    {
+      "english": "This moment, holds promise.",
+      "dutch": "Dit ogenblik, belooft veel.",
+      "transliteration": "Dit oh-ghuh-blik, buh-lohft feel.",
+      "category": "Time",
+      "generated_at": "2026-07-24T15:19:44.644576"
     }
   ],
-  "last_updated": "2026-07-24T13:49:14.590657"
+  "last_updated": "2026-07-24T15:19:44.644577"
 }
