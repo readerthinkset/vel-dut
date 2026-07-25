@@ -6719,7 +6719,42 @@
       "transliteration": "Woord-en ver-bin-den, echt.",
       "category": "Success",
       "generated_at": "2026-07-25T14:54:07.032451"
+    },
+    {
+      "english": "A little thumb, points the way.",
+      "dutch": "Een kleine duim, wijst de weg.",
+      "transliteration": "Een klei-ne duym, wijst de veg.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T18:01:26.528790"
+    },
+    {
+      "english": "His index finger, traces a line.",
+      "dutch": "Zijn wijsvinger, trekt een lijn.",
+      "transliteration": "Zijn wijs-vin-ger, trekt een lein.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T18:01:26.528800"
+    },
+    {
+      "english": "Her middle finger, taps the table.",
+      "dutch": "Haar middelvinger, tikt de tafel.",
+      "transliteration": "Haar mid-del-vin-ger, tikt de ta-fel.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T18:01:26.528801"
+    },
+    {
+      "english": "A ring finger, adorned with gold.",
+      "dutch": "Een ringvinger, versierd met goud.",
+      "transliteration": "Een ring-vin-ger, ver-sierd met goud.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T18:01:26.528803"
+    },
+    {
+      "english": "The little pinky, wiggles with glee.",
+      "dutch": "De pink, wiebelt van plezier.",
+      "transliteration": "De pink, wie-belt van ple-zier.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-25T18:01:26.528804"
     }
   ],
-  "last_updated": "2026-07-25T14:54:07.032453"
+  "last_updated": "2026-07-25T18:01:26.528805"
 }
