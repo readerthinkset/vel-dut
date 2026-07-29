@@ -7139,7 +7139,42 @@
       "transliteration": "Laat goedheid, gewoon stromen.",
       "category": "Kindness",
       "generated_at": "2026-07-29T02:56:39.705818"
+    },
+    {
+      "english": "Sun shines, birds sing.",
+      "dutch": "De zon schijnt, vogels zingen.",
+      "transliteration": "duh zon shinet, vo-gels zin-gen",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:13:20.225686"
+    },
+    {
+      "english": "Night falls, stars appear.",
+      "dutch": "De nacht valt, sterren verschijnen.",
+      "transliteration": "duh nacht valt, ster-ren ver-shai-nen",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:13:20.225696"
+    },
+    {
+      "english": "Rain pounds, earth drinks.",
+      "dutch": "Regen slaat, aarde drinkt.",
+      "transliteration": "re-gen slaat, aar-duh drinkt",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:13:20.225698"
+    },
+    {
+      "english": "Wind blows, leaves dance.",
+      "dutch": "Wind waait, bladeren dansen.",
+      "transliteration": "vint wai-t, bla-der-en dan-sen",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:13:20.225699"
+    },
+    {
+      "english": "Wave crashes, shore waits.",
+      "dutch": "Golf slaat, kust wacht.",
+      "transliteration": "golf slaat, kust wacht",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-29T14:13:20.225700"
     }
   ],
-  "last_updated": "2026-07-29T02:56:39.705820"
+  "last_updated": "2026-07-29T14:13:20.225702"
 }
