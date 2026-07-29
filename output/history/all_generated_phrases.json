@@ -7244,7 +7244,42 @@
       "transliteration": "Het doel in zicht, we be-we-gen.",
       "category": "Work",
       "generated_at": "2026-07-29T18:10:57.279194"
+    },
+    {
+      "english": "Heavy rain, drumming, on the roof.",
+      "dutch": "Zware regen, tikt, op het dak.",
+      "transliteration": "Zah-vuh reh-ghun, tikt, op het dak.",
+      "category": "Weather",
+      "generated_at": "2026-07-29T20:55:45.325086"
+    },
+    {
+      "english": "A chilling wind, bites, my cheeks.",
+      "dutch": "Een snijdende wind, bijt, in mijn wangen.",
+      "transliteration": "Een snai-dun-duh vh-int, bait, in main va-ngun.",
+      "category": "Weather",
+      "generated_at": "2026-07-29T20:55:45.325097"
+    },
+    {
+      "english": "The sun, is hiding, today.",
+      "dutch": "De zon, verstopt zich, vandaag.",
+      "transliteration": "De zon, ver-stopt zich, fan-dahkh.",
+      "category": "Weather",
+      "generated_at": "2026-07-29T20:55:45.325099"
+    },
+    {
+      "english": "A rainbow, arches, over the field.",
+      "dutch": "Een regenboog, spant zich, over het veld.",
+      "transliteration": "Een reh-ghun-bohkh, spant zich, oh-ver het velt.",
+      "category": "Weather",
+      "generated_at": "2026-07-29T20:55:45.325100"
+    },
+    {
+      "english": "The air, thickens, with humidity.",
+      "dutch": "De lucht, wordt zwaar, door vochtigheid.",
+      "transliteration": "De loocht, voort zwaar, door vocht-i-khait.",
+      "category": "Weather",
+      "generated_at": "2026-07-29T20:55:45.325101"
     }
   ],
-  "last_updated": "2026-07-29T18:10:57.279196"
+  "last_updated": "2026-07-29T20:55:45.325103"
 }
