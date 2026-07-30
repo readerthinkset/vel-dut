@@ -7279,7 +7279,42 @@
       "transliteration": "De loocht, voort zwaar, door vocht-i-khait.",
       "category": "Weather",
       "generated_at": "2026-07-29T20:55:45.325101"
+    },
+    {
+      "english": "My wallet, it's vanished.",
+      "dutch": "Mijn portemonnee, die is weg.",
+      "transliteration": "Mijn por-te-mo-nee, die is weg.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T02:42:25.186560"
+    },
+    {
+      "english": "I need, immediate, assistance.",
+      "dutch": "Ik heb, directe, hulp nodig.",
+      "transliteration": "Ik heb, di-rec-te, hulp no-dig.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T02:42:25.186570"
+    },
+    {
+      "english": "This is, an emergency, situation.",
+      "dutch": "Dit is, een noodsituatie, echt waar.",
+      "transliteration": "Dit is, een noot-si-tu-a-tie, echt waar.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T02:42:25.186572"
+    },
+    {
+      "english": "Where am I, exactly?",
+      "dutch": "Waar ben ik, precies?",
+      "transliteration": "Waar ben ik, pre-cies?",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T02:42:25.186574"
+    },
+    {
+      "english": "I've lost, my bearings.",
+      "dutch": "Ik ben, de weg kwijt.",
+      "transliteration": "Ik ben, de weg kwijt.",
+      "category": "Emergency",
+      "generated_at": "2026-07-30T02:42:25.186575"
     }
   ],
-  "last_updated": "2026-07-29T20:55:45.325103"
+  "last_updated": "2026-07-30T02:42:25.186577"
 }
