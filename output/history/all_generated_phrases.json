@@ -7314,7 +7314,42 @@
       "transliteration": "Ik ben, de weg kwijt.",
       "category": "Emergency",
       "generated_at": "2026-07-30T02:42:25.186575"
+    },
+    {
+      "english": "One apple, a day's delight.",
+      "dutch": "Eén appel, per dag heerlijk.",
+      "transliteration": "Ehn ah-pel, per dahkh heer-lik.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T15:45:27.673573"
+    },
+    {
+      "english": "Two birds, on the wire.",
+      "dutch": "Twee vogels, op de draad.",
+      "transliteration": "Tway vo-gels, op de draht.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T15:45:27.673582"
+    },
+    {
+      "english": "Three doors, open possibilities.",
+      "dutch": "Drie deuren, openen kansen.",
+      "transliteration": "Dree day-ren, o-pe-nen kan-sen.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T15:45:27.673584"
+    },
+    {
+      "english": "Four wheels, move the world.",
+      "dutch": "Vier wielen, bewegen de wereld.",
+      "transliteration": "Veer wee-len, be-way-ghen de vair-elt.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T15:45:27.673585"
+    },
+    {
+      "english": "Five fingers, can hold so much.",
+      "dutch": "Vijf vingers, houden veel vast.",
+      "transliteration": "Vayf ving-gers, how-den veel fahst.",
+      "category": "Numbers",
+      "generated_at": "2026-07-30T15:45:27.673586"
     }
   ],
-  "last_updated": "2026-07-30T02:42:25.186577"
+  "last_updated": "2026-07-30T15:45:27.673588"
 }
