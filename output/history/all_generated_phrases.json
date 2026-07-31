@@ -7419,7 +7419,42 @@
       "transliteration": "De moed leeft in jou, bloei.",
       "category": "Hope",
       "generated_at": "2026-07-31T03:23:43.750517"
+    },
+    {
+      "english": "Brainstorming ideas, on thoughts.",
+      "dutch": "Hersenen, bedenken, ideeën.",
+      "transliteration": "Her-sen-en, be-den-ken, i-dee-en.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-31T14:11:10.941386"
+    },
+    {
+      "english": "A furrowed brow, in concentration.",
+      "dutch": "Voorhoofd, diep, gefronst.",
+      "transliteration": "Voor-hoofd, diep, ge-fronst.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-31T14:11:10.941394"
+    },
+    {
+      "english": "Cheeks, blushing, with shyness.",
+      "dutch": "Wangen, blozen, lichtjes.",
+      "transliteration": "Wan-gen, blo-zen, licht-jes.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-31T14:11:10.941396"
+    },
+    {
+      "english": "Lips, forming, a whisper.",
+      "dutch": "Lippen, vormen, een fluistering.",
+      "transliteration": "Lip-pen, vor-men, een fluis-te-ring.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-31T14:11:10.941397"
+    },
+    {
+      "english": "Teeth, chattering, in the cold.",
+      "dutch": "Tanden, klapperen, van kou.",
+      "transliteration": "Tan-den, klap-pe-ren, van kou.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-31T14:11:10.941398"
     }
   ],
-  "last_updated": "2026-07-31T03:23:43.750519"
+  "last_updated": "2026-07-31T14:11:10.941400"
 }
