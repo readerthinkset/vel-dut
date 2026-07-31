@@ -7489,7 +7489,42 @@
       "transliteration": "Een STIL-le vol-DOE-ning, daalt NEER.",
       "category": "Feelings",
       "generated_at": "2026-07-31T15:52:27.168345"
+    },
+    {
+      "english": "Quiet mind, calm heart.",
+      "dutch": "Rustige geest, kalm hart.",
+      "transliteration": "Ruh-stee-geh geest, kalm hart.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:24:38.007895"
+    },
+    {
+      "english": "Sunlight warms your face.",
+      "dutch": "Zonlicht, warmt je gezicht.",
+      "transliteration": "Zon-likht, wahrmt yuh geh-zikt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:24:38.007906"
+    },
+    {
+      "english": "Hear the birds sing.",
+      "dutch": "Hoor de vogels, zingen.",
+      "transliteration": "Hoohr deh vo-ghels, zin-ghen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:24:38.007908"
+    },
+    {
+      "english": "A gentle breeze, whispers.",
+      "dutch": "Een zachte bries, fluistert.",
+      "transliteration": "Een zahkh-teh brees, fluu-stert.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:24:38.007909"
+    },
+    {
+      "english": "Taste the clean air.",
+      "dutch": "Proef de frisse lucht.",
+      "transliteration": "Prooff deh frih-seh luhkht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-31T18:24:38.007910"
     }
   ],
-  "last_updated": "2026-07-31T15:52:27.168347"
+  "last_updated": "2026-07-31T18:24:38.007912"
 }
