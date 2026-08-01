@@ -7594,7 +7594,42 @@
       "transliteration": "Ehn beh-tcheh piht, gheeft feel smakh.",
       "category": "Food",
       "generated_at": "2026-08-01T03:22:18.044507"
+    },
+    {
+      "english": "Alarm rings, world hums.",
+      "dutch": "Wekker gaat, wereld zoemt.",
+      "transliteration": "Vek-ker gaat, ver-eld zoemt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-01T13:24:35.343352"
+    },
+    {
+      "english": "Getting dressed, feeling ready.",
+      "dutch": "Kleren aan, klaar voelen.",
+      "transliteration": "Kler-en aan, klaar voo-len.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-01T13:24:35.343360"
+    },
+    {
+      "english": "Brushing teeth, minty fresh.",
+      "dutch": "Tanden poetsen, fris met munt.",
+      "transliteration": "Tan-den poe-tsen, fris met munt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-01T13:24:35.343362"
+    },
+    {
+      "english": "Face washing, cool splash.",
+      "dutch": "Gezicht wassen, koele plons.",
+      "transliteration": "Ge-zicht vas-sen, koe-le plons.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-01T13:24:35.343363"
+    },
+    {
+      "english": "Hair styled, neat and trim.",
+      "dutch": "Haar gedaan, netjes en strak.",
+      "transliteration": "Haar ge-daan, net-tjes en strak.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-01T13:24:35.343364"
     }
   ],
-  "last_updated": "2026-08-01T03:22:18.044512"
+  "last_updated": "2026-08-01T13:24:35.343366"
 }
