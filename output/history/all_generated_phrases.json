@@ -7769,7 +7769,42 @@
       "transliteration": "Stil-le mo-men-ten, in-ner-lij-ke rust.",
       "category": "Health",
       "generated_at": "2026-08-02T03:22:13.827755"
+    },
+    {
+      "english": "You're my favorite person, truly.",
+      "dutch": "Jij bent echt, mijn favoriet.",
+      "transliteration": "Yai bent echt, mai fa-vo-riet.",
+      "category": "Relationships",
+      "generated_at": "2026-08-02T13:24:37.301500"
+    },
+    {
+      "english": "We build, silly memories.",
+      "dutch": "We maken, gekke herinneringen.",
+      "transliteration": "We ma-ken, ge-kke her-in-ne-rin-gen.",
+      "category": "Relationships",
+      "generated_at": "2026-08-02T13:24:37.301512"
+    },
+    {
+      "english": "A kindred spirit, found you.",
+      "dutch": "Een zielsverwant, heb je gevonden.",
+      "transliteration": "Een zeels-ver-vant, heb yai ge-von-den.",
+      "category": "Relationships",
+      "generated_at": "2026-08-02T13:24:37.301515"
+    },
+    {
+      "english": "My happy place, with you.",
+      "dutch": "Mijn fijne plek, met jou.",
+      "transliteration": "Mai fai-ne plek, met yau.",
+      "category": "Relationships",
+      "generated_at": "2026-08-02T13:24:37.301518"
+    },
+    {
+      "english": "We finish, each other's sentences.",
+      "dutch": "We maken, zinnen af.",
+      "transliteration": "We ma-ken, zin-nen af.",
+      "category": "Relationships",
+      "generated_at": "2026-08-02T13:24:37.301520"
     }
   ],
-  "last_updated": "2026-08-02T03:22:13.827756"
+  "last_updated": "2026-08-02T13:24:37.301523"
 }
