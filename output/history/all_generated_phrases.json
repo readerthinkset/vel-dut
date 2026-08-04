@@ -8084,7 +8084,42 @@
       "transliteration": "Yuh vort, stehz ster-ker.",
       "category": "Strength",
       "generated_at": "2026-08-04T02:53:12.814765"
+    },
+    {
+      "english": "A lazy sloth, hangs upside down.",
+      "dutch": "Een luie luiaard, hangt ondersteboven.",
+      "transliteration": "Een luie luiaard, hangt ondersteboven.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T14:17:35.398784"
+    },
+    {
+      "english": "The majestic eagle, soars high.",
+      "dutch": "De majestueuze adelaar, zweeft hoog.",
+      "transliteration": "De majestueuze adelaar, zweeft hoog.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T14:17:35.398806"
+    },
+    {
+      "english": "A chatty parrot, repeats words.",
+      "dutch": "Een kwebbelende papegaai, herhaalt woorden.",
+      "transliteration": "Een kwebbelende papegaai, herhaalt woorden.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T14:17:35.398808"
+    },
+    {
+      "english": "The slow tortoise, carries its home.",
+      "dutch": "De trage schildpad, draagt zijn huis.",
+      "transliteration": "De trage schildpad, draagt zijn huis.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T14:17:35.398809"
+    },
+    {
+      "english": "A hopping kangaroo, jumps far.",
+      "dutch": "Een springende kangoeroe, springt ver.",
+      "transliteration": "Een springende kangoeroe, springt ver.",
+      "category": "Animals",
+      "generated_at": "2026-08-04T14:17:35.398811"
     }
   ],
-  "last_updated": "2026-08-04T02:53:12.814766"
+  "last_updated": "2026-08-04T14:17:35.398812"
 }
