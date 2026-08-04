@@ -8189,7 +8189,42 @@
       "transliteration": "Yeh hebt, meh e-norm ge-inspi-reerd.",
       "category": "Gratitude",
       "generated_at": "2026-08-04T18:42:52.410122"
+    },
+    {
+      "english": "Just a second, okay?",
+      "dutch": "Even een seconde, oké?",
+      "transliteration": "Eh-ven un seh-kon-deh, oh-kay?",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:12:43.163304"
+    },
+    {
+      "english": "When, do you think?",
+      "dutch": "Wanneer, denk je?",
+      "transliteration": "Vah-neer, denk yuh?",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:12:43.163312"
+    },
+    {
+      "english": "This time, is special.",
+      "dutch": "Deze keer, is bijzonder.",
+      "transliteration": "Deh-zuh keer, is bih-zon-der.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:12:43.163313"
+    },
+    {
+      "english": "No rush, take your time.",
+      "dutch": "Geen haast, neem je tijd.",
+      "transliteration": "Gheen haast, neem yuh tijd.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:12:43.163314"
+    },
+    {
+      "english": "In a while, we'll be there.",
+      "dutch": "Zo meteen, zijn we er.",
+      "transliteration": "Zoh meh-teen, zijn wehr.",
+      "category": "Time",
+      "generated_at": "2026-08-04T21:12:43.163316"
     }
   ],
-  "last_updated": "2026-08-04T18:42:52.410124"
+  "last_updated": "2026-08-04T21:12:43.163317"
 }
