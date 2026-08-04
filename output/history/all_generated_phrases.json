@@ -8119,7 +8119,42 @@
       "transliteration": "Een springende kangoeroe, springt ver.",
       "category": "Animals",
       "generated_at": "2026-08-04T14:17:35.398811"
+    },
+    {
+      "english": "A little bit, hungry.",
+      "dutch": "Een beetje, hongerig.",
+      "transliteration": "Ayn bay-chuh, hong-uh-ruhk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T16:05:02.188691"
+    },
+    {
+      "english": "The coffee, is warm.",
+      "dutch": "De koffie, is warm.",
+      "transliteration": "Duh koff-ee, is varm.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T16:05:02.188700"
+    },
+    {
+      "english": "My book, is here.",
+      "dutch": "Mijn boek, is hier.",
+      "transliteration": "Mine book, is heer.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T16:05:02.188702"
+    },
+    {
+      "english": "I like, this song.",
+      "dutch": "Ik vind, dit liedje leuk.",
+      "transliteration": "Ik vind, dit leet-chuh luhk.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T16:05:02.188703"
+    },
+    {
+      "english": "It's cold, outside.",
+      "dutch": "Het is koud, buiten.",
+      "transliteration": "Het is kowt, bow-tuhn.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-04T16:05:02.188704"
     }
   ],
-  "last_updated": "2026-08-04T14:17:35.398812"
+  "last_updated": "2026-08-04T16:05:02.188706"
 }
