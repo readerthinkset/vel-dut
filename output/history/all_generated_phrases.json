@@ -8329,7 +8329,42 @@
       "transliteration": "De stil-luh kracht, in yow.",
       "category": "Hope",
       "generated_at": "2026-08-05T15:52:56.907407"
+    },
+    {
+      "english": "Just a little further, that way.",
+      "dutch": "Nog een stukje, die kant op.",
+      "transliteration": "Nog een stukje, dee kant op.",
+      "category": "Directions",
+      "generated_at": "2026-08-05T18:26:14.576145"
+    },
+    {
+      "english": "Keep going, towards the park.",
+      "dutch": "Ga verder, richting het park.",
+      "transliteration": "Gah ferder, rikting het park.",
+      "category": "Directions",
+      "generated_at": "2026-08-05T18:26:14.576154"
+    },
+    {
+      "english": "Seek the small alley, on your left.",
+      "dutch": "Zoek het smalle steegje, aan je linkerhand.",
+      "transliteration": "Zook het smalle steegje, an yuh linkerhant.",
+      "category": "Directions",
+      "generated_at": "2026-08-05T18:26:14.576156"
+    },
+    {
+      "english": "Follow the main road, until the crossroads.",
+      "dutch": "Volg de hoofdweg, tot de kruising.",
+      "transliteration": "Volg dee hoofdweg, tot dee kruising.",
+      "category": "Directions",
+      "generated_at": "2026-08-05T18:26:14.576157"
+    },
+    {
+      "english": "Turn towards, the lively square.",
+      "dutch": "Sla af richting, het levendige plein.",
+      "transliteration": "Sla af rikting, het levendige pline.",
+      "category": "Directions",
+      "generated_at": "2026-08-05T18:26:14.576158"
     }
   ],
-  "last_updated": "2026-08-05T15:52:56.907408"
+  "last_updated": "2026-08-05T18:26:14.576160"
 }
