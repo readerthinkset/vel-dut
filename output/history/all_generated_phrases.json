@@ -8259,7 +8259,42 @@
       "transliteration": "Bots hel-pen, tah-ken ver-lich-ten.",
       "category": "Technology",
       "generated_at": "2026-08-05T02:50:21.479242"
+    },
+    {
+      "english": "A gentle breeze, cools the evening.",
+      "dutch": "Een zachte bries, koelt de avond.",
+      "transliteration": "Un zah-kh-tuh brees, kooldt de ah-vont.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T14:18:25.041188"
+    },
+    {
+      "english": "The sky, turns a deep indigo.",
+      "dutch": "De lucht, kleurt diep indigo.",
+      "transliteration": "De luhkh, kleurt deep in-dee-go.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T14:18:25.041197"
+    },
+    {
+      "english": "A sudden squall, appears.",
+      "dutch": "Een plotselinge windvlaag, verschijnt.",
+      "transliteration": "Un plot-suh-ling-uh vint-flahkh, fer-skhain.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T14:18:25.041199"
+    },
+    {
+      "english": "Sunlight, through the leaves.",
+      "dutch": "Zonlicht, door de bladeren.",
+      "transliteration": "Zon-likht, door de blah-duh-ren.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T14:18:25.041200"
+    },
+    {
+      "english": "Heavy fog, obscures the view.",
+      "dutch": "Dichte mist, belemmert het zicht.",
+      "transliteration": "Dikh-tuh mist, be-lem-mert het zikht.",
+      "category": "Weather",
+      "generated_at": "2026-08-05T14:18:25.041202"
     }
   ],
-  "last_updated": "2026-08-05T02:50:21.479244"
+  "last_updated": "2026-08-05T14:18:25.041203"
 }
