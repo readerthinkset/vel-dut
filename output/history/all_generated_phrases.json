@@ -8644,7 +8644,42 @@
       "transliteration": "Ik wil, een rus-ti-ge ka-mer.",
       "category": "Emergency",
       "generated_at": "2026-08-07T17:53:35.280915"
+    },
+    {
+      "english": "This street, has hidden gems.",
+      "dutch": "Deze straat, heeft verborgen pareltjes.",
+      "transliteration": "Day-suh straht, heft fer-hbo-r-guhn pah-rul-yus.",
+      "category": "Travel",
+      "generated_at": "2026-08-07T20:40:47.121668"
+    },
+    {
+      "english": "May I try this, on?",
+      "dutch": "Mag ik dit, passen?",
+      "transliteration": "Mahg ik dit, pah-sun?",
+      "category": "Travel",
+      "generated_at": "2026-08-07T20:40:47.121676"
+    },
+    {
+      "english": "A table, for two, please.",
+      "dutch": "Een tafel, voor twee, graag.",
+      "transliteration": "Un tah-fuhl, vor tway, khrahkh.",
+      "category": "Travel",
+      "generated_at": "2026-08-07T20:40:47.121678"
+    },
+    {
+      "english": "What time, does it open?",
+      "dutch": "Hoe laat, gaat dit open?",
+      "transliteration": "Hoo laht, khahwt dit oh-pun?",
+      "category": "Travel",
+      "generated_at": "2026-08-07T20:40:47.121679"
+    },
+    {
+      "english": "Could you write that, down?",
+      "dutch": "Kunt u dat, opschrijven?",
+      "transliteration": "Kunt oo dahwt, op-skhry-vun?",
+      "category": "Travel",
+      "generated_at": "2026-08-07T20:40:47.121680"
     }
   ],
-  "last_updated": "2026-08-07T17:53:35.280916"
+  "last_updated": "2026-08-07T20:40:47.121682"
 }
