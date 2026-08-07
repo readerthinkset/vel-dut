@@ -8609,7 +8609,42 @@
       "transliteration": "Proef, de Nederlandse taal.",
       "category": "Education",
       "generated_at": "2026-08-07T14:43:59.094110"
+    },
+    {
+      "english": "My ticket, it's missing.",
+      "dutch": "Mijn ticket, het is weg.",
+      "transliteration": "Mijn tik-et, het is veg.",
+      "category": "Emergency",
+      "generated_at": "2026-08-07T17:53:35.280901"
+    },
+    {
+      "english": "I've had an accident, please.",
+      "dutch": "Ik had een ongeluk, alstublieft.",
+      "transliteration": "Ik had een on-ge-luk, al-stoe-bleeft.",
+      "category": "Emergency",
+      "generated_at": "2026-08-07T17:53:35.280910"
+    },
+    {
+      "english": "Can you call, for help, please?",
+      "dutch": "Kunt u bellen, voor hulp, graag?",
+      "transliteration": "Kunt u bel-len, voor hulp, graag?",
+      "category": "Emergency",
+      "generated_at": "2026-08-07T17:53:35.280912"
+    },
+    {
+      "english": "My leg, it hurts a lot.",
+      "dutch": "Mijn been, het doet erg zeer.",
+      "transliteration": "Mijn been, het doet erg zeer.",
+      "category": "Emergency",
+      "generated_at": "2026-08-07T17:53:35.280914"
+    },
+    {
+      "english": "I need, a quiet room.",
+      "dutch": "Ik wil, een rustige kamer.",
+      "transliteration": "Ik wil, een rus-ti-ge ka-mer.",
+      "category": "Emergency",
+      "generated_at": "2026-08-07T17:53:35.280915"
     }
   ],
-  "last_updated": "2026-08-07T14:43:59.094112"
+  "last_updated": "2026-08-07T17:53:35.280916"
 }
