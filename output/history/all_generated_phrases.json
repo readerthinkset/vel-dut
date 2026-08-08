@@ -8784,7 +8784,42 @@
       "transliteration": "Er-vaar het Ne-der-lands, van dicht-bij.",
       "category": "Purpose",
       "generated_at": "2026-08-08T14:21:22.514883"
+    },
+    {
+      "english": "Dutch, it's yours, to claim.",
+      "dutch": "Nederlands, is van jou, om te pakken.",
+      "transliteration": "Nay-der-lahnts, is fan yow, om te pak-ken.",
+      "category": "Confidence",
+      "generated_at": "2026-08-08T17:36:33.368161"
+    },
+    {
+      "english": "Your Dutch, is growing, stronger.",
+      "dutch": "Jouw Nederlands, wordt groter, sterker.",
+      "transliteration": "Yow-er Nay-der-lahnts, wurt groh-ter, ster-ker.",
+      "category": "Confidence",
+      "generated_at": "2026-08-08T17:36:33.368170"
+    },
+    {
+      "english": "Unlock Dutch, words, with courage.",
+      "dutch": "Ontgrendel Nederlands, woorden, met moed.",
+      "transliteration": "Ont-gren-del Nay-der-lahnts, woor-den, met mood.",
+      "category": "Confidence",
+      "generated_at": "2026-08-08T17:36:33.368172"
+    },
+    {
+      "english": "Speak Dutch, find your, rhythm.",
+      "dutch": "Spreek Nederlands, vind je, ritme.",
+      "transliteration": "Spreek Nay-der-lahnts, vind yuh, rit-muh.",
+      "category": "Confidence",
+      "generated_at": "2026-08-08T17:36:33.368173"
+    },
+    {
+      "english": "New Dutch, new, possibilities.",
+      "dutch": "Nieuw Nederlands, nieuwe, mogelijkheden.",
+      "transliteration": "Nee-oo Nay-der-lahnts, nee-vuh, mo-ge-lijk-hay-den.",
+      "category": "Confidence",
+      "generated_at": "2026-08-08T17:36:33.368174"
     }
   ],
-  "last_updated": "2026-08-08T14:21:22.514885"
+  "last_updated": "2026-08-08T17:36:33.368176"
 }
