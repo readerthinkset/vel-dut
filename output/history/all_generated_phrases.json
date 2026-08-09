@@ -8889,7 +8889,42 @@
       "transliteration": "Voohl ekht rit-me, hoor ekht.",
       "category": "Success",
       "generated_at": "2026-08-09T02:01:36.946513"
+    },
+    {
+      "english": "A nice spot, by the window, please.",
+      "dutch": "Een fijn plekje, bij het raam, alstublieft.",
+      "transliteration": "Un fine plek-yeh, by het rahm, al-stu-bleeft.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-09T12:53:40.655324"
+    },
+    {
+      "english": "Could we, have a little time, to decide?",
+      "dutch": "Mogen we, even wat tijd, om te kiezen?",
+      "transliteration": "Mo-gen we, eh-ven wat tighd, om te kie-zen?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-09T12:53:40.655332"
+    },
+    {
+      "english": "This aroma, is truly delightful.",
+      "dutch": "Deze geur, is werkelijk heerlijk.",
+      "transliteration": "Deh-ze heur, is werk-e-lijk heer-lik.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-09T12:53:40.655334"
+    },
+    {
+      "english": "Any local, specialties, we should try?",
+      "dutch": "Heeft u, lokale specialiteiten, die we moeten proberen?",
+      "transliteration": "Heft u, lo-ka-le spe-ci-a-li-tei-ten, dee we moeten pro-be-ren?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-09T12:53:40.655335"
+    },
+    {
+      "english": "We're feeling, quite hungry, tonight.",
+      "dutch": "We hebben, best wel honger, vanavond.",
+      "transliteration": "We heb-ben, best wel hong-er, va-na-vond.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-09T12:53:40.655336"
     }
   ],
-  "last_updated": "2026-08-09T02:01:36.946515"
+  "last_updated": "2026-08-09T12:53:40.655338"
 }
