@@ -9309,7 +9309,42 @@
       "transliteration": "Kly-neh oh-ver-vin-nin-gen, wor-den groh-teh suk-ses-sen.",
       "category": "Strength",
       "generated_at": "2026-08-11T18:00:28.585067"
+    },
+    {
+      "english": "A playful puppy, chases a butterfly.",
+      "dutch": "Een speelse pup, jaagt een vlinder na.",
+      "transliteration": "Un spey-ler-se pup, yahgt un vlin-der nah.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T20:43:09.700142"
+    },
+    {
+      "english": "The curious kitten, bats at a string.",
+      "dutch": "De nieuwsgierige kitten, slaat naar een draad.",
+      "transliteration": "De new-skhig-er-re kit-ten, slah nahr un drahd.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T20:43:09.700151"
+    },
+    {
+      "english": "A proud peacock, struts by.",
+      "dutch": "Een trotse pauw, loopt langs.",
+      "transliteration": "Un troht-se pow, lohpt lahngs.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T20:43:09.700153"
+    },
+    {
+      "english": "The busy ant, carries a crumb.",
+      "dutch": "De drukke mier, draagt een kruimel.",
+      "transliteration": "De druk-ke meer, drahgt un kruy-mel.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T20:43:09.700154"
+    },
+    {
+      "english": "A gentle deer, grazes quietly.",
+      "dutch": "Een zacht hert, graast stil.",
+      "transliteration": "Un zahgt hert, grahst stil.",
+      "category": "Animals",
+      "generated_at": "2026-08-11T20:43:09.700155"
     }
   ],
-  "last_updated": "2026-08-11T18:00:28.585068"
+  "last_updated": "2026-08-11T20:43:09.700157"
 }
