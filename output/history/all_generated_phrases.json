@@ -9239,7 +9239,42 @@
       "transliteration": "Ik zoek, eets klayns.",
       "category": "Shopping",
       "generated_at": "2026-08-11T13:09:32.002161"
+    },
+    {
+      "english": "My tongue, tastes the sweet fruit.",
+      "dutch": "Mijn tong, proeft het zoete fruit.",
+      "transliteration": "Mine tong, prooft het zoete fruit.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-11T14:48:15.108992"
+    },
+    {
+      "english": "His knee, bends for a bow.",
+      "dutch": "Zijn knie, buigt voor een buiging.",
+      "transliteration": "Zijn knie, buigt voor een buy-ging.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-11T14:48:15.109003"
+    },
+    {
+      "english": "Her ankle, twists, a bit.",
+      "dutch": "Haar enkel, draait, een beetje.",
+      "transliteration": "Haar eng-kel, draait, een bee-tje.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-11T14:48:15.109005"
+    },
+    {
+      "english": "The stomach, rumbles, softly.",
+      "dutch": "De maag, rommelt, zachtjes.",
+      "transliteration": "De maag, rom-melt, zacht-jes.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-11T14:48:15.109021"
+    },
+    {
+      "english": "A shoulder blade, feels the sun.",
+      "dutch": "Een schouderblad, voelt de zon.",
+      "transliteration": "Een schou-der-blad, voelt de zon.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-11T14:48:15.109022"
     }
   ],
-  "last_updated": "2026-08-11T13:09:32.002163"
+  "last_updated": "2026-08-11T14:48:15.109024"
 }
