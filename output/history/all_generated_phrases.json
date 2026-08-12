@@ -9379,7 +9379,42 @@
       "transliteration": "Vir-tu-way-le wer-re-den, ech-te kan-sen.",
       "category": "Technology",
       "generated_at": "2026-08-12T02:14:49.317896"
+    },
+    {
+      "english": "New day, new adventure.",
+      "dutch": "Nieuwe dag, nieuw avontuur.",
+      "transliteration": "Nee-wuh dahkh, neew ah-fahn-tewr.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T13:13:00.678148"
+    },
+    {
+      "english": "Listen well, learn much.",
+      "dutch": "Luister goed, leer veel.",
+      "transliteration": "Loo-stur khut, lehr fayl.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T13:13:00.678155"
+    },
+    {
+      "english": "Breathe deep, think clear.",
+      "dutch": "Adem diep, denk helder.",
+      "transliteration": "Ah-dem deep, denk hel-der.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T13:13:00.678157"
+    },
+    {
+      "english": "Explore freely, wander often.",
+      "dutch": "Ontdek vrij, dwaal vaak.",
+      "transliteration": "Ont-dek vree, dwahl fahk.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T13:13:00.678158"
+    },
+    {
+      "english": "Every moment, a gift.",
+      "dutch": "Elk moment, een geschenk.",
+      "transliteration": "Elk mo-ment, ayn khuh-sjenk.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-12T13:13:00.678159"
     }
   ],
-  "last_updated": "2026-08-12T02:14:49.317898"
+  "last_updated": "2026-08-12T13:13:00.678161"
 }
