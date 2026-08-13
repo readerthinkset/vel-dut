@@ -9554,7 +9554,42 @@
       "transliteration": "Wat een klank, zo hel-der.",
       "category": "Music",
       "generated_at": "2026-08-13T02:20:14.572233"
+    },
+    {
+      "english": "Welcome, traveler.",
+      "dutch": "Welkom, reiziger.",
+      "transliteration": "Velkom, reiziger.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T13:14:19.856527"
+    },
+    {
+      "english": "What's your name, then?",
+      "dutch": "Hoe heet jij, eigenlijk?",
+      "transliteration": "Hoe het chai, eigenlik?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T13:14:19.856536"
+    },
+    {
+      "english": "Could you repeat, please?",
+      "dutch": "Zou je dat, herhalen?",
+      "transliteration": "Zou che dat, herhalen?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T13:14:19.856538"
+    },
+    {
+      "english": "I'm learning, Dutch.",
+      "dutch": "Ik leer, Nederlands.",
+      "transliteration": "Ik leer, Nederlandz.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T13:14:19.856539"
+    },
+    {
+      "english": "This is, delicious.",
+      "dutch": "Dit is, heerlijk.",
+      "transliteration": "Dit is, heerlik.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-13T13:14:19.856540"
     }
   ],
-  "last_updated": "2026-08-13T02:20:14.572235"
+  "last_updated": "2026-08-13T13:14:19.856542"
 }
