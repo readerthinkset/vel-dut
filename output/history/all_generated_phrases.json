@@ -9764,7 +9764,42 @@
       "transliteration": "Volg je passies, in het Nederlands.",
       "category": "Purpose",
       "generated_at": "2026-08-14T14:44:27.753932"
+    },
+    {
+      "english": "This path, leads to the sea.",
+      "dutch": "Dit pad, leidt naar de zee.",
+      "transliteration": "Dit pat, leidt naar de zee.",
+      "category": "Travel",
+      "generated_at": "2026-08-14T17:56:44.100754"
+    },
+    {
+      "english": "A moment, for this view.",
+      "dutch": "Een moment, voor dit uitzicht.",
+      "transliteration": "Een moment, voor dit uitzicht.",
+      "category": "Travel",
+      "generated_at": "2026-08-14T17:56:44.100763"
+    },
+    {
+      "english": "What a charming village.",
+      "dutch": "Wat een charmant dorpje.",
+      "transliteration": "Wat een charmant dorp-yeh.",
+      "category": "Travel",
+      "generated_at": "2026-08-14T17:56:44.100765"
+    },
+    {
+      "english": "Can we sit, outside?",
+      "dutch": "Kunnen we buiten, zitten?",
+      "transliteration": "Kun-nen we buy-ten, zit-ten?",
+      "category": "Travel",
+      "generated_at": "2026-08-14T17:56:44.100766"
+    },
+    {
+      "english": "The bakery, smells wonderful.",
+      "dutch": "De bakkerij, ruikt heerlijk.",
+      "transliteration": "De bak-ker-ry, ruykt heer-lijk.",
+      "category": "Travel",
+      "generated_at": "2026-08-14T17:56:44.100767"
     }
   ],
-  "last_updated": "2026-08-14T14:44:27.753934"
+  "last_updated": "2026-08-14T17:56:44.100772"
 }
