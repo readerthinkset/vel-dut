@@ -9939,7 +9939,42 @@
       "transliteration": "Mein hooft, dat doot pain.",
       "category": "Emergency",
       "generated_at": "2026-08-15T14:10:06.403127"
+    },
+    {
+      "english": "Dutch whispers, you hear them.",
+      "dutch": "Nederlands fluistert, jij hoort het.",
+      "transliteration": "Nederlands fluistert, yee hoort het.",
+      "category": "Success",
+      "generated_at": "2026-08-15T17:25:38.985283"
+    },
+    {
+      "english": "A new sound, you've got it.",
+      "dutch": "Een nieuw geluid, je hebt het.",
+      "transliteration": "Een nieuw geluid, yee hebt het.",
+      "category": "Success",
+      "generated_at": "2026-08-15T17:25:38.985291"
+    },
+    {
+      "english": "Your mind, understanding Dutch.",
+      "dutch": "Jouw geest, begrijpt Nederlands.",
+      "transliteration": "Yowr geest, begrijpt Nederlands.",
+      "category": "Success",
+      "generated_at": "2026-08-15T17:25:38.985293"
+    },
+    {
+      "english": "The grammar clicks, right now.",
+      "dutch": "De grammatica klikt, nu meteen.",
+      "transliteration": "De grammatica klikt, new meteen.",
+      "category": "Success",
+      "generated_at": "2026-08-15T17:25:38.985294"
+    },
+    {
+      "english": "Dutch stories, you're writing them.",
+      "dutch": "Nederlandse verhalen, jij schrijft ze.",
+      "transliteration": "Nederlandse verhalen, yee schrijf ze.",
+      "category": "Success",
+      "generated_at": "2026-08-15T17:25:38.985296"
     }
   ],
-  "last_updated": "2026-08-15T14:10:06.403129"
+  "last_updated": "2026-08-15T17:25:38.985297"
 }
