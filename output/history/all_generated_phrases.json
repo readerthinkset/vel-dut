@@ -9904,7 +9904,42 @@
       "transliteration": "O-arm de klan-ken, dat doe je.",
       "category": "Confidence",
       "generated_at": "2026-08-15T12:40:27.299897"
+    },
+    {
+      "english": "My bag, it's not here.",
+      "dutch": "Mijn tas, die is er niet.",
+      "transliteration": "Mein tas, dee is er neet.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T14:10:06.403109"
+    },
+    {
+      "english": "I need help, urgently.",
+      "dutch": "Ik heb hulp nodig, dringend.",
+      "transliteration": "Ik heb hulp no-dekh, dring-ent.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T14:10:06.403118"
+    },
+    {
+      "english": "Is someone there, please?",
+      "dutch": "Is er iemand, alstublieft?",
+      "transliteration": "Is er im-ant, al-stoo-bleeft?",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T14:10:06.403122"
+    },
+    {
+      "english": "I've fallen, down here.",
+      "dutch": "Ik ben gevallen, hier beneden.",
+      "transliteration": "Ik ben fa-len, heer be-nay-den.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T14:10:06.403124"
+    },
+    {
+      "english": "My head, it hurts.",
+      "dutch": "Mijn hoofd, dat doet pijn.",
+      "transliteration": "Mein hooft, dat doot pain.",
+      "category": "Emergency",
+      "generated_at": "2026-08-15T14:10:06.403127"
     }
   ],
-  "last_updated": "2026-08-15T12:40:27.299899"
+  "last_updated": "2026-08-15T14:10:06.403129"
 }
