@@ -10009,7 +10009,42 @@
       "transliteration": "Veyf hel-de-re drup-pels, van re-gen.",
       "category": "Numbers",
       "generated_at": "2026-08-15T20:21:20.989652"
+    },
+    {
+      "english": "Sun's up, let's go!",
+      "dutch": "De zon is op, gaan we!",
+      "transliteration": "Duh zon is op, xaan we!",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T01:37:39.346060"
+    },
+    {
+      "english": "Lovely morning, isn't it?",
+      "dutch": "Mooie ochtend, hè?",
+      "transliteration": "Moy-uh och-tuhnt, heh?",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T01:37:39.346068"
+    },
+    {
+      "english": "Ready for adventure?",
+      "dutch": "Klaar voor avontuur?",
+      "transliteration": "Klaar voor ah-fon-toer?",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T01:37:39.346070"
+    },
+    {
+      "english": "A new day dawns.",
+      "dutch": "Een nieuwe dag begint.",
+      "transliteration": "Een nie-wuh dax be-xint.",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T01:37:39.346071"
+    },
+    {
+      "english": "Happy to see you!",
+      "dutch": "Fijn je te zien!",
+      "transliteration": "Fijn yuh tuh zeen!",
+      "category": "Greetings",
+      "generated_at": "2026-08-16T01:37:39.346072"
     }
   ],
-  "last_updated": "2026-08-15T20:21:20.989653"
+  "last_updated": "2026-08-16T01:37:39.346074"
 }
