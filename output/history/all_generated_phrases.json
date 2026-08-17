@@ -10289,7 +10289,42 @@
       "transliteration": "Zo heel tuh-freh-den, ben ik.",
       "category": "Feelings",
       "generated_at": "2026-08-17T14:16:28.000085"
+    },
+    {
+      "english": "After the big tree, turn.",
+      "dutch": "Na de grote boom, draai.",
+      "transliteration": "Naa deh groh-teh boh-oom, drah-ee.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T17:31:49.533736"
+    },
+    {
+      "english": "You'll see a fountain, go there.",
+      "dutch": "Je ziet een fontein, ga daarheen.",
+      "transliteration": "Yuh zeet ayn fon-tayn, gaa daar-hayn.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T17:31:49.533745"
+    },
+    {
+      "english": "Find the yellow house, it's close.",
+      "dutch": "Zoek het gele huis, het is dichtbij.",
+      "transliteration": "Zook het kheh-leh hows, het is dikh-bay.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T17:31:49.533747"
+    },
+    {
+      "english": "Keep walking, towards the sea.",
+      "dutch": "Blijf lopen, richting de zee.",
+      "transliteration": "Blayf loh-pen, rik-ting deh zeh.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T17:31:49.533748"
+    },
+    {
+      "english": "Cross the small bridge.",
+      "dutch": "Steek de kleine brug over.",
+      "transliteration": "Stayk deh klay-neh brurgh oh-ver.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T17:31:49.533749"
     }
   ],
-  "last_updated": "2026-08-17T14:16:28.000087"
+  "last_updated": "2026-08-17T17:31:49.533751"
 }
