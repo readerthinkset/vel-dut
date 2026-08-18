@@ -10429,7 +10429,42 @@
       "transliteration": "Mijn vei-li-ge ha-ven, al-tijd.",
       "category": "Relationships",
       "generated_at": "2026-08-18T14:21:05.182673"
+    },
+    {
+      "english": "The rain, is falling.",
+      "dutch": "De regen, valt.",
+      "transliteration": "De reh-gen, valt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-18T20:23:12.894141"
+    },
+    {
+      "english": "A quiet moment, for us.",
+      "dutch": "Een rustig moment, voor ons.",
+      "transliteration": "Een roestigh mom-ent, voor ons.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-18T20:23:12.894150"
+    },
+    {
+      "english": "This city, is bustling.",
+      "dutch": "Deze stad, bruist.",
+      "transliteration": "Deh-ze stad, bruist.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-18T20:23:12.894151"
+    },
+    {
+      "english": "I see, a flower.",
+      "dutch": "Ik zie, een bloem.",
+      "transliteration": "Ik see, een bloem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-18T20:23:12.894152"
+    },
+    {
+      "english": "The cat, is sleeping.",
+      "dutch": "De kat, slaapt.",
+      "transliteration": "De kat, slaapt.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-18T20:23:12.894154"
     }
   ],
-  "last_updated": "2026-08-18T14:21:05.182675"
+  "last_updated": "2026-08-18T20:23:12.894155"
 }
