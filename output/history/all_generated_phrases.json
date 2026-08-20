@@ -10639,7 +10639,42 @@
       "transliteration": "Ei-land-bries, zachte fluis-te-rin-gen.",
       "category": "Holidays",
       "generated_at": "2026-08-20T01:26:12.375800"
+    },
+    {
+      "english": "You really, saved the day.",
+      "dutch": "Je hebt, de dag gered.",
+      "transliteration": "Yay haypt, day dahg rayd.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T12:52:40.597523"
+    },
+    {
+      "english": "This is, truly wonderful.",
+      "dutch": "Dit is, echt prachtig.",
+      "transliteration": "Dit is, echt prachtig.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T12:52:40.597536"
+    },
+    {
+      "english": "My deepest, thanks to you.",
+      "dutch": "Mijn diepste, dank je wel.",
+      "transliteration": "Mine deep-stuh, dank yuh vel.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T12:52:40.597537"
+    },
+    {
+      "english": "What a, kind act.",
+      "dutch": "Wat een, lieve daad.",
+      "transliteration": "Vat ayn, lee-vuh daht.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T12:52:40.597538"
+    },
+    {
+      "english": "I'm so, glad you did this.",
+      "dutch": "Ik ben blij, dat je dit deed.",
+      "transliteration": "Ik ben bligh, dat yuh dit dayd.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T12:52:40.597539"
     }
   ],
-  "last_updated": "2026-08-20T01:26:12.375802"
+  "last_updated": "2026-08-20T12:52:40.597541"
 }
