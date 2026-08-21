@@ -10919,7 +10919,42 @@
       "transliteration": "Luister scherp, woorden verbinden.",
       "category": "Confidence",
       "generated_at": "2026-08-21T17:34:21.096645"
+    },
+    {
+      "english": "Soon, the adventure begins.",
+      "dutch": "Straks, begint het avontuur.",
+      "transliteration": "Strahks, be-gint het ahf-en-tuur.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:25:26.101839"
+    },
+    {
+      "english": "Now, the real work starts.",
+      "dutch": "Nu, begint het echte werk.",
+      "transliteration": "Nyu, be-gint het ech-te verk.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:25:26.101851"
+    },
+    {
+      "english": "Always, a moment for thought.",
+      "dutch": "Altijd, een moment om na te denken.",
+      "transliteration": "Al-tijd, een mo-ment om nah te den-ken.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:25:26.101853"
+    },
+    {
+      "english": "Meanwhile, life goes on.",
+      "dutch": "Ondertussen, gaat het leven door.",
+      "transliteration": "Onder-tus-sen, gaat het le-ven door.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:25:26.101854"
+    },
+    {
+      "english": "Later, we will see.",
+      "dutch": "Later, zien we wel.",
+      "transliteration": "La-ter, zien we vel.",
+      "category": "Time",
+      "generated_at": "2026-08-21T20:25:26.101855"
     }
   ],
-  "last_updated": "2026-08-21T17:34:21.096646"
+  "last_updated": "2026-08-21T20:25:26.101856"
 }
