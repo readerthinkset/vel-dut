@@ -10884,7 +10884,42 @@
       "transliteration": "Vif KLUH-ri-guh bah-LO-nen, ZWAY-ven hog.",
       "category": "Numbers",
       "generated_at": "2026-08-21T14:22:19.672373"
+    },
+    {
+      "english": "Dutch whispers, secrets revealed.",
+      "dutch": "Nederlandse fluisteringen, geheimen onthuld.",
+      "transliteration": "Nederlandse fluisteringen, geheimen onthuld.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T17:34:21.096628"
+    },
+    {
+      "english": "Your accent, a new song.",
+      "dutch": "Je accent, een nieuw lied.",
+      "transliteration": "Je accent, een nieuw lied.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T17:34:21.096640"
+    },
+    {
+      "english": "Dare to speak, bloom freely.",
+      "dutch": "Durf te spreken, bloei vrij.",
+      "transliteration": "Durf te spreken, bloei vrij.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T17:34:21.096642"
+    },
+    {
+      "english": "Dutch journeys, start here.",
+      "dutch": "Nederlandse reizen, beginnen hier.",
+      "transliteration": "Nederlandse reizen, beginnen hier.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T17:34:21.096643"
+    },
+    {
+      "english": "Listen keenly, words connect.",
+      "dutch": "Luister scherp, woorden verbinden.",
+      "transliteration": "Luister scherp, woorden verbinden.",
+      "category": "Confidence",
+      "generated_at": "2026-08-21T17:34:21.096645"
     }
   ],
-  "last_updated": "2026-08-21T14:22:19.672375"
+  "last_updated": "2026-08-21T17:34:21.096646"
 }
