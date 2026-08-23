@@ -11164,7 +11164,42 @@
       "transliteration": "De vos glipft, döör het strük-ge-was.",
       "category": "Nature",
       "generated_at": "2026-08-23T01:39:39.979210"
+    },
+    {
+      "english": "Slide over, toward the water.",
+      "dutch": "Schuif op, richting het water.",
+      "transliteration": "Skhoyf op, rikting het wa-ter.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:42:40.002683"
+    },
+    {
+      "english": "Find the gate, and enter.",
+      "dutch": "Zoek het hek, en ga naar binnen.",
+      "transliteration": "Zook het hek, en khaa naar bin-nen.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:42:40.002693"
+    },
+    {
+      "english": "Walk with me, follow closely.",
+      "dutch": "Loop met me mee, volg nauwkeurig.",
+      "transliteration": "Loop met me mee, folkh nauw-keu-rikh.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:42:40.002695"
+    },
+    {
+      "english": "Aim for, the highest spire.",
+      "dutch": "Mik op, de hoogste spits.",
+      "transliteration": "Mikh op, de khoog-ste spits.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:42:40.002696"
+    },
+    {
+      "english": "Drift along, the winding lane.",
+      "dutch": "Drijf mee, de kronkelende laan.",
+      "transliteration": "Drijf mee, de kron-ke-len-de laan.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T12:42:40.002697"
     }
   ],
-  "last_updated": "2026-08-23T01:39:39.979212"
+  "last_updated": "2026-08-23T12:42:40.002698"
 }
