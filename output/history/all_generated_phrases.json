@@ -11339,7 +11339,42 @@
       "transliteration": "Day-zuh me-lo-dee, flúy-sturt geh-hay-mun.",
       "category": "Music",
       "generated_at": "2026-08-24T14:29:59.661483"
+    },
+    {
+      "english": "Danger, close by, I think.",
+      "dutch": "Gevaar, dichtbij, denk ik.",
+      "transliteration": "Geh-vaar, dich-biy, denk ik.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T17:35:40.057265"
+    },
+    {
+      "english": "My child, is missing, briefly.",
+      "dutch": "Mijn kind, is weg, even.",
+      "transliteration": "Mijn kind, is wekh, eh-ven.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T17:35:40.057276"
+    },
+    {
+      "english": "We need, to hide, quickly.",
+      "dutch": "We moeten, ons verstoppen, snel.",
+      "transliteration": "We moo-ten, ons ver-stop-pen, snel.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T17:35:40.057278"
+    },
+    {
+      "english": "The building, is unsafe, now.",
+      "dutch": "Het gebouw, is onveilig, nu.",
+      "transliteration": "Het ge-bouw, is on-fai-lekh, nu.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T17:35:40.057279"
+    },
+    {
+      "english": "I've lost, my way, completely.",
+      "dutch": "Ik ben, de weg kwijt, helemaal.",
+      "transliteration": "Ik ben, de wekh kwijt, he-le-maal.",
+      "category": "Emergency",
+      "generated_at": "2026-08-24T17:35:40.057281"
     }
   ],
-  "last_updated": "2026-08-24T14:29:59.661485"
+  "last_updated": "2026-08-24T17:35:40.057282"
 }
