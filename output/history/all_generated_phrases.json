@@ -11514,7 +11514,42 @@
       "transliteration": "Yow door-zet-tings-ver-moh-gen, strahlt echt.",
       "category": "Strength",
       "generated_at": "2026-08-25T14:38:39.666889"
+    },
+    {
+      "english": "The sky, is so blue.",
+      "dutch": "De lucht, is zo blauw.",
+      "transliteration": "De lykht, is zo blauw.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T17:36:41.374554"
+    },
+    {
+      "english": "A gentle breeze, blows by.",
+      "dutch": "Een zacht briesje, waait voorbij.",
+      "transliteration": "Een zakht bree-syeh, vwaaiet voor-baai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T17:36:41.374566"
+    },
+    {
+      "english": "This path, leads onward.",
+      "dutch": "Dit pad, leidt verder.",
+      "transliteration": "Dit paht, leidt fair-der.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T17:36:41.374568"
+    },
+    {
+      "english": "My heart, feels light.",
+      "dutch": "Mijn hart, voelt licht.",
+      "transliteration": "Mijn hahrt, voelt lykht.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T17:36:41.374569"
+    },
+    {
+      "english": "Let's observe, this view.",
+      "dutch": "Laten we, dit uitzicht bekijken.",
+      "transliteration": "Laaten weh, dit uyt-sykht beh-kaai-ken.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-25T17:36:41.374570"
     }
   ],
-  "last_updated": "2026-08-25T14:38:39.666891"
+  "last_updated": "2026-08-25T17:36:41.374572"
 }
