@@ -11654,7 +11654,42 @@
       "transliteration": "Dit vest, GEEFT een COO-le look.",
       "category": "Clothes",
       "generated_at": "2026-08-26T14:32:49.288272"
+    },
+    {
+      "english": "Wow, that's incredible, truly.",
+      "dutch": "Wauw, dat is, fantastisch.",
+      "transliteration": "Wau, dat is, fan-tas-tisch.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-26T19:09:59.958273"
+    },
+    {
+      "english": "You really went, above and beyond.",
+      "dutch": "Je hebt echt, moeite gedaan.",
+      "transliteration": "Je hebt echt, moy-te doe-an.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-26T19:09:59.958283"
+    },
+    {
+      "english": "This is, unexpectedly generous.",
+      "dutch": "Dit is, onverwacht gul.",
+      "transliteration": "Dit is, on-ver-wacht gul.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-26T19:09:59.958285"
+    },
+    {
+      "english": "I'm so pleased, you thought of me.",
+      "dutch": "Fijn dat, je aan me dacht.",
+      "transliteration": "Fijn dat, je aan me dacht.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-26T19:09:59.958286"
+    },
+    {
+      "english": "Your effort, is deeply felt.",
+      "dutch": "Je inzet, wordt gevoeld.",
+      "transliteration": "Je in-zet, wordt ge-voeld.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-26T19:09:59.958287"
     }
   ],
-  "last_updated": "2026-08-26T14:32:49.288274"
+  "last_updated": "2026-08-26T19:09:59.958289"
 }
