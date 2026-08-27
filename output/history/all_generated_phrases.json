@@ -11759,7 +11759,42 @@
       "transliteration": "ayn stowt ee-day, laat het loss",
       "category": "Courage",
       "generated_at": "2026-08-27T08:25:43.354240"
+    },
+    {
+      "english": "Clouds, drift, lazily.",
+      "dutch": "Wolken, drijven, traag.",
+      "transliteration": "Wol-ken, drij-ven, trahg.",
+      "category": "Weather",
+      "generated_at": "2026-08-27T21:55:47.015802"
+    },
+    {
+      "english": "A shy sun, emerges.",
+      "dutch": "Een schone zon, verschijnt.",
+      "transliteration": "Een schoh-neh zon, fer-skynt.",
+      "category": "Weather",
+      "generated_at": "2026-08-27T21:55:47.015814"
+    },
+    {
+      "english": "The sky, clears, slowly.",
+      "dutch": "De lucht, klaart, langzaam op.",
+      "transliteration": "De lucht, klart, lang-zahm op.",
+      "category": "Weather",
+      "generated_at": "2026-08-27T21:55:47.015815"
+    },
+    {
+      "english": "A warm spell, arrives.",
+      "dutch": "Een warme golf, komt.",
+      "transliteration": "Een war-meh golf, komt.",
+      "category": "Weather",
+      "generated_at": "2026-08-27T21:55:47.015817"
+    },
+    {
+      "english": "Sharp hail, falls.",
+      "dutch": "Scherpe hagel, valt.",
+      "transliteration": "Scher-peh hah-ghel, valt.",
+      "category": "Weather",
+      "generated_at": "2026-08-27T21:55:47.015818"
     }
   ],
-  "last_updated": "2026-08-27T08:25:43.354242"
+  "last_updated": "2026-08-27T21:55:47.015820"
 }
