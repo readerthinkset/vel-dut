@@ -12144,7 +12144,42 @@
       "transliteration": "Ik zoek, een aandenken.",
       "category": "Shopping",
       "generated_at": "2026-08-29T16:21:56.804984"
+    },
+    {
+      "english": "What's cooking, tonight?",
+      "dutch": "Wat is er, gaande?",
+      "transliteration": "Vat is er, gaa-ndeh?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-29T17:26:23.364040"
+    },
+    {
+      "english": "This looks, quite tempting.",
+      "dutch": "Dit ziet, er goed uit.",
+      "transliteration": "Dit seet, er goot oyt.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-29T17:26:23.364046"
+    },
+    {
+      "english": "Any recommendations, for us?",
+      "dutch": "Heeft u, tips?",
+      "transliteration": "Heft u, tips?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-29T17:26:23.364048"
+    },
+    {
+      "english": "We'd like, to linger, a bit.",
+      "dutch": "We blijven, nog even.",
+      "transliteration": "Veh blai-fen, nog eh-fen.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-29T17:26:23.364049"
+    },
+    {
+      "english": "Is this, a local favorite?",
+      "dutch": "Is dit, populair hier?",
+      "transliteration": "Is dit, poe-poe-lair heer?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-29T17:26:23.364050"
     }
   ],
-  "last_updated": "2026-08-29T16:21:56.804986"
+  "last_updated": "2026-08-29T17:26:23.364052"
 }
