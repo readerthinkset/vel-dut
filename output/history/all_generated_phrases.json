@@ -12109,7 +12109,42 @@
       "transliteration": "Deh-zuh vreen-schap, telt.",
       "category": "Friendship",
       "generated_at": "2026-08-29T06:26:51.921449"
+    },
+    {
+      "english": "Could you show me, something else?",
+      "dutch": "Kunt u mij, iets anders laten zien?",
+      "transliteration": "Kunt u may, iets anders laaten zeen?",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T16:21:56.804970"
+    },
+    {
+      "english": "I like, this design, a lot.",
+      "dutch": "Dit ontwerp, vind ik, erg mooi.",
+      "transliteration": "Dit ontwerp, vind ik, erg mooy.",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T16:21:56.804980"
+    },
+    {
+      "english": "Do you have, this, in a different shade?",
+      "dutch": "Heeft u dit, in een andere tint?",
+      "transliteration": "Heeft u dit, in een andere tint?",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T16:21:56.804981"
+    },
+    {
+      "english": "What's the, story, behind this?",
+      "dutch": "Wat is, het verhaal, hierachter?",
+      "transliteration": "Wat is, het verhaal, hierachter?",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T16:21:56.804983"
+    },
+    {
+      "english": "I'm looking, for a keepsake.",
+      "dutch": "Ik zoek, een aandenken.",
+      "transliteration": "Ik zoek, een aandenken.",
+      "category": "Shopping",
+      "generated_at": "2026-08-29T16:21:56.804984"
     }
   ],
-  "last_updated": "2026-08-29T06:26:51.921452"
+  "last_updated": "2026-08-29T16:21:56.804986"
 }
