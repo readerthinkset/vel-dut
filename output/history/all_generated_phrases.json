@@ -12704,7 +12704,42 @@
       "transliteration": "On-vrik-bar, gah yah vair-der.",
       "category": "Strength",
       "generated_at": "2026-09-01T17:33:20.971923"
+    },
+    {
+      "english": "A quick pause, then go.",
+      "dutch": "Even rust, dan door.",
+      "transliteration": "Eh-ven rust, dan door.",
+      "category": "Time",
+      "generated_at": "2026-09-01T19:49:22.875932"
+    },
+    {
+      "english": "That moment, forever etched.",
+      "dutch": "Dat moment, voor altijd.",
+      "transliteration": "Dat mo-ment, voor al-tijd.",
+      "category": "Time",
+      "generated_at": "2026-09-01T19:49:22.875948"
+    },
+    {
+      "english": "Tick-tock, time flies.",
+      "dutch": "Tik tak, tijd vliegt.",
+      "transliteration": "Tik tak, tijd vliegt.",
+      "category": "Time",
+      "generated_at": "2026-09-01T19:49:22.875949"
+    },
+    {
+      "english": "Now or never, really.",
+      "dutch": "Nu of nooit, echt waar.",
+      "transliteration": "Nuu of nooit, echt waar.",
+      "category": "Time",
+      "generated_at": "2026-09-01T19:49:22.875951"
+    },
+    {
+      "english": "When the mood strikes, act.",
+      "dutch": "Als de bui valt, doe iets.",
+      "transliteration": "Als de bui valt, doe iets.",
+      "category": "Time",
+      "generated_at": "2026-09-01T19:49:22.875952"
     }
   ],
-  "last_updated": "2026-09-01T17:33:20.971925"
+  "last_updated": "2026-09-01T19:49:22.875954"
 }
