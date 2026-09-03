@@ -12984,7 +12984,42 @@
       "transliteration": "De re-veer stroomt, naar de zee.",
       "category": "Common Expressions",
       "generated_at": "2026-09-03T17:21:01.285132"
+    },
+    {
+      "english": "Walk right, past the green bench.",
+      "dutch": "Loop rechts, langs de groene bank.",
+      "transliteration": "Loop rechts, langs de groene bank.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:42:34.586642"
+    },
+    {
+      "english": "Go straight, to the next corner.",
+      "dutch": "Ga rechtdoor, tot de volgende hoek.",
+      "transliteration": "Ga rechtdoor, tot de volgende hoek.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:42:34.586652"
+    },
+    {
+      "english": "Follow the sound, of music.",
+      "dutch": "Volg het geluid, van muziek.",
+      "transliteration": "Volg het geluid, van muziek.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:42:34.586654"
+    },
+    {
+      "english": "Turn left, at the large statue.",
+      "dutch": "Sla linksaf, bij het grote standbeeld.",
+      "transliteration": "Sla linksaf, bij het grote standbeeld.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:42:34.586655"
+    },
+    {
+      "english": "Keep going, until the bright lights.",
+      "dutch": "Ga door, tot de felle lichten.",
+      "transliteration": "Ga door, tot de felle lichten.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T19:42:34.586656"
     }
   ],
-  "last_updated": "2026-09-03T17:21:01.285134"
+  "last_updated": "2026-09-03T19:42:34.586657"
 }
