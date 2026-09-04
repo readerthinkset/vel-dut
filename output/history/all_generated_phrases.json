@@ -13089,7 +13089,42 @@
       "transliteration": "Met yow, voelt het lee-ven, kom-pleet.",
       "category": "Love",
       "generated_at": "2026-09-04T03:18:17.978308"
+    },
+    {
+      "english": "A table, for three, please?",
+      "dutch": "Een tafel, voor drie, alstublieft?",
+      "transliteration": "Een ta-fel, voor drie, al-stu-blieft?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-04T03:46:08.123043"
+    },
+    {
+      "english": "We're ready, to order, now.",
+      "dutch": "We zijn er, klaar voor, om te bestellen.",
+      "transliteration": "We zijn er, klaar voor, om te be-stel-len.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-04T03:46:08.123053"
+    },
+    {
+      "english": "This looks, delicious, truly.",
+      "dutch": "Dit ziet, er heerlijk uit, echt waar.",
+      "transliteration": "Dit ziet, er heer-lijk uit, echt waar.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-04T03:46:08.123055"
+    },
+    {
+      "english": "Could I, have some water?",
+      "dutch": "Mag ik, wat water, alstublieft?",
+      "transliteration": "Mag ik, wat wa-ter, al-stu-blieft?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-04T03:46:08.123056"
+    },
+    {
+      "english": "What's, the daily special?",
+      "dutch": "Wat is, de dagschotel?",
+      "transliteration": "Wat is, de dag-schotel?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-04T03:46:08.123058"
     }
   ],
-  "last_updated": "2026-09-04T03:18:17.978310"
+  "last_updated": "2026-09-04T03:46:08.123060"
 }
