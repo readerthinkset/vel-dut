@@ -13194,7 +13194,42 @@
       "transliteration": "Een rust-ikh rit-muh, weyst de wekh.",
       "category": "Patience",
       "generated_at": "2026-09-04T17:12:40.110607"
+    },
+    {
+      "english": "Bright sun, warms my skin.",
+      "dutch": "Heldere zon, warmt mijn huid.",
+      "transliteration": "Hel-deh-reh zon, warmt mijn huyd.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T19:22:33.180536"
+    },
+    {
+      "english": "Grey clouds, gather, softly.",
+      "dutch": "Grijze wolken, verzamelen, zacht.",
+      "transliteration": "Grei-seh wol-ken, ver-za-me-len, zacht.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T19:22:33.180546"
+    },
+    {
+      "english": "Raindrops, patter, on glass.",
+      "dutch": "Regendruppels, tikken, op glas.",
+      "transliteration": "Reh-gen-drop-pels, tik-ken, op glas.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T19:22:33.180547"
+    },
+    {
+      "english": "A chill, in the air.",
+      "dutch": "Een kilte, in de lucht.",
+      "transliteration": "Een kil-teh, in deh luykht.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T19:22:33.180548"
+    },
+    {
+      "english": "Sky opens, light shines.",
+      "dutch": "Lucht opent, licht schijnt.",
+      "transliteration": "Luykht o-pent, licht skheint.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T19:22:33.180549"
     }
   ],
-  "last_updated": "2026-09-04T17:12:40.110609"
+  "last_updated": "2026-09-04T19:22:33.180551"
 }
