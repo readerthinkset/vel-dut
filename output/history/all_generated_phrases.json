@@ -13124,7 +13124,42 @@
       "transliteration": "Wat is, de dag-schotel?",
       "category": "Restaurant",
       "generated_at": "2026-09-04T03:46:08.123058"
+    },
+    {
+      "english": "This, is really, something special.",
+      "dutch": "Dit, is werkelijk, iets bijzonders.",
+      "transliteration": "Dit, is werk-lijk, iets bij-zon-ders.",
+      "category": "Shopping",
+      "generated_at": "2026-09-04T15:55:51.909109"
+    },
+    {
+      "english": "Could I, have a closer, look please?",
+      "dutch": "Mag ik, het eens beter, bekijken?",
+      "transliteration": "Mag ik, het eens be-ter, be-kij-ken?",
+      "category": "Shopping",
+      "generated_at": "2026-09-04T15:55:51.909120"
+    },
+    {
+      "english": "What a wonderful, discovery!",
+      "dutch": "Wat een prachtige, vondst!",
+      "transliteration": "Wat een prach-tige, vondst!",
+      "category": "Shopping",
+      "generated_at": "2026-09-04T15:55:51.909122"
+    },
+    {
+      "english": "This catches, my eye, immediately.",
+      "dutch": "Dit trekt, meteen mijn, aandacht.",
+      "transliteration": "Dit trekt, me-teen mijn, aan-dacht.",
+      "category": "Shopping",
+      "generated_at": "2026-09-04T15:55:51.909123"
+    },
+    {
+      "english": "I'm intrigued, by this item.",
+      "dutch": "Ik ben gefascineerd, door dit voorwerp.",
+      "transliteration": "Ik ben ge-fas-ci-neerd, door dit voor-werp.",
+      "category": "Shopping",
+      "generated_at": "2026-09-04T15:55:51.909128"
     }
   ],
-  "last_updated": "2026-09-04T03:46:08.123060"
+  "last_updated": "2026-09-04T15:55:51.909130"
 }
