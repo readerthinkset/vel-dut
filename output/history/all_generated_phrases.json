@@ -13334,7 +13334,42 @@
       "transliteration": "Dit is, ehyn khoot tay-ken.",
       "category": "Joy",
       "generated_at": "2026-09-05T14:46:22.814393"
+    },
+    {
+      "english": "I feel very unwell, please.",
+      "dutch": "Ik voel me, erg ziek, alstublieft.",
+      "transliteration": "Ik voel meh, erg ziek, alstublieft.",
+      "category": "Emergency",
+      "generated_at": "2026-09-05T16:20:16.163164"
+    },
+    {
+      "english": "My documents, are gone, oh no.",
+      "dutch": "Mijn papieren, zijn weg, oh nee.",
+      "transliteration": "Mijn papieren, zijn weg, oh nee.",
+      "category": "Emergency",
+      "generated_at": "2026-09-05T16:20:16.163179"
+    },
+    {
+      "english": "There's smoke, smell it, right?",
+      "dutch": "Er is rook, ruik je, toch?",
+      "transliteration": "Er is rook, ruik je, toch?",
+      "category": "Emergency",
+      "generated_at": "2026-09-05T16:20:16.163181"
+    },
+    {
+      "english": "I need medical, attention, now.",
+      "dutch": "Ik heb medische, hulp nodig, nu.",
+      "transliteration": "Ik heb medische, hulp nodig, nu.",
+      "category": "Emergency",
+      "generated_at": "2026-09-05T16:20:16.163182"
+    },
+    {
+      "english": "The door, it's jammed, help me.",
+      "dutch": "De deur, zit vast, help me.",
+      "transliteration": "De deur, zit vast, help me.",
+      "category": "Emergency",
+      "generated_at": "2026-09-05T16:20:16.163184"
     }
   ],
-  "last_updated": "2026-09-05T14:46:22.814395"
+  "last_updated": "2026-09-05T16:20:16.163186"
 }
