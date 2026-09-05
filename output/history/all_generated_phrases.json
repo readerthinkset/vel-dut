@@ -13404,7 +13404,42 @@
       "transliteration": "Een gestreepte zebra, graast in de zon.",
       "category": "Animals",
       "generated_at": "2026-09-05T18:56:28.025297"
+    },
+    {
+      "english": "A beautiful day, indeed.",
+      "dutch": "Een mooie dag, zeker.",
+      "transliteration": "Uhn moy-uh dahkh, zeh-ker.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:57:10.029558"
+    },
+    {
+      "english": "What a surprise, wow.",
+      "dutch": "Wat een verrassing, wauw.",
+      "transliteration": "Waht uhn ver-ah-sing, wow.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:57:10.029572"
+    },
+    {
+      "english": "Just a quick hello.",
+      "dutch": "Even een vlugge groet.",
+      "transliteration": "Eh-vun uhn vlugh-uh groot.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:57:10.029573"
+    },
+    {
+      "english": "That's very thoughtful, thank you.",
+      "dutch": "Dat is erg attent, dank je.",
+      "transliteration": "Daht is ehrkh uh-tent, dahngk yuh.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:57:10.029575"
+    },
+    {
+      "english": "Could you help, me please?",
+      "dutch": "Kunt u mij helpen, alstublieft?",
+      "transliteration": "Kuhnt oo mey hel-pun, ahlstoo-bleeft?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-05T21:57:10.029576"
     }
   ],
-  "last_updated": "2026-09-05T18:56:28.025299"
+  "last_updated": "2026-09-05T21:57:10.029578"
 }
