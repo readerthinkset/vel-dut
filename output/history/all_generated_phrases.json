@@ -13369,7 +13369,42 @@
       "transliteration": "De deur, zit vast, help me.",
       "category": "Emergency",
       "generated_at": "2026-09-05T16:20:16.163184"
+    },
+    {
+      "english": "A tiny frog, hops by.",
+      "dutch": "Een kleine kikker, hopt voorbij.",
+      "transliteration": "Een kleine kikker, hopt voorbij.",
+      "category": "Animals",
+      "generated_at": "2026-09-05T18:56:28.025281"
+    },
+    {
+      "english": "The busy spider, spins its web.",
+      "dutch": "De drukke spin, spint haar web.",
+      "transliteration": "De drukke spin, spint haar web.",
+      "category": "Animals",
+      "generated_at": "2026-09-05T18:56:28.025293"
+    },
+    {
+      "english": "A graceful swan, glides on water.",
+      "dutch": "Een sierlijke zwaan, glijdt op het water.",
+      "transliteration": "Een sierlijke zwaan, glijdt op het water.",
+      "category": "Animals",
+      "generated_at": "2026-09-05T18:56:28.025295"
+    },
+    {
+      "english": "The proud rooster, crows loudly.",
+      "dutch": "De trotse haan, kraait luid.",
+      "transliteration": "De trotse haan, kraait luid.",
+      "category": "Animals",
+      "generated_at": "2026-09-05T18:56:28.025296"
+    },
+    {
+      "english": "A striped zebra, grazes in sun.",
+      "dutch": "Een gestreepte zebra, graast in de zon.",
+      "transliteration": "Een gestreepte zebra, graast in de zon.",
+      "category": "Animals",
+      "generated_at": "2026-09-05T18:56:28.025297"
     }
   ],
-  "last_updated": "2026-09-05T16:20:16.163186"
+  "last_updated": "2026-09-05T18:56:28.025299"
 }
