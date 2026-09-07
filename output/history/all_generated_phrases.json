@@ -13684,7 +13684,42 @@
       "transliteration": "Ge-wicht ge-zaxt, geest o-pen.",
       "category": "Balance",
       "generated_at": "2026-09-07T20:25:06.599481"
+    },
+    {
+      "english": "A gentle hand, soothes the child.",
+      "dutch": "Een zachte hand, kalmeert het kind.",
+      "transliteration": "Een zah-fuh hant, ka-meert het kint.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-07T22:32:47.116670"
+    },
+    {
+      "english": "His back, arches, with effort.",
+      "dutch": "Zijn rug, kromt, van inspanning.",
+      "transliteration": "Zijn rug, kromt, fan ins-pan-ning.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-07T22:32:47.116684"
+    },
+    {
+      "english": "Her leg, kicks, the ball.",
+      "dutch": "Haar been, schopt, de bal.",
+      "transliteration": "Haar been, schopt, de bal.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-07T22:32:47.116685"
+    },
+    {
+      "english": "A wide mouth, yawns, sleepily.",
+      "dutch": "Een open mond, gaapt, slaperig.",
+      "transliteration": "Een o-pun munt, gaapt, sla-pe-rig.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-07T22:32:47.116686"
+    },
+    {
+      "english": "His chest, heaves, with emotion.",
+      "dutch": "Zijn borst, hijgt, van emotie.",
+      "transliteration": "Zijn borst, hijgt, fan e-mo-tie.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-07T22:32:47.116687"
     }
   ],
-  "last_updated": "2026-09-07T20:25:06.599482"
+  "last_updated": "2026-09-07T22:32:47.116688"
 }
