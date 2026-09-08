@@ -13789,7 +13789,42 @@
       "transliteration": "Yuh Neh-der-lahn-seh rayz, net beh-gho-nen.",
       "category": "Education",
       "generated_at": "2026-09-08T19:48:00.256605"
+    },
+    {
+      "english": "One small step, changes everything.",
+      "dutch": "Eén kleine stap, verandert alles.",
+      "transliteration": "Ehn kley-neh stap, ver-ahn-derd ah-les.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:23:50.229622"
+    },
+    {
+      "english": "Three ships, sail on the sea.",
+      "dutch": "Drie schepen, varen op zee.",
+      "transliteration": "Dree skay-pen, vah-ren op zay.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:23:50.229636"
+    },
+    {
+      "english": "Four legs, stand so strong.",
+      "dutch": "Vier poten, staan zo sterk.",
+      "transliteration": "Veer po-ten, stahn zo sterk.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:23:50.229638"
+    },
+    {
+      "english": "Five senses, feel the world.",
+      "dutch": "Vijf zintuigen, voelen de wereld.",
+      "transliteration": "Vayf zin-toy-ghen, foo-len de vay-reld.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:23:50.229640"
+    },
+    {
+      "english": "Ten fingers, can count to ten.",
+      "dutch": "Tien vingers, tellen tot tien.",
+      "transliteration": "Teen ving-ers, tel-len tot teen.",
+      "category": "Numbers",
+      "generated_at": "2026-09-08T22:23:50.229642"
     }
   ],
-  "last_updated": "2026-09-08T19:48:00.256607"
+  "last_updated": "2026-09-08T22:23:50.229644"
 }
