@@ -13859,7 +13859,42 @@
       "transliteration": "Une scha-duw fan twij-fel, blif-t han-gen.",
       "category": "Feelings",
       "generated_at": "2026-09-09T03:56:01.333405"
+    },
+    {
+      "english": "Sunbeams warm, the afternoon.",
+      "dutch": "Zonnestralen warmen, de middag.",
+      "transliteration": "ZON-en-strah-len VAR-men, de MID-dag.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:06:21.032907"
+    },
+    {
+      "english": "Shadows stretch, long and slow.",
+      "dutch": "Schaduwen rekken, lang en traag.",
+      "transliteration": "SCA-du-wen REK-ken, LANG en TRAAG.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:06:21.032916"
+    },
+    {
+      "english": "A moment's peace, is golden.",
+      "dutch": "Een ogenblik rust, is goud.",
+      "transliteration": "Een O-gen-blik RUST, is GOUD.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:06:21.032918"
+    },
+    {
+      "english": "Winter's grip, starts to loosen.",
+      "dutch": "Winter's greep, begint te lossen.",
+      "transliteration": "VIN-ters GREP, be-GINT te LOS-sen.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:06:21.032919"
+    },
+    {
+      "english": "Spring awakens, gently now.",
+      "dutch": "Lente ontwaakt, zachtjes nu.",
+      "transliteration": "LEN-te ON-waakt, ZACHT-jes NU.",
+      "category": "Time",
+      "generated_at": "2026-09-09T16:06:21.032920"
     }
   ],
-  "last_updated": "2026-09-09T03:56:01.333407"
+  "last_updated": "2026-09-09T16:06:21.032922"
 }
