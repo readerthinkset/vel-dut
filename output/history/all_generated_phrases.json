@@ -14104,7 +14104,42 @@
       "transliteration": "Name yuh teyt, geen haast.",
       "category": "Common Expressions",
       "generated_at": "2026-09-10T17:21:28.140966"
+    },
+    {
+      "english": "Show us, the menu, please.",
+      "dutch": "Laat ons, het menu, zien alstublieft.",
+      "transliteration": "Lat uns, het menu, zien alstublieft.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:30:20.616634"
+    },
+    {
+      "english": "What's, the catch, of the day?",
+      "dutch": "Wat is, de vangst, van de dag?",
+      "transliteration": "Vat is, de vangst, fan de dach?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:30:20.616647"
+    },
+    {
+      "english": "We're ready, for some drinks.",
+      "dutch": "We zijn klaar, voor wat drankjes.",
+      "transliteration": "Vay zayn klar, voor vat drangkjes.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:30:20.616648"
+    },
+    {
+      "english": "This smells, so inviting.",
+      "dutch": "Dit ruikt, zo uitnodigend.",
+      "transliteration": "Dit ruikt, zo uitnodigend.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:30:20.616654"
+    },
+    {
+      "english": "A table, for four, please.",
+      "dutch": "Een tafel, voor vier, graag.",
+      "transliteration": "Een tafel, voor veer, graag.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:30:20.616655"
     }
   ],
-  "last_updated": "2026-09-10T17:21:28.140968"
+  "last_updated": "2026-09-10T19:30:20.616658"
 }
