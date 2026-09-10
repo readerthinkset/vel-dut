@@ -14139,7 +14139,42 @@
       "transliteration": "Een tafel, voor veer, graag.",
       "category": "Restaurant",
       "generated_at": "2026-09-10T19:30:20.616655"
+    },
+    {
+      "english": "A fluffy sheep, grazes softly.",
+      "dutch": "Een wollig schaap, graast zachtjes.",
+      "transliteration": "En wolluh schaap, graast zacht-yes.",
+      "category": "Animals",
+      "generated_at": "2026-09-10T22:17:43.061051"
+    },
+    {
+      "english": "The busy bee, buzzes near flowers.",
+      "dutch": "De drukke bij, zoemt bij bloemen.",
+      "transliteration": "De drukke bye, zoemt bye bloh-men.",
+      "category": "Animals",
+      "generated_at": "2026-09-10T22:17:43.061060"
+    },
+    {
+      "english": "A striped tiger, walks through jungle.",
+      "dutch": "Een gestreepte tijger, loopt door jungle.",
+      "transliteration": "En gestreeptuh teeguh, loept door jung-guhl.",
+      "category": "Animals",
+      "generated_at": "2026-09-10T22:17:43.061061"
+    },
+    {
+      "english": "The chirping cricket, sings at dusk.",
+      "dutch": "De tsjirpende krekel, zingt bij schemering.",
+      "transliteration": "De tsjer-pen-duh kreh-kuhl, singt bye skheh-mer-ring.",
+      "category": "Animals",
+      "generated_at": "2026-09-10T22:17:43.061063"
+    },
+    {
+      "english": "A sleek panther, moves like shadow.",
+      "dutch": "Een glanzende panter, beweegt als schaduw.",
+      "transliteration": "En glan-zen-duh pan-ter, beh-veegt als skha-dyoo.",
+      "category": "Animals",
+      "generated_at": "2026-09-10T22:17:43.061064"
     }
   ],
-  "last_updated": "2026-09-10T19:30:20.616658"
+  "last_updated": "2026-09-10T22:17:43.061065"
 }
