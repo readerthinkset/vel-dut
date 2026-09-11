@@ -14174,7 +14174,42 @@
       "transliteration": "En glan-zen-duh pan-ter, beh-veegt als skha-dyoo.",
       "category": "Animals",
       "generated_at": "2026-09-10T22:17:43.061064"
+    },
+    {
+      "english": "Sunlight, paints, the hills.",
+      "dutch": "Zonlicht, schildert, de heuvels.",
+      "transliteration": "Zon-likht, shil-durt, de heu-vels.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T03:51:36.288782"
+    },
+    {
+      "english": "Clouds, like sheep, float by.",
+      "dutch": "Wolken, als schapen, drijven langs.",
+      "transliteration": "Vol-ken, als shaa-pen, drij-ven langs.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T03:51:36.288793"
+    },
+    {
+      "english": "A gentle mist, settles down.",
+      "dutch": "Een zachte mist, daalt neer.",
+      "transliteration": "Een zagh-te mist, daalt neer.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T03:51:36.288795"
+    },
+    {
+      "english": "The wind, whispers, secrets.",
+      "dutch": "De wind, fluistert, geheimen.",
+      "transliteration": "De vint, fluis-turt, ge-hei-men.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T03:51:36.288796"
+    },
+    {
+      "english": "Raindrops, dance, on leaves.",
+      "dutch": "Regendruppels, dansen, op bladeren.",
+      "transliteration": "Reu-gen-drop-pels, dan-sen, op bla-de-ren.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T03:51:36.288798"
     }
   ],
-  "last_updated": "2026-09-10T22:17:43.061065"
+  "last_updated": "2026-09-11T03:51:36.288799"
 }
