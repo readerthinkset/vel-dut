@@ -14279,7 +14279,42 @@
       "transliteration": "Hoo-duh-mid-dahkh! Hoo is yuh dahkh?",
       "category": "Greetings",
       "generated_at": "2026-09-11T17:23:04.284852"
+    },
+    {
+      "english": "Tall grass, sways gently.",
+      "dutch": "Hoog gras, wiegt zachtjes.",
+      "transliteration": "Hoog gras, wiegt zachtjes.",
+      "category": "Nature",
+      "generated_at": "2026-09-11T19:31:03.526894"
+    },
+    {
+      "english": "A cool stream, flows downhill.",
+      "dutch": "Een koele stroom, loopt omlaag.",
+      "transliteration": "Een koele stroom, loopt omlaag.",
+      "category": "Nature",
+      "generated_at": "2026-09-11T19:31:03.526903"
+    },
+    {
+      "english": "Sun warms, the bare rock.",
+      "dutch": "Zon verwarmt, de kale rots.",
+      "transliteration": "Zon verwarmt, de kale rots.",
+      "category": "Nature",
+      "generated_at": "2026-09-11T19:31:03.526905"
+    },
+    {
+      "english": "Tiny mushrooms, peek out.",
+      "dutch": "Kleine paddenstoelen, gluren tevoorschijn.",
+      "transliteration": "Kleine paddenstoelen, gluren tevoorschijn.",
+      "category": "Nature",
+      "generated_at": "2026-09-11T19:31:03.526906"
+    },
+    {
+      "english": "A dark cave, holds its secrets.",
+      "dutch": "Een donkere grot, bewaart geheimen.",
+      "transliteration": "Een donkere grot, bewaart geheimen.",
+      "category": "Nature",
+      "generated_at": "2026-09-11T19:31:03.526907"
     }
   ],
-  "last_updated": "2026-09-11T17:23:04.284854"
+  "last_updated": "2026-09-11T19:31:03.526909"
 }
