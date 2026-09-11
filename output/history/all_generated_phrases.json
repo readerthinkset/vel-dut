@@ -14314,7 +14314,42 @@
       "transliteration": "Een donkere grot, bewaart geheimen.",
       "category": "Nature",
       "generated_at": "2026-09-11T19:31:03.526907"
+    },
+    {
+      "english": "You're speaking Dutch, wow!",
+      "dutch": "Je spreekt Nederlands, wow!",
+      "transliteration": "Yuh speek NAY-der-lahnts, wow!",
+      "category": "Success",
+      "generated_at": "2026-09-11T22:17:35.140687"
+    },
+    {
+      "english": "A sentence, formed now.",
+      "dutch": "Een zin, nu gevormd.",
+      "transliteration": "Ayn zin, noo guh-FORMt.",
+      "category": "Success",
+      "generated_at": "2026-09-11T22:17:35.140695"
+    },
+    {
+      "english": "That was perfect Dutch.",
+      "dutch": "Dat was perfect Nederlands.",
+      "transliteration": "Dat wahs PER-fect NAY-der-lahnts.",
+      "category": "Success",
+      "generated_at": "2026-09-11T22:17:35.140697"
+    },
+    {
+      "english": "Your pronunciation, sharp!",
+      "dutch": "Je uitspraak, scherp!",
+      "transliteration": "Yuh OWT-spraahk, skHERP!",
+      "category": "Success",
+      "generated_at": "2026-09-11T22:17:35.140698"
+    },
+    {
+      "english": "You understood that, yes?",
+      "dutch": "Dat begreep je, ja?",
+      "transliteration": "Dat buh-GRAYP yuh, yah?",
+      "category": "Success",
+      "generated_at": "2026-09-11T22:17:35.140699"
     }
   ],
-  "last_updated": "2026-09-11T19:31:03.526909"
+  "last_updated": "2026-09-11T22:17:35.140701"
 }
