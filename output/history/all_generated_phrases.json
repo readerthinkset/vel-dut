@@ -14244,7 +14244,42 @@
       "transliteration": "Vir-tual re-al-i-ty, een nieuw per-spek-tief.",
       "category": "Technology",
       "generated_at": "2026-09-11T16:03:14.875502"
+    },
+    {
+      "english": "Hoi! Good to see you.",
+      "dutch": "Hoi! Leuk je te zien.",
+      "transliteration": "Hoy! Leuk yuh tuh seen.",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T17:23:04.284840"
+    },
+    {
+      "english": "Morning! Ready for coffee?",
+      "dutch": "Goedemorgen! Zin in koffie?",
+      "transliteration": "Hoo-duh-mor-gun! Zin in kof-fee?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T17:23:04.284849"
+    },
+    {
+      "english": "Hey there, what's up?",
+      "dutch": "Hé, wat is er aan de hand?",
+      "transliteration": "Hey, wat is er ahn duh hahnd?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T17:23:04.284850"
+    },
+    {
+      "english": "Welcome, make yourself at home.",
+      "dutch": "Welkom, voel je thuis.",
+      "transliteration": "Vel-kom, fool yuh tice.",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T17:23:04.284851"
+    },
+    {
+      "english": "Good afternoon! How's your day?",
+      "dutch": "Goedemiddag! Hoe is je dag?",
+      "transliteration": "Hoo-duh-mid-dahkh! Hoo is yuh dahkh?",
+      "category": "Greetings",
+      "generated_at": "2026-09-11T17:23:04.284852"
     }
   ],
-  "last_updated": "2026-09-11T16:03:14.875503"
+  "last_updated": "2026-09-11T17:23:04.284854"
 }
