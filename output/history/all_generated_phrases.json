@@ -14349,7 +14349,42 @@
       "transliteration": "Dat buh-GRAYP yuh, yah?",
       "category": "Success",
       "generated_at": "2026-09-11T22:17:35.140699"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "dutch": "Jij bent, een schat.",
+      "transliteration": "Yai bent, un schat.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T03:54:17.976462"
+    },
+    {
+      "english": "This is, just perfect.",
+      "dutch": "Dit is, precies goed.",
+      "transliteration": "Dit is, presies goot.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T03:54:17.976471"
+    },
+    {
+      "english": "So good, of you.",
+      "dutch": "Zo aardig, van jou.",
+      "transliteration": "Zoh ahrd-ig, fan yow.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T03:54:17.976472"
+    },
+    {
+      "english": "I'm beaming, thank you.",
+      "dutch": "Ik straal, dank je.",
+      "transliteration": "Ik strahl, dank yeh.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T03:54:17.976474"
+    },
+    {
+      "english": "What a treat, wow.",
+      "dutch": "Wat een feest, wauw.",
+      "transliteration": "Vat un fayst, wow.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-12T03:54:17.976475"
     }
   ],
-  "last_updated": "2026-09-11T22:17:35.140701"
+  "last_updated": "2026-09-12T03:54:17.976477"
 }
