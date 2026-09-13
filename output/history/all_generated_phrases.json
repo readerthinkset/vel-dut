@@ -14559,7 +14559,42 @@
       "transliteration": "Stil mo-ment, vind yeh mid-den.",
       "category": "Balance",
       "generated_at": "2026-09-13T15:46:54.358952"
+    },
+    {
+      "english": "This, light, is flickering, badly.",
+      "dutch": "Dit, lampje, knippert, erg.",
+      "transliteration": "Dit, lamp-yeh, knip-pert, erg.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T17:06:49.918653"
+    },
+    {
+      "english": "I need, a strong, drink, please.",
+      "dutch": "Ik wil, een flinke, borrel, graag.",
+      "transliteration": "Ik wil, een flink-eh, bor-rel, grahgh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T17:06:49.918663"
+    },
+    {
+      "english": "Is, this, safe, to eat?",
+      "dutch": "Is dit, wel, veilig, om te eten?",
+      "transliteration": "Is dit, wel, vey-ligh, om te eh-ten?",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T17:06:49.918665"
+    },
+    {
+      "english": "My phone, is dead, completely.",
+      "dutch": "Mijn telefoon, is leeg, helemaal.",
+      "transliteration": "Mijn teh-leh-fohn, is legh, heh-leh-mahl.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T17:06:49.918666"
+    },
+    {
+      "english": "There's, a strange, smell, here.",
+      "dutch": "Er hangt, een rare, lucht, hier.",
+      "transliteration": "Er hangt, een rah-reh, lucht, heer.",
+      "category": "Emergency",
+      "generated_at": "2026-09-13T17:06:49.918668"
     }
   ],
-  "last_updated": "2026-09-13T15:46:54.358955"
+  "last_updated": "2026-09-13T17:06:49.918670"
 }
