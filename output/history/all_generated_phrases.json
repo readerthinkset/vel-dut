@@ -15049,7 +15049,42 @@
       "transliteration": "Palm-bo-men wui-ven, ont-span.",
       "category": "Holidays",
       "generated_at": "2026-09-16T17:47:45.292274"
+    },
+    {
+      "english": "Sweet strawberry, garden fresh.",
+      "dutch": "Zoete aardbei, vers uit de tuin.",
+      "transliteration": "Zo-te aard-bai, vers uit de tuin.",
+      "category": "Food",
+      "generated_at": "2026-09-16T22:40:24.818828"
+    },
+    {
+      "english": "Warm bread, from the oven.",
+      "dutch": "Warm brood, recht uit de oven.",
+      "transliteration": "Warm brood, recht uit de oven.",
+      "category": "Food",
+      "generated_at": "2026-09-16T22:40:24.818836"
+    },
+    {
+      "english": "Tangy lemon, squeezed fresh.",
+      "dutch": "Pittige citroen, vers geperst.",
+      "transliteration": "Pit-ti-ge cit-roen, vers ge-perst.",
+      "category": "Food",
+      "generated_at": "2026-09-16T22:40:24.818838"
+    },
+    {
+      "english": "Cheesy pizza, bubbling hot.",
+      "dutch": "Kaasachtige pizza, bubbelend heet.",
+      "transliteration": "Kaas-ach-ti-ge pit-za, bub-bel-end heet.",
+      "category": "Food",
+      "generated_at": "2026-09-16T22:40:24.818839"
+    },
+    {
+      "english": "Cool melon, summer treat.",
+      "dutch": "Koele meloen, zomerse traktatie.",
+      "transliteration": "Koe-le me-loen, zo-mer-se trak-ta-tie.",
+      "category": "Food",
+      "generated_at": "2026-09-16T22:40:24.818840"
     }
   ],
-  "last_updated": "2026-09-16T17:47:45.292276"
+  "last_updated": "2026-09-16T22:40:24.818842"
 }
