@@ -15329,7 +15329,42 @@
       "transliteration": "Myn fer-TROU-we-ling, myn VAS-tuh GROND.",
       "category": "Friendship",
       "generated_at": "2026-09-18T16:00:31.792439"
+    },
+    {
+      "english": "Sky, blushing pink, at dawn.",
+      "dutch": "Lucht, kleurt roze, bij ochtendgloren.",
+      "transliteration": "Loocht, kleurt rooze, bij ochtend-glo-ren.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:20:09.382115"
+    },
+    {
+      "english": "Clouds, like cotton, drift by.",
+      "dutch": "Wolken, als katoen, drijven voorbij.",
+      "transliteration": "Wol-ken, als ka-toen, drij-ven voor-bij.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:20:09.382126"
+    },
+    {
+      "english": "Sun's rays, warm the land.",
+      "dutch": "Zonnestralen, warmen het land.",
+      "transliteration": "Zo-nen-stra-len, war-men het lant.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:20:09.382127"
+    },
+    {
+      "english": "Wind, rustling leaves, softly.",
+      "dutch": "Wind, ruist door bladeren, zachtjes.",
+      "transliteration": "Vint, ruist door bla-de-ren, zacht-jes.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:20:09.382127"
+    },
+    {
+      "english": "Rain, tapping, on the window.",
+      "dutch": "Regen, tikt, op het raam.",
+      "transliteration": "Re-gen, tikt, op het raam.",
+      "category": "Weather",
+      "generated_at": "2026-09-18T17:20:09.382128"
     }
   ],
-  "last_updated": "2026-09-18T16:00:31.792440"
+  "last_updated": "2026-09-18T17:20:09.382129"
 }
