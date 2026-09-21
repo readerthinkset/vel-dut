@@ -15749,7 +15749,42 @@
       "transliteration": "Rust in dit, hoy-di-guh mo-ment.",
       "category": "Mindfulness",
       "generated_at": "2026-09-20T22:13:14.223718"
+    },
+    {
+      "english": "This train, is surprisingly empty.",
+      "dutch": "Deze trein, is verrassend leeg.",
+      "transliteration": "Deyze treyn, is ver-ras-sent leeg.",
+      "category": "Travel",
+      "generated_at": "2026-09-21T04:10:41.752417"
+    },
+    {
+      "english": "Could we, find a spot here?",
+      "dutch": "Kunnen we, hier een plekje vinden?",
+      "transliteration": "Kun-nen we, heer ayn plek-yeh vin-den?",
+      "category": "Travel",
+      "generated_at": "2026-09-21T04:10:41.752426"
+    },
+    {
+      "english": "The light, is beautiful now.",
+      "dutch": "Het licht, is nu prachtig.",
+      "transliteration": "Het licht, is new prach-tigh.",
+      "category": "Travel",
+      "generated_at": "2026-09-21T04:10:41.752428"
+    },
+    {
+      "english": "I love, this quiet corner.",
+      "dutch": "Ik hou van, deze rustige hoek.",
+      "transliteration": "Ik how fan, deyze rus-te-ghe hook.",
+      "category": "Travel",
+      "generated_at": "2026-09-21T04:10:41.752429"
+    },
+    {
+      "english": "Is there, a local market?",
+      "dutch": "Is er, een lokale markt?",
+      "transliteration": "Is er, ayn lo-ka-le markt?",
+      "category": "Travel",
+      "generated_at": "2026-09-21T04:10:41.752430"
     }
   ],
-  "last_updated": "2026-09-20T22:13:14.223720"
+  "last_updated": "2026-09-21T04:10:41.752432"
 }
