@@ -15959,7 +15959,42 @@
       "transliteration": "Volg deh geur, van vers brod.",
       "category": "Directions",
       "generated_at": "2026-09-22T16:29:43.084032"
+    },
+    {
+      "english": "Ahoy, matey!",
+      "dutch": "Ahoy, maat!",
+      "transliteration": "Ahoy, maht!",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T17:48:39.819988"
+    },
+    {
+      "english": "Sun's peeking out.",
+      "dutch": "Zonnetje, kom eruit.",
+      "transliteration": "Zon-ne-che, kom er-out.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T17:48:39.820001"
+    },
+    {
+      "english": "What brings you?",
+      "dutch": "Wat brengt je hier?",
+      "transliteration": "Vaht brengt ye heer?",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T17:48:39.820004"
+    },
+    {
+      "english": "A breath of fresh air.",
+      "dutch": "Een frisse wind, waait aan.",
+      "transliteration": "Un frissuh vinn, vaht ahn.",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T17:48:39.820005"
+    },
+    {
+      "english": "Ready for some fun?",
+      "dutch": "Klaar voor plezier?",
+      "transliteration": "Klaar voor ple-zeer?",
+      "category": "Greetings",
+      "generated_at": "2026-09-22T17:48:39.820006"
     }
   ],
-  "last_updated": "2026-09-22T16:29:43.084033"
+  "last_updated": "2026-09-22T17:48:39.820008"
 }
