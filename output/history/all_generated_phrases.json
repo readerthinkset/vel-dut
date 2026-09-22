@@ -15994,7 +15994,42 @@
       "transliteration": "Klaar voor ple-zeer?",
       "category": "Greetings",
       "generated_at": "2026-09-22T17:48:39.820006"
+    },
+    {
+      "english": "A swift hawk, dives for prey.",
+      "dutch": "Een snelle havik, duikt naar prooi.",
+      "transliteration": "Un sneh-luh hah-vick, duykt naar proy.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T20:08:55.104118"
+    },
+    {
+      "english": "The little mouse, nibbles cheese.",
+      "dutch": "De kleine muis, knabbelt kaas.",
+      "transliteration": "Duh klay-nuh muys, knah-bult kahs.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T20:08:55.104126"
+    },
+    {
+      "english": "A wise owl, observes the night.",
+      "dutch": "Een wijze uil, observeert de nacht.",
+      "transliteration": "Un vey-zuh uyl, ob-ser-veert duh nahkht.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T20:08:55.104127"
+    },
+    {
+      "english": "The tiny ant, marches onward.",
+      "dutch": "Het kleine mier, marcheert verder.",
+      "transliteration": "Het klay-nuh meer, mar-shert fer-der.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T20:08:55.104129"
+    },
+    {
+      "english": "A proud lion, surveys his land.",
+      "dutch": "Een trotse leeuw, overziet zijn land.",
+      "transliteration": "Un troht-suh lay-uw, o-ver-zeet seyn lahnt.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T20:08:55.104130"
     }
   ],
-  "last_updated": "2026-09-22T17:48:39.820008"
+  "last_updated": "2026-09-22T20:08:55.104132"
 }
