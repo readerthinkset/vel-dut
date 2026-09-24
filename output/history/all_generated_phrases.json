@@ -16274,7 +16274,42 @@
       "transliteration": "Frayz neet, het ge-loid.",
       "category": "Courage",
       "generated_at": "2026-09-24T16:42:00.586156"
+    },
+    {
+      "english": "Sky, is a soft grey.",
+      "dutch": "De hemel, is zacht grijs.",
+      "transliteration": "De hem-el, is zacht greys.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T18:02:03.599608"
+    },
+    {
+      "english": "Sun, peeks through clouds.",
+      "dutch": "De zon, gluurt door wolken.",
+      "transliteration": "De zon, gloert door wol-ken.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T18:02:03.599617"
+    },
+    {
+      "english": "Wind, has a playful gust.",
+      "dutch": "De wind, heeft een speelse vlaag.",
+      "transliteration": "De vind, heft een speel-se vlaag.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T18:02:03.599619"
+    },
+    {
+      "english": "Little drops, start to fall.",
+      "dutch": "Kleine druppels, beginnen te vallen.",
+      "transliteration": "Klei-ne drup-pels, be-gin-nen te val-len.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T18:02:03.599620"
+    },
+    {
+      "english": "Air, feels fresh and clean.",
+      "dutch": "De lucht, voelt fris en schoon.",
+      "transliteration": "De loocht, voelt fris en schoon.",
+      "category": "Weather",
+      "generated_at": "2026-09-24T18:02:03.599621"
     }
   ],
-  "last_updated": "2026-09-24T16:42:00.586158"
+  "last_updated": "2026-09-24T18:02:03.599623"
 }
