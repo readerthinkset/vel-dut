@@ -16589,7 +16589,42 @@
       "transliteration": "Lo-ka-le markt, zoet fruit.",
       "category": "Holidays",
       "generated_at": "2026-09-26T04:18:11.178526"
+    },
+    {
+      "english": "My passport, it's gone, oh dear.",
+      "dutch": "Mijn paspoort, is weg, oh jee.",
+      "transliteration": "Mein pahs-port, is vekh, oh yey.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T15:59:25.234126"
+    },
+    {
+      "english": "Is, someone, watching me?",
+      "dutch": "Word ik, bekeken, denk je?",
+      "transliteration": "Vurd ik, beh-kay-ken, denk yuh?",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T15:59:25.234137"
+    },
+    {
+      "english": "This water, is it, drinkable?",
+      "dutch": "Is dit, water, te drinken?",
+      "transliteration": "Is dit, wah-ter, tuh drink-en?",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T15:59:25.234138"
+    },
+    {
+      "english": "I think, I'm being, followed.",
+      "dutch": "Ik denk, dat ik, gevolgd word.",
+      "transliteration": "Ik denk, dat ik, geh-folkt vurd.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T15:59:25.234139"
+    },
+    {
+      "english": "My key, it doesn't, fit this lock.",
+      "dutch": "Mijn sleutel, past niet, op dit slot.",
+      "transliteration": "Mein sluy-tel, pahst neet, op dit slot.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T15:59:25.234140"
     }
   ],
-  "last_updated": "2026-09-26T04:18:11.178528"
+  "last_updated": "2026-09-26T15:59:25.234142"
 }
