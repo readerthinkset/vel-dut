@@ -16624,7 +16624,42 @@
       "transliteration": "Mein sluy-tel, pahst neet, op dit slot.",
       "category": "Emergency",
       "generated_at": "2026-09-26T15:59:25.234140"
+    },
+    {
+      "english": "Dutch sounds, unlock your voice.",
+      "dutch": "Nederlandse klanken, ontgrendel je stem.",
+      "transliteration": "Nederlanse klanken, ontgrendel je stem.",
+      "category": "Confidence",
+      "generated_at": "2026-09-26T17:27:24.654867"
+    },
+    {
+      "english": "Brave attempt, Dutch blooms.",
+      "dutch": "Dapper poging, Nederlands bloeit.",
+      "transliteration": "Dapper poging, Nederlands bloeit.",
+      "category": "Confidence",
+      "generated_at": "2026-09-26T17:27:24.654877"
+    },
+    {
+      "english": "Hear Dutch, feel connection.",
+      "dutch": "Hoor Nederlands, voel verbinding.",
+      "transliteration": "Hoor Nederlands, voel verbinding.",
+      "category": "Confidence",
+      "generated_at": "2026-09-26T17:27:24.654878"
+    },
+    {
+      "english": "Your courage, speaks volumes.",
+      "dutch": "Jouw moed, spreekt boekdelen.",
+      "transliteration": "Jouw moed, spreekt boekdelen.",
+      "category": "Confidence",
+      "generated_at": "2026-09-26T17:27:24.654879"
+    },
+    {
+      "english": "Dutch words, your new adventure.",
+      "dutch": "Nederlandse woorden, je nieuw avontuur.",
+      "transliteration": "Nederlanse woorden, je nieuw avontuur.",
+      "category": "Confidence",
+      "generated_at": "2026-09-26T17:27:24.654880"
     }
   ],
-  "last_updated": "2026-09-26T15:59:25.234142"
+  "last_updated": "2026-09-26T17:27:24.654881"
 }
