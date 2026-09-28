@@ -16939,7 +16939,42 @@
       "transliteration": "Zoek het pat, bye dee ou-de mo-len.",
       "category": "Directions",
       "generated_at": "2026-09-28T19:23:11.712504"
+    },
+    {
+      "english": "Ah, hello there, stranger.",
+      "dutch": "Ah, hallo daar, vreemdeling.",
+      "transliteration": "Ah, hah-loh dahr, vreh-ming-deling.",
+      "category": "Greetings",
+      "generated_at": "2026-09-28T22:28:43.040691"
+    },
+    {
+      "english": "A moment for us, yes?",
+      "dutch": "Een momentje voor ons, ja?",
+      "transliteration": "Een mo-men-tyeh voor ons, yah?",
+      "category": "Greetings",
+      "generated_at": "2026-09-28T22:28:43.040701"
+    },
+    {
+      "english": "Welcome, with open arms.",
+      "dutch": "Welkom, met open armen.",
+      "transliteration": "Vel-kom, met oh-pen ahr-men.",
+      "category": "Greetings",
+      "generated_at": "2026-09-28T22:28:43.040702"
+    },
+    {
+      "english": "Good to encounter you.",
+      "dutch": "Fijn u te ontmoeten.",
+      "transliteration": "Fijn oo te ont-moo-ten.",
+      "category": "Greetings",
+      "generated_at": "2026-09-28T22:28:43.040703"
+    },
+    {
+      "english": "The day unfolds, doesn't it?",
+      "dutch": "De dag ontvouwt zich, nietwaar?",
+      "transliteration": "De dahg ont-vowt zich, niet-vahr?",
+      "category": "Greetings",
+      "generated_at": "2026-09-28T22:28:43.040703"
     }
   ],
-  "last_updated": "2026-09-28T19:23:11.712506"
+  "last_updated": "2026-09-28T22:28:43.040705"
 }
