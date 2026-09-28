@@ -16904,7 +16904,42 @@
       "transliteration": "Dee zin, per-fek-te flow.",
       "category": "Success",
       "generated_at": "2026-09-28T04:36:15.293033"
+    },
+    {
+      "english": "Just beyond, that tall church.",
+      "dutch": "Net voorbij, die hoge kerk.",
+      "transliteration": "Net for-bye, dee ho-ge kerk.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T19:23:11.712492"
+    },
+    {
+      "english": "Aim for, the shimmering lake.",
+      "dutch": "Mik op, het glinsterende meer.",
+      "transliteration": "Mick op, het glin-ste-ren-de meer.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T19:23:11.712500"
+    },
+    {
+      "english": "Walk towards, the silent forest.",
+      "dutch": "Loop naar, het stille bos.",
+      "transliteration": "Loop naar, het stil-le bos.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T19:23:11.712502"
+    },
+    {
+      "english": "Pass by, the blooming garden.",
+      "dutch": "Loop langs, de bloeiende tuin.",
+      "transliteration": "Loop langs, de bloei-en-de tuin.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T19:23:11.712503"
+    },
+    {
+      "english": "Find the path, by the old mill.",
+      "dutch": "Zoek het pad, bij de oude molen.",
+      "transliteration": "Zoek het pat, bye dee ou-de mo-len.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T19:23:11.712504"
     }
   ],
-  "last_updated": "2026-09-28T04:36:15.293035"
+  "last_updated": "2026-09-28T19:23:11.712506"
 }
