@@ -17079,7 +17079,42 @@
       "transliteration": "Verras ons, met een keuze.",
       "category": "Restaurant",
       "generated_at": "2026-09-29T17:49:16.971291"
+    },
+    {
+      "english": "A shy dormouse, peeks from a hole.",
+      "dutch": "Een schuchtere slaapmuis, gluurt uit een hol.",
+      "transliteration": "Een schu-khu-r-uh slaa-p-muis, gluurt uit een hol.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T18:56:55.155907"
+    },
+    {
+      "english": "A lumbering bear, searches for berries.",
+      "dutch": "Een waggelende beer, zoekt naar bessen.",
+      "transliteration": "Een wag-ge-len-de beer, zoekt naa-r bes-sen.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T18:56:55.155917"
+    },
+    {
+      "english": "A quick rabbit, twitches its nose.",
+      "dutch": "Een vlug konijn, trekt aan zijn neus.",
+      "transliteration": "Een vlug ko-nijn, trekt aan zijn neus.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T18:56:55.155918"
+    },
+    {
+      "english": "A sleepy koala, clings to a branch.",
+      "dutch": "Een slaperige koala, klampt zich vast aan een tak.",
+      "transliteration": "Een slaa-pe-ri-ge ko-a-laa, klampt zich vast aan een tak.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T18:56:55.155920"
+    },
+    {
+      "english": "A proud peacock, fans its tail feathers.",
+      "dutch": "Een trotse pauw, spreidt zijn staartveren.",
+      "transliteration": "Een trot-se pauw, spreidt zijn staart-ve-ren.",
+      "category": "Animals",
+      "generated_at": "2026-09-29T18:56:55.155921"
     }
   ],
-  "last_updated": "2026-09-29T17:49:16.971293"
+  "last_updated": "2026-09-29T18:56:55.155923"
 }
