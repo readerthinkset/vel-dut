@@ -17044,7 +17044,42 @@
       "transliteration": "Yuh po-ten-see-el, kent hayn khren-zen.",
       "category": "Positive Life",
       "generated_at": "2026-09-29T05:03:49.265748"
+    },
+    {
+      "english": "Something, with a bit of spice?",
+      "dutch": "Iets, met een beetje pit?",
+      "transliteration": "Eets, met een beetje pit?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:49:16.971276"
+    },
+    {
+      "english": "What's, on the grill, tonight?",
+      "dutch": "Wat, staat er vanavond, op de grill?",
+      "transliteration": "Wat, staat er vanavond, op de grill?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:49:16.971286"
+    },
+    {
+      "english": "A light, starter, perhaps?",
+      "dutch": "Een licht, voorgerechtje, misschien?",
+      "transliteration": "Een licht, voorgerechtje, misschien?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:49:16.971288"
+    },
+    {
+      "english": "We'd love, a cozy corner.",
+      "dutch": "We houden, van een knus hoekje.",
+      "transliteration": "We houden, van een knus hoekje.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:49:16.971290"
+    },
+    {
+      "english": "Surprise us, with a choice.",
+      "dutch": "Verras ons, met een keuze.",
+      "transliteration": "Verras ons, met een keuze.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:49:16.971291"
     }
   ],
-  "last_updated": "2026-09-29T05:03:49.265750"
+  "last_updated": "2026-09-29T17:49:16.971293"
 }
