@@ -17429,7 +17429,42 @@
       "transliteration": "On-ze pah-pah, fer-telt hrap-pen.",
       "category": "Family Terms",
       "generated_at": "2026-10-01T20:01:51.380857"
+    },
+    {
+      "english": "A bubbling, joy, overflows.",
+      "dutch": "Een borrelend, geluk, stroomt over.",
+      "transliteration": "En bor-re-lunt, ge-luk, stroo-mut o-ver.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T21:43:33.339328"
+    },
+    {
+      "english": "My heart, dances, lightly.",
+      "dutch": "Mijn hart, danst, lichtjes.",
+      "transliteration": "Mijn hart, danst, lich-ties.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T21:43:33.339340"
+    },
+    {
+      "english": "Sunshine, in my, chest.",
+      "dutch": "Zonneschijn, in mijn, borst.",
+      "transliteration": " Zon-ne-schijn, in mijn, borst.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T21:43:33.339341"
+    },
+    {
+      "english": "A sweet, happy, feeling.",
+      "dutch": "Een zoet, blij, gevoel.",
+      "transliteration": "Een zoot, blai, ge-voel.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T21:43:33.339342"
+    },
+    {
+      "english": "Everything, feels, wonderful.",
+      "dutch": "Alles, voelt, heerlijk.",
+      "transliteration": "Al-les, voelt, heer-lik.",
+      "category": "Joy",
+      "generated_at": "2026-10-01T21:43:33.339343"
     }
   ],
-  "last_updated": "2026-10-01T20:01:51.380859"
+  "last_updated": "2026-10-01T21:43:33.339345"
 }
