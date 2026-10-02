@@ -17534,7 +17534,42 @@
       "transliteration": "Moo-de-ge flu-sters, Ned-er-lands ant-woort.",
       "category": "Confidence",
       "generated_at": "2026-10-02T04:53:23.786522"
+    },
+    {
+      "english": "This knit, feels so handmade.",
+      "dutch": "Deze brei, voelt zo ambachtelijk.",
+      "transliteration": "Deh-zeh brey, felt zo ahm-bahch-tuh-lik.",
+      "category": "Clothes",
+      "generated_at": "2026-10-02T17:36:49.384068"
+    },
+    {
+      "english": "A splash of color, for the day.",
+      "dutch": "Een vleugje kleur, voor de dag.",
+      "transliteration": "Een vleykh-yeh kluhr, voor deh dahkh.",
+      "category": "Clothes",
+      "generated_at": "2026-10-02T17:36:49.384079"
+    },
+    {
+      "english": "This fabric, drapes beautifully.",
+      "dutch": "Deze stof, valt mooi.",
+      "transliteration": "Deh-zeh stohf, valt moy.",
+      "category": "Clothes",
+      "generated_at": "2026-10-02T17:36:49.384081"
+    },
+    {
+      "english": "A classic look, always works.",
+      "dutch": "Een klassieke uitstraling, werkt altijd.",
+      "transliteration": "Een klah-see-keh oyt-strah-ling, werkt ahl-teyd.",
+      "category": "Clothes",
+      "generated_at": "2026-10-02T17:36:49.384082"
+    },
+    {
+      "english": "These accessories, complete the outfit.",
+      "dutch": "Deze accessoires, maken het af.",
+      "transliteration": "Deh-zeh ahk-ses-swah-res, mah-ken het ahf.",
+      "category": "Clothes",
+      "generated_at": "2026-10-02T17:36:49.384083"
     }
   ],
-  "last_updated": "2026-10-02T04:53:23.786524"
+  "last_updated": "2026-10-02T17:36:49.384085"
 }
