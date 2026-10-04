@@ -17849,7 +17849,42 @@
       "transliteration": "Pro-bayr dee zin, lang-zahm.",
       "category": "Courage",
       "generated_at": "2026-10-04T17:53:45.301667"
+    },
+    {
+      "english": "You catch the sound, nicely.",
+      "dutch": "Je pikt het geluid op, mooi zo.",
+      "transliteration": "Ye pikt het ge-LOUDT op, MOY zo.",
+      "category": "Success",
+      "generated_at": "2026-10-04T20:00:56.156189"
+    },
+    {
+      "english": "A small win, every time.",
+      "dutch": "Een kleine overwinning, telkens weer.",
+      "transliteration": "En KLEI-ne o-ver-VEEN-ing, TEL-kens weer.",
+      "category": "Success",
+      "generated_at": "2026-10-04T20:00:56.156200"
+    },
+    {
+      "english": "That phrase, you nailed it.",
+      "dutch": "Die zin, die heb je goed gedaan.",
+      "transliteration": "Dee ZIN, dee HEBB ye KHUDT ge-DAAN.",
+      "category": "Success",
+      "generated_at": "2026-10-04T20:00:56.156202"
+    },
+    {
+      "english": "The meaning, clear now.",
+      "dutch": "De betekenis, nu helder.",
+      "transliteration": "De be-TEE-ke-nis, NOO HEL-der.",
+      "category": "Success",
+      "generated_at": "2026-10-04T20:00:56.156203"
+    },
+    {
+      "english": "A good guess, listen again.",
+      "dutch": "Een goede gok, luister nog eens.",
+      "transliteration": "En GOO-de KHOK, LUIS-ter NOG eens.",
+      "category": "Success",
+      "generated_at": "2026-10-04T20:00:56.156204"
     }
   ],
-  "last_updated": "2026-10-04T17:53:45.301669"
+  "last_updated": "2026-10-04T20:00:56.156206"
 }
