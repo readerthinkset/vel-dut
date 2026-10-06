@@ -18199,7 +18199,42 @@
       "transliteration": "Gaa door, naar de fon-tein.",
       "category": "Directions",
       "generated_at": "2026-10-06T19:10:12.189526"
+    },
+    {
+      "english": "This little café, is a treasure.",
+      "dutch": "Dit kleine café, is een schat.",
+      "transliteration": "Dit kley-nuh kah-fay, is een schat.",
+      "category": "Travel",
+      "generated_at": "2026-10-06T21:32:02.286924"
+    },
+    {
+      "english": "The scent, of fresh bread.",
+      "dutch": "De geur, van vers brood.",
+      "transliteration": "De geur, van vers broht.",
+      "category": "Travel",
+      "generated_at": "2026-10-06T21:32:02.286933"
+    },
+    {
+      "english": "Where, can I recharge?",
+      "dutch": "Waar, kan ik opladen?",
+      "transliteration": "Waar, kahn ik op-lah-den?",
+      "category": "Travel",
+      "generated_at": "2026-10-06T21:32:02.286934"
+    },
+    {
+      "english": "That melody, is enchanting.",
+      "dutch": "Die melodie, is betoverend.",
+      "transliteration": "Dee meh-lo-dee, is beh-toh-veh-rent.",
+      "category": "Travel",
+      "generated_at": "2026-10-06T21:32:02.286936"
+    },
+    {
+      "english": "This cobblestone path, invites exploration.",
+      "dutch": "Dit kasseienpad, nodigt uit.",
+      "transliteration": "Dit kah-say-en-pahd, noh-digt oyt.",
+      "category": "Travel",
+      "generated_at": "2026-10-06T21:32:02.286937"
     }
   ],
-  "last_updated": "2026-10-06T19:10:12.189527"
+  "last_updated": "2026-10-06T21:32:02.286939"
 }
