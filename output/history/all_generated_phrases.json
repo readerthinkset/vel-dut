@@ -18129,7 +18129,42 @@
       "transliteration": "Un kwisp-el-en-de start, toont vray-ghe.",
       "category": "Body Parts",
       "generated_at": "2026-10-06T05:39:58.756124"
+    },
+    {
+      "english": "Morning light, paints the sky.",
+      "dutch": "Ochtendlicht, kleurt de lucht.",
+      "transliteration": "Okh-tent-likht, kloo-rt de lukht.",
+      "category": "Time",
+      "generated_at": "2026-10-06T18:03:25.885465"
+    },
+    {
+      "english": "A quiet hour, just for me.",
+      "dutch": "Een rustig uur, alleen voor mij.",
+      "transliteration": "Un roos-tigh uur, ah-lane voor migh.",
+      "category": "Time",
+      "generated_at": "2026-10-06T18:03:25.885475"
+    },
+    {
+      "english": "Quickly now, we must depart.",
+      "dutch": "Snel nu, we moeten gaan.",
+      "transliteration": "Snell nyoo, we moo-ten ghaan.",
+      "category": "Time",
+      "generated_at": "2026-10-06T18:03:25.885477"
+    },
+    {
+      "english": "The afternoon, drifts along.",
+      "dutch": "De middag, drijft voort.",
+      "transliteration": "De mid-dakh, driift voo-rt.",
+      "category": "Time",
+      "generated_at": "2026-10-06T18:03:25.885478"
+    },
+    {
+      "english": "Wait a moment, please do.",
+      "dutch": "Wacht even, alsjeblieft.",
+      "transliteration": "Wakh ev-en, als-yeh-bleeft.",
+      "category": "Time",
+      "generated_at": "2026-10-06T18:03:25.885480"
     }
   ],
-  "last_updated": "2026-10-06T05:39:58.756126"
+  "last_updated": "2026-10-06T18:03:25.885481"
 }
