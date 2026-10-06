@@ -18164,7 +18164,42 @@
       "transliteration": "Wakh ev-en, als-yeh-bleeft.",
       "category": "Time",
       "generated_at": "2026-10-06T18:03:25.885480"
+    },
+    {
+      "english": "Go on, past the baker's.",
+      "dutch": "Ga verder, langs de bakker.",
+      "transliteration": "Gaa ver-der, langs de bak-ker.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T19:10:12.189508"
+    },
+    {
+      "english": "Seek the blue door.",
+      "dutch": "Zoek de blauwe deur.",
+      "transliteration": "Zoek de blau-we deur.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T19:10:12.189522"
+    },
+    {
+      "english": "Towards the busy market.",
+      "dutch": "Richting de drukke markt.",
+      "transliteration": "Rik-ting de druk-ke markt.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T19:10:12.189523"
+    },
+    {
+      "english": "It's right, near the canal.",
+      "dutch": "Het is rechts, bij de gracht.",
+      "transliteration": "Het is rechts, bij de gracht.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T19:10:12.189525"
+    },
+    {
+      "english": "Continue, to the fountain.",
+      "dutch": "Ga door, naar de fontein.",
+      "transliteration": "Gaa door, naar de fon-tein.",
+      "category": "Directions",
+      "generated_at": "2026-10-06T19:10:12.189526"
     }
   ],
-  "last_updated": "2026-10-06T18:03:25.885481"
+  "last_updated": "2026-10-06T19:10:12.189527"
 }
