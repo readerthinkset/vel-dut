@@ -18584,7 +18584,42 @@
       "transliteration": "Elk mo-ment, met yow, is bij-zon-der.",
       "category": "Relationships",
       "generated_at": "2026-10-08T21:56:09.339445"
+    },
+    {
+      "english": "That cheese, aged nicely.",
+      "dutch": "Die kaas, heerlijk gerijpt.",
+      "transliteration": "Dee kahs, hayr-likh ghuh-rypt.",
+      "category": "Food",
+      "generated_at": "2026-10-09T00:09:49.751257"
+    },
+    {
+      "english": "A juicy plum, sweet.",
+      "dutch": "Een sappige pruim, zoet.",
+      "transliteration": "Eyn sah-pi-ghuh pruym, zoot.",
+      "category": "Food",
+      "generated_at": "2026-10-09T00:09:49.751265"
+    },
+    {
+      "english": "This pasta, al dente.",
+      "dutch": "Deze pasta, beetgaar.",
+      "transliteration": "Dey-zuh pah-stah, beet-ghaar.",
+      "category": "Food",
+      "generated_at": "2026-10-09T00:09:49.751266"
+    },
+    {
+      "english": "Warm rice, fluffy.",
+      "dutch": "Warme rijst, luchtig.",
+      "transliteration": "War-muh ryst, lukh-tikh.",
+      "category": "Food",
+      "generated_at": "2026-10-09T00:09:49.751267"
+    },
+    {
+      "english": "Crispy bacon, sizzles.",
+      "dutch": "Krokant spek, sist.",
+      "transliteration": "Kroh-kahnt spek, sist.",
+      "category": "Food",
+      "generated_at": "2026-10-09T00:09:49.751269"
     }
   ],
-  "last_updated": "2026-10-08T21:56:09.339447"
+  "last_updated": "2026-10-09T00:09:49.751270"
 }
