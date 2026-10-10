@@ -18864,7 +18864,42 @@
       "transliteration": "Wolken, als losse wol.",
       "category": "Weather",
       "generated_at": "2026-10-10T20:32:25.759164"
+    },
+    {
+      "english": "A single note, hangs in air.",
+      "dutch": "Eén noot, hangt in de lucht.",
+      "transliteration": "Ehn noht, hahngkt ihn deh luhkt.",
+      "category": "Music",
+      "generated_at": "2026-10-10T23:17:02.397001"
+    },
+    {
+      "english": "That rhythm, it grabs me.",
+      "dutch": "Dat ritme, het pakt me.",
+      "transliteration": "Daht rit-meh, heht pahkt meh.",
+      "category": "Music",
+      "generated_at": "2026-10-10T23:17:02.397011"
+    },
+    {
+      "english": "The melody, it dances free.",
+      "dutch": "De melodie, danst vrij rond.",
+      "transliteration": "Deh meh-loh-dee, dahnsht frai rohnd.",
+      "category": "Music",
+      "generated_at": "2026-10-10T23:17:02.397012"
+    },
+    {
+      "english": "A quiet hum, then builds.",
+      "dutch": "Een zacht gezoem, bouwt op.",
+      "transliteration": "Ehn sahkt geh-zoom, bowt ohp.",
+      "category": "Music",
+      "generated_at": "2026-10-10T23:17:02.397014"
+    },
+    {
+      "english": "The bassline, a deep rumble.",
+      "dutch": "De baslijn, een diep gerommel.",
+      "transliteration": "Deh bahs-lain, ehn deep geh-roh-mehl.",
+      "category": "Music",
+      "generated_at": "2026-10-10T23:17:02.397015"
     }
   ],
-  "last_updated": "2026-10-10T20:32:25.759165"
+  "last_updated": "2026-10-10T23:17:02.397016"
 }
