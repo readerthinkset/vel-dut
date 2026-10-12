@@ -19144,7 +19144,42 @@
       "transliteration": "Laat nieu-we woor-den, wor-te-len.",
       "category": "Self Improvement",
       "generated_at": "2026-10-12T21:01:32.468456"
+    },
+    {
+      "english": "This, is an, emergency, situation.",
+      "dutch": "Dit, is een, noodgeval, nu.",
+      "transliteration": "Dit, is een, noodgeval, nu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T21:54:16.254616"
+    },
+    {
+      "english": "I need, to report, something, serious.",
+      "dutch": "Ik moet, iets, melden, dringend.",
+      "transliteration": "Ik moet, iets, melden, dringend.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T21:54:16.254624"
+    },
+    {
+      "english": "Someone, needs, immediate, aid, right now.",
+      "dutch": "Iemand, heeft, direct, hulp, nodig.",
+      "transliteration": "Iemand, heeft, direct, hulp, nodig.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T21:54:16.254626"
+    },
+    {
+      "english": "There's, a fire, nearby, I think.",
+      "dutch": "Er is, brand, dichtbij, geloof ik.",
+      "transliteration": "Er is, brand, dichtbij, geloof ik.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T21:54:16.254627"
+    },
+    {
+      "english": "My wallet, it's vanished, completely.",
+      "dutch": "Mijn portemonnee, weg, ineens.",
+      "transliteration": "Mijn portemonnee, weg, ineens.",
+      "category": "Emergency",
+      "generated_at": "2026-10-12T21:54:16.254628"
     }
   ],
-  "last_updated": "2026-10-12T21:01:32.468457"
+  "last_updated": "2026-10-12T21:54:16.254630"
 }
