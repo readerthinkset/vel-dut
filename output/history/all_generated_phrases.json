@@ -19179,7 +19179,42 @@
       "transliteration": "Mijn portemonnee, weg, ineens.",
       "category": "Emergency",
       "generated_at": "2026-10-12T21:54:16.254628"
+    },
+    {
+      "english": "This outfit, feels so right.",
+      "dutch": "Deze outfit, voelt zo goed.",
+      "transliteration": "Deh-zeh outfit, voelt zo goot.",
+      "category": "Clothes",
+      "generated_at": "2026-10-12T23:34:18.766090"
+    },
+    {
+      "english": "Such a cool print, on this tee.",
+      "dutch": "Zo'n gave print, op dit shirt.",
+      "transliteration": "Zo'n ga-veh print, op dit shirt.",
+      "category": "Clothes",
+      "generated_at": "2026-10-12T23:34:18.766105"
+    },
+    {
+      "english": "These jeans, a perfect fit.",
+      "dutch": "Deze spijkerbroek, zit perfect.",
+      "transliteration": "Deh-zeh spai-ker-broek, zit per-fect.",
+      "category": "Clothes",
+      "generated_at": "2026-10-12T23:34:18.766106"
+    },
+    {
+      "english": "Love this sweater, so warm.",
+      "dutch": "Mooi dit vest, lekker warm.",
+      "transliteration": "Mooi dit vest, lek-ker warm.",
+      "category": "Clothes",
+      "generated_at": "2026-10-12T23:34:18.766107"
+    },
+    {
+      "english": "That skirt, has movement.",
+      "dutch": "Die rok, die zwier.",
+      "transliteration": "Dee rok, dee zwier.",
+      "category": "Clothes",
+      "generated_at": "2026-10-12T23:34:18.766108"
     }
   ],
-  "last_updated": "2026-10-12T21:54:16.254630"
+  "last_updated": "2026-10-12T23:34:18.766110"
 }
