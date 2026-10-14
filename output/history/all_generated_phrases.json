@@ -19459,7 +19459,42 @@
       "transliteration": "Laat het pro-ses, zich ont-vow-en.",
       "category": "Patience",
       "generated_at": "2026-10-14T04:13:52.918096"
+    },
+    {
+      "english": "This dish, sounds amazing.",
+      "dutch": "Dit gerecht, klinkt geweldig.",
+      "transliteration": "Dit ger-echt, klinkt ge-wel-dig.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T16:45:01.638708"
+    },
+    {
+      "english": "Could we, see the wine list?",
+      "dutch": "Mogen we, de wijnkaart zien?",
+      "transliteration": "Mo-gen we, de wijn-kaart zien?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T16:45:01.638723"
+    },
+    {
+      "english": "What's, a popular choice?",
+      "dutch": "Wat is, een populair gerecht?",
+      "transliteration": "Wat is, een po-pu-lair ge-recht?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T16:45:01.638724"
+    },
+    {
+      "english": "We'd like, something local.",
+      "dutch": "We willen, iets lokaals.",
+      "transliteration": "We wil-len, iets lo-kaals.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T16:45:01.638726"
+    },
+    {
+      "english": "Can you, explain this one?",
+      "dutch": "Kunt u, dit uitleggen?",
+      "transliteration": "Kunt u, dit uit-leg-gen?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-14T16:45:01.638727"
     }
   ],
-  "last_updated": "2026-10-14T04:13:52.918098"
+  "last_updated": "2026-10-14T16:45:01.638728"
 }
