@@ -19739,7 +19739,42 @@
       "transliteration": "A-dem een ri-vier, li-chaam een boot.",
       "category": "Balance",
       "generated_at": "2026-10-15T22:55:12.126408"
+    },
+    {
+      "english": "Look for, the crooked lamppost.",
+      "dutch": "Zoek, de scheve lantaarnpaal.",
+      "transliteration": "Zook, deh skay-veh lan-tarn-paal.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T03:52:55.774301"
+    },
+    {
+      "english": "Follow the, river's gentle curve.",
+      "dutch": "Volg, de zachte rivierbocht.",
+      "transliteration": "Folkh, deh zakh-teh ree-veer-bohkht.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T03:52:55.774311"
+    },
+    {
+      "english": "Head for, that solitary oak.",
+      "dutch": "Ga naar, die eenzame eik.",
+      "transliteration": "Gah naar, dee ayn-zah-meh ayk.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T03:52:55.774312"
+    },
+    {
+      "english": "Listen for, the distant church bells.",
+      "dutch": "Luister naar, de verre kerkklokken.",
+      "transliteration": "Luy-ster naar, deh fay-reh kerk-klok-ken.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T03:52:55.774314"
+    },
+    {
+      "english": "Go past, the noisy pub.",
+      "dutch": "Ga langs, de rumoerige kroeg.",
+      "transliteration": "Gah langs, deh roo-moo-reh-geh kroogh.",
+      "category": "Directions",
+      "generated_at": "2026-10-16T03:52:55.774315"
     }
   ],
-  "last_updated": "2026-10-15T22:55:12.126410"
+  "last_updated": "2026-10-16T03:52:55.774317"
 }
