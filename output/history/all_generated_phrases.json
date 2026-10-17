@@ -20019,7 +20019,42 @@
       "transliteration": "Een boot-tocht, rus-tig wa-ter.",
       "category": "Holidays",
       "generated_at": "2026-10-17T16:42:13.335482"
+    },
+    {
+      "english": "A strong arm, lifts the heavy box.",
+      "dutch": "Een sterke arm, tilt de zware doos.",
+      "transliteration": "En STER-keh ARM, tilt de ZWA-reh DOHS.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T19:09:42.853097"
+    },
+    {
+      "english": "Her foot, taps the rhythm.",
+      "dutch": "Haar voet, tikt het ritme.",
+      "transliteration": "Har VOET, tikt het RIT-meh.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T19:09:42.853105"
+    },
+    {
+      "english": "My finger, points to the map.",
+      "dutch": "Mijn vinger, wijst de kaart aan.",
+      "transliteration": "Mijn VIN-ger, wijst de KART an.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T19:09:42.853107"
+    },
+    {
+      "english": "His head, nods slowly.",
+      "dutch": "Zijn hoofd, knikt langzaam.",
+      "transliteration": "Zijn HOOFD, knikt LANG-zam.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T19:09:42.853108"
+    },
+    {
+      "english": "A cheek, blushes red.",
+      "dutch": "Een wang, kleurt rood.",
+      "transliteration": "En WANG, kleurt ROHT.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-17T19:09:42.853110"
     }
   ],
-  "last_updated": "2026-10-17T16:42:13.335484"
+  "last_updated": "2026-10-17T19:09:42.853111"
 }
