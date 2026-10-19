@@ -20229,7 +20229,42 @@
       "transliteration": "Laht vrah-khuhn bloo-yuhn, dahn ahnt-wor-duh-n.",
       "category": "Self Improvement",
       "generated_at": "2026-10-18T22:15:09.882736"
+    },
+    {
+      "english": "The train, is delayed, unfortunately.",
+      "dutch": "De trein, hij is vertraagd, helaas.",
+      "transliteration": "De train, hy is ver-traykht, hel-aas.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T03:58:49.806890"
+    },
+    {
+      "english": "My car, it won't start, oh dear.",
+      "dutch": "Mijn auto, die start niet, o jee.",
+      "transliteration": "Myn ah-toe, dee start neet, oh yay.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T03:58:49.806899"
+    },
+    {
+      "english": "I feel, a bit dizzy, suddenly.",
+      "dutch": "Ik voel, me wat duizelig, plotseling.",
+      "transliteration": "Ik fool, meh waht dou-zi-lukh, plot-suh-link.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T03:58:49.806901"
+    },
+    {
+      "english": "Is this, water, safe, to drink?",
+      "dutch": "Is dit, water, veilig, om te drinken?",
+      "transliteration": "Is dit, wah-ter, fay-lukh, om teh drink-en?",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T03:58:49.806902"
+    },
+    {
+      "english": "My leg, it feels numb, strange.",
+      "dutch": "Mijn been, het voelt gevoelloos, vreemd.",
+      "transliteration": "Myn bayn, het foolt ge-fool-lohs, vraymt.",
+      "category": "Emergency",
+      "generated_at": "2026-10-19T03:58:49.806902"
     }
   ],
-  "last_updated": "2026-10-18T22:15:09.882738"
+  "last_updated": "2026-10-19T03:58:49.806904"
 }
