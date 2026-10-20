@@ -20439,7 +20439,42 @@
       "transliteration": "Be-ghroot deh dahkh, zahch-tjes.",
       "category": "Daily Routine",
       "generated_at": "2026-10-20T16:58:29.017129"
+    },
+    {
+      "english": "A ripe apple, for my snack.",
+      "dutch": "Een rijpe appel, voor mijn tussendoortje.",
+      "transliteration": "Ein rye-pe appel, voor mijn tussendortje.",
+      "category": "Food",
+      "generated_at": "2026-10-20T18:27:29.321350"
+    },
+    {
+      "english": "That cheese, smells a little sharp.",
+      "dutch": "Die kaas, ruikt een beetje scherp.",
+      "transliteration": "Dee kaas, ruykt ein beetje scherp.",
+      "category": "Food",
+      "generated_at": "2026-10-20T18:27:29.321360"
+    },
+    {
+      "english": "Fresh herbs, from the garden.",
+      "dutch": "Verse kruiden, uit de tuin.",
+      "transliteration": "Verse kruyden, uyt de tuyn.",
+      "category": "Food",
+      "generated_at": "2026-10-20T18:27:29.321362"
+    },
+    {
+      "english": "Sweet berries, a summer joy.",
+      "dutch": "Zoete bessen, een zomerse vreugde.",
+      "transliteration": "Zoete bessun, ein zomerse vrayde.",
+      "category": "Food",
+      "generated_at": "2026-10-20T18:27:29.321363"
+    },
+    {
+      "english": "That pastry, so buttery.",
+      "dutch": "Dat gebakje, zo boterzacht.",
+      "transliteration": "Dat gebakje, zo boterzacht.",
+      "category": "Food",
+      "generated_at": "2026-10-20T18:27:29.321364"
     }
   ],
-  "last_updated": "2026-10-20T16:58:29.017130"
+  "last_updated": "2026-10-20T18:27:29.321366"
 }
