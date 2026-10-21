@@ -20614,7 +20614,42 @@
       "transliteration": "CODE ont-VOUWT, met GRA-tie.",
       "category": "Technology",
       "generated_at": "2026-10-21T20:36:03.626227"
+    },
+    {
+      "english": "Sun, warms the whole garden.",
+      "dutch": "Zon, warmt de hele tuin.",
+      "transliteration": "Zon, warmt de hele tuin.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:17:15.499643"
+    },
+    {
+      "english": "Sky, a deep blue canvas.",
+      "dutch": "Lucht, een diepblauw doek.",
+      "transliteration": "Lucht, een diepblauw doek.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:17:15.499654"
+    },
+    {
+      "english": "Wind, blows the fallen leaves.",
+      "dutch": "Wind, blaast de vallende bladeren.",
+      "transliteration": "Wind, blaast de vallende bladeren.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:17:15.499655"
+    },
+    {
+      "english": "Rain, a gentle drumming sound.",
+      "dutch": "Regen, een zacht trommelgeluid.",
+      "transliteration": "Regen, een zacht trommelgeluid.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:17:15.499657"
+    },
+    {
+      "english": "Fog, hides the distant mountains.",
+      "dutch": "Mist, verbergt de verre bergen.",
+      "transliteration": "Mist, verbergt de verre bergen.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:17:15.499658"
     }
   ],
-  "last_updated": "2026-10-21T20:36:03.626229"
+  "last_updated": "2026-10-21T23:17:15.499660"
 }
