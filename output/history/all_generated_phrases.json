@@ -20544,7 +20544,42 @@
       "transliteration": "Storm-wolk paars, dra-ma-ti-se stem-ming.",
       "category": "Colors",
       "generated_at": "2026-10-21T17:07:47.324486"
+    },
+    {
+      "english": "Just a beat, then we'll move.",
+      "dutch": "Gewoon een tel, dan gaan we.",
+      "transliteration": "Guh-vohn uhn tel, dahn gaahn weh.",
+      "category": "Time",
+      "generated_at": "2026-10-21T18:34:49.178839"
+    },
+    {
+      "english": "The hour approaches, slowly.",
+      "dutch": "Het uur nadert, langzaam.",
+      "transliteration": "Het uur nah-derts, laang-zahm.",
+      "category": "Time",
+      "generated_at": "2026-10-21T18:34:49.178849"
+    },
+    {
+      "english": "A brief pause, for breath.",
+      "dutch": "Een korte adempauze, even.",
+      "transliteration": "Ehn kor-tuh ah-dem-pow-zuh, eh-vuhn.",
+      "category": "Time",
+      "generated_at": "2026-10-21T18:34:49.178849"
+    },
+    {
+      "english": "Time for a change, now.",
+      "dutch": "Tijd voor verandering, nu.",
+      "transliteration": "Tijd voor fur-an-duh-ring, nu.",
+      "category": "Time",
+      "generated_at": "2026-10-21T18:34:49.178850"
+    },
+    {
+      "english": "When the moment is right.",
+      "dutch": "Als het moment goed is.",
+      "transliteration": "Als het moh-ment khoot is.",
+      "category": "Time",
+      "generated_at": "2026-10-21T18:34:49.178851"
     }
   ],
-  "last_updated": "2026-10-21T17:07:47.324488"
+  "last_updated": "2026-10-21T18:34:49.178852"
 }
