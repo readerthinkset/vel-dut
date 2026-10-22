@@ -20789,7 +20789,42 @@
       "transliteration": "MO-lens DRAAI-en, LANG-zaam ge-STAACH.",
       "category": "Common Expressions",
       "generated_at": "2026-10-22T20:32:14.946028"
+    },
+    {
+      "english": "Listen, the music starts.",
+      "dutch": "Luister, de muziek begint.",
+      "transliteration": "Lwis-ter, de mu-ziek be-gint.",
+      "category": "Music",
+      "generated_at": "2026-10-22T23:34:37.948618"
+    },
+    {
+      "english": "A sweet sound, fills the room.",
+      "dutch": "Een lief geluid, vult de kamer.",
+      "transliteration": "Een lief ge-luid, vult de ka-mer.",
+      "category": "Music",
+      "generated_at": "2026-10-22T23:34:37.948627"
+    },
+    {
+      "english": "Can you hear, the gentle notes?",
+      "dutch": "Hoor je, de zachte tonen?",
+      "transliteration": "Hoort je, de zacht-te to-nen?",
+      "category": "Music",
+      "generated_at": "2026-10-22T23:34:37.948629"
+    },
+    {
+      "english": "The rhythm, it moves your feet.",
+      "dutch": "Het ritme, het beweegt je voeten.",
+      "transliteration": "Het rit-me, het be-weegt je voe-ten.",
+      "category": "Music",
+      "generated_at": "2026-10-22T23:34:37.948630"
+    },
+    {
+      "english": "A new song, calls to us.",
+      "dutch": "Een nieuw lied, roept ons toe.",
+      "transliteration": "Een nieuw lied, roept ons toe.",
+      "category": "Music",
+      "generated_at": "2026-10-22T23:34:37.948631"
     }
   ],
-  "last_updated": "2026-10-22T20:32:14.946032"
+  "last_updated": "2026-10-22T23:34:37.948633"
 }
