@@ -20649,7 +20649,42 @@
       "transliteration": "Mist, verbergt de verre bergen.",
       "category": "Weather",
       "generated_at": "2026-10-21T23:17:15.499658"
+    },
+    {
+      "english": "Something, light, for starters?",
+      "dutch": "Iets, lichts, vooraf?",
+      "transliteration": "Eets, lichts, voor-af?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-22T04:33:41.678189"
+    },
+    {
+      "english": "What, can you suggest?",
+      "dutch": "Wat, kunt u aanraden?",
+      "transliteration": "Wat, kunt u aan-ra-den?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-22T04:33:41.678198"
+    },
+    {
+      "english": "This, smells wonderful.",
+      "dutch": "Dit, ruikt heerlijk.",
+      "transliteration": "Dit, ruikt heer-lijk.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-22T04:33:41.678200"
+    },
+    {
+      "english": "A table, for one, please.",
+      "dutch": "Een tafel, voor één, alstublieft.",
+      "transliteration": "Een ta-fel, voor één, al-stublieft.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-22T04:33:41.678201"
+    },
+    {
+      "english": "We'll take, a moment.",
+      "dutch": "We nemen, een moment.",
+      "transliteration": "We ne-men, een mo-ment.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-22T04:33:41.678202"
     }
   ],
-  "last_updated": "2026-10-21T23:17:15.499660"
+  "last_updated": "2026-10-22T04:33:41.678204"
 }
