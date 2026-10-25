@@ -21209,7 +21209,42 @@
       "transliteration": "Deze plek, voelt niet, goed.",
       "category": "Emergency",
       "generated_at": "2026-10-25T16:09:38.999456"
+    },
+    {
+      "english": "Yes, you've got it.",
+      "dutch": "Ja, je hebt het.",
+      "transliteration": "Yah, yuh hehpt het.",
+      "category": "Success",
+      "generated_at": "2026-10-25T17:42:56.140377"
+    },
+    {
+      "english": "That clicks now.",
+      "dutch": "Dat klikt nu.",
+      "transliteration": "Dat klikt nyoo.",
+      "category": "Success",
+      "generated_at": "2026-10-25T17:42:56.140386"
+    },
+    {
+      "english": "You're understanding, really.",
+      "dutch": "Je begrijpt het, echt.",
+      "transliteration": "Yuh beh-greipt het, echt.",
+      "category": "Success",
+      "generated_at": "2026-10-25T17:42:56.140388"
+    },
+    {
+      "english": "Brilliant, try again.",
+      "dutch": "Briljant, probeer opnieuw.",
+      "transliteration": "Bril-yant, pro-beer op-neew.",
+      "category": "Success",
+      "generated_at": "2026-10-25T17:42:56.140389"
+    },
+    {
+      "english": "That makes sense, yes.",
+      "dutch": "Dat is logisch, ja.",
+      "transliteration": "Dat is lo-ghis, yah.",
+      "category": "Success",
+      "generated_at": "2026-10-25T17:42:56.140390"
     }
   ],
-  "last_updated": "2026-10-25T16:09:38.999458"
+  "last_updated": "2026-10-25T17:42:56.140392"
 }
