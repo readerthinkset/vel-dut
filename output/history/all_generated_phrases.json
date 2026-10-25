@@ -21174,7 +21174,42 @@
       "transliteration": "Omarm het leh-ren, glim-lakh.",
       "category": "Courage",
       "generated_at": "2026-10-25T04:32:20.537918"
+    },
+    {
+      "english": "Help, I'm stuck, here.",
+      "dutch": "Help, ik zit, vast.",
+      "transliteration": "Help, ik zit, vast.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T16:09:38.999438"
+    },
+    {
+      "english": "Quiet please, listen, closely.",
+      "dutch": "Stil nu, luister, goed.",
+      "transliteration": "Stil nu, luister, goed.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T16:09:38.999451"
+    },
+    {
+      "english": "Is anyone, there, at all?",
+      "dutch": "Is er, iemand, daar?",
+      "transliteration": "Is er, iemand, daar?",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T16:09:38.999454"
+    },
+    {
+      "english": "My alarm, is ringing, loudly.",
+      "dutch": "Mijn alarm, gaat af, hard.",
+      "transliteration": "Mijn alarm, gaat af, hard.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T16:09:38.999455"
+    },
+    {
+      "english": "This area, feels wrong, somehow.",
+      "dutch": "Deze plek, voelt niet, goed.",
+      "transliteration": "Deze plek, voelt niet, goed.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T16:09:38.999456"
     }
   ],
-  "last_updated": "2026-10-25T04:32:20.537920"
+  "last_updated": "2026-10-25T16:09:38.999458"
 }
