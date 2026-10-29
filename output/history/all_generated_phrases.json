@@ -21909,7 +21909,42 @@
       "transliteration": "Dit ou-duh book, beh-vat een kheh-hym.",
       "category": "Travel",
       "generated_at": "2026-10-29T21:45:51.821642"
+    },
+    {
+      "english": "My jacket, it's weather-proof.",
+      "dutch": "Mijn jas, hij is waterdicht.",
+      "transliteration": "Mine yas, hie is vater-dicht.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T23:57:49.854886"
+    },
+    {
+      "english": "These pants, are very comfy.",
+      "dutch": "Deze broek, zit heerlijk.",
+      "transliteration": "Deh-ze broek, zit heer-lik.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T23:57:49.854897"
+    },
+    {
+      "english": "That dress, has lovely details.",
+      "dutch": "Die jurk, met mooie details.",
+      "transliteration": "Dee yurk, met moy-e de-tails.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T23:57:49.854899"
+    },
+    {
+      "english": "Your shoes, they sparkle a lot.",
+      "dutch": "Je schoenen, ze glinsteren erg.",
+      "transliteration": "Ye schoe-nen, ze glin-ste-ren erg.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T23:57:49.854901"
+    },
+    {
+      "english": "This shirt, feels like silk.",
+      "dutch": "Dit hemd, voelt als zijde.",
+      "transliteration": "Dit hemt, feelt als zay-de.",
+      "category": "Clothes",
+      "generated_at": "2026-10-29T23:57:49.854902"
     }
   ],
-  "last_updated": "2026-10-29T21:45:51.821644"
+  "last_updated": "2026-10-29T23:57:49.854904"
 }
