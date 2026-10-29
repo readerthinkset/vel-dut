@@ -21839,7 +21839,42 @@
       "transliteration": "De draad ont-ra-felt, lang-zaam.",
       "category": "Patience",
       "generated_at": "2026-10-29T18:26:48.381902"
+    },
+    {
+      "english": "Venture onward, toward the ancient ruins.",
+      "dutch": "Ga verder, naar de oude ruïnes.",
+      "transliteration": "Gaa fer-der, naar de ou-de rui-nes.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T19:35:10.981507"
+    },
+    {
+      "english": "Seek out, the hidden courtyard.",
+      "dutch": "Zoek, het verborgen hofje.",
+      "transliteration": "Zoek, het ver-bor-gen hof-je.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T19:35:10.981517"
+    },
+    {
+      "english": "Follow, the whisper of the wind.",
+      "dutch": "Volg, het gefluister van de wind.",
+      "transliteration": "Volg, het ge-fluis-ter van de vind.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T19:35:10.981518"
+    },
+    {
+      "english": "Make for, the solitary lighthouse.",
+      "dutch": "Ga naar, de eenzame vuurtoren.",
+      "transliteration": "Gaa naar, de een-za-me vuur-to-ren.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T19:35:10.981519"
+    },
+    {
+      "english": "Head in, the direction of the mountains.",
+      "dutch": "Ga richting, de bergen.",
+      "transliteration": "Gaa rik-ting, de ber-gen.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T19:35:10.981520"
     }
   ],
-  "last_updated": "2026-10-29T18:26:48.381904"
+  "last_updated": "2026-10-29T19:35:10.981522"
 }
