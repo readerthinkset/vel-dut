@@ -22014,7 +22014,42 @@
       "transliteration": "Gah in ge-SPREK met kunst, in de OOR-sprong.",
       "category": "Purpose",
       "generated_at": "2026-10-30T19:17:15.005166"
+    },
+    {
+      "english": "Yes, that's it!, you've got it.",
+      "dutch": "Ja, precies!, je snapt het.",
+      "transliteration": "Ya, pre-sees!, ye snapt het.",
+      "category": "Success",
+      "generated_at": "2026-10-30T23:47:59.304605"
+    },
+    {
+      "english": "Spot on!, your Dutch is growing.",
+      "dutch": "Perfect!, je Nederlands groeit.",
+      "transliteration": "Per-fect!, ye Ne-der-lands groeit.",
+      "category": "Success",
+      "generated_at": "2026-10-30T23:47:59.304614"
+    },
+    {
+      "english": "Excellent!, that sounded right.",
+      "dutch": "Uitstekend!, dat klonk goed.",
+      "transliteration": "Uit-ste-kend!, dat klonk goot.",
+      "category": "Success",
+      "generated_at": "2026-10-30T23:47:59.304616"
+    },
+    {
+      "english": "Fantastic!, a new phrase unlocked.",
+      "dutch": "Fantastisch!, een nieuwe zin ontgrendeld.",
+      "transliteration": "Fan-tas-tisch!, een nie-we zin ont-gren-delt.",
+      "category": "Success",
+      "generated_at": "2026-10-30T23:47:59.304617"
+    },
+    {
+      "english": "Well done!, you're really listening.",
+      "dutch": "Goed gedaan!, je luistert echt.",
+      "transliteration": "Goot ge-daan!, ye lues-tert echt.",
+      "category": "Success",
+      "generated_at": "2026-10-30T23:47:59.304618"
     }
   ],
-  "last_updated": "2026-10-30T19:17:15.005168"
+  "last_updated": "2026-10-30T23:47:59.304620"
 }
