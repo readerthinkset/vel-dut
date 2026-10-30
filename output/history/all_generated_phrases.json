@@ -21944,7 +21944,42 @@
       "transliteration": "Dit hemt, feelt als zay-de.",
       "category": "Clothes",
       "generated_at": "2026-10-29T23:57:49.854902"
+    },
+    {
+      "english": "A tiny cookie, quite delightful.",
+      "dutch": "Een klein koekje, best lekker.",
+      "transliteration": "Un kline kook-ye, best lek-ker.",
+      "category": "Food",
+      "generated_at": "2026-10-30T05:37:36.709145"
+    },
+    {
+      "english": "This yogurt, smooth and creamy.",
+      "dutch": "Deze yoghurt, glad en romig.",
+      "transliteration": "Dez-e yoh-ghurt, glahd en roh-mig.",
+      "category": "Food",
+      "generated_at": "2026-10-30T05:37:36.709156"
+    },
+    {
+      "english": "A warm croissant, flaky layers.",
+      "dutch": "Een warme croissant, luchtige laagjes.",
+      "transliteration": "Un war-me kro-sahnt, lukh-ti-ghe laa-gh-yes.",
+      "category": "Food",
+      "generated_at": "2026-10-30T05:37:36.709157"
+    },
+    {
+      "english": "That pickle, wonderfully sour.",
+      "dutch": "Die augurk, heerlijk zuur.",
+      "transliteration": "Dee ow-ghurk, heer-lik zoor.",
+      "category": "Food",
+      "generated_at": "2026-10-30T05:37:36.709159"
+    },
+    {
+      "english": "My apple, crisp and refreshing.",
+      "dutch": "Mijn appel, fris en knapperig.",
+      "transliteration": "Mine ap-pel, fris en knap-per-ig.",
+      "category": "Food",
+      "generated_at": "2026-10-30T05:37:36.709160"
     }
   ],
-  "last_updated": "2026-10-29T23:57:49.854904"
+  "last_updated": "2026-10-30T05:37:36.709161"
 }
