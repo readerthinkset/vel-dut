@@ -22154,7 +22154,42 @@
       "transliteration": "Rek je soep-el, omarm de dag.",
       "category": "Health",
       "generated_at": "2026-10-31T18:29:27.037404"
+    },
+    {
+      "english": "The clock ticks, a steady rhythm.",
+      "dutch": "De klok tikt, een vast ritme.",
+      "transliteration": "De klok tikt, een vast ritme.",
+      "category": "Time",
+      "generated_at": "2026-10-31T20:27:11.827189"
+    },
+    {
+      "english": "Wait a bit, we'll be there.",
+      "dutch": "Wacht even, we zijn er zo.",
+      "transliteration": "Wacht even, we zijn er zo.",
+      "category": "Time",
+      "generated_at": "2026-10-31T20:27:11.827197"
+    },
+    {
+      "english": "Just a second, then we're done.",
+      "dutch": "Nog een seconde, dan klaar.",
+      "transliteration": "Nog een seconde, dan klaar.",
+      "category": "Time",
+      "generated_at": "2026-10-31T20:27:11.827199"
+    },
+    {
+      "english": "In a little while, we'll leave.",
+      "dutch": "Zo meteen, vertrekken we.",
+      "transliteration": "Zo meteen, vertrekken we.",
+      "category": "Time",
+      "generated_at": "2026-10-31T20:27:11.827201"
+    },
+    {
+      "english": "The evening approaches, slowly.",
+      "dutch": "De avond komt eraan, langzaam.",
+      "transliteration": "De avond komt eraan, langzaam.",
+      "category": "Time",
+      "generated_at": "2026-10-31T20:27:11.827202"
     }
   ],
-  "last_updated": "2026-10-31T18:29:27.037406"
+  "last_updated": "2026-10-31T20:27:11.827204"
 }
