@@ -22364,7 +22364,42 @@
       "transliteration": "En blij, kleyne sprong-eh-tje.",
       "category": "Joy",
       "generated_at": "2026-11-01T21:08:59.235364"
+    },
+    {
+      "english": "A lone cloud, drifts lazily.",
+      "dutch": "Een eenzame wolk, drijft loom.",
+      "transliteration": "Een een-za-ne wolk, drijft loom.",
+      "category": "Nature",
+      "generated_at": "2026-11-01T23:34:38.348379"
+    },
+    {
+      "english": "The stream, chuckles over rocks.",
+      "dutch": "De beek, kletst over stenen.",
+      "transliteration": "De beek, kletst o-ver ste-nen.",
+      "category": "Nature",
+      "generated_at": "2026-11-01T23:34:38.348388"
+    },
+    {
+      "english": "Green shoots, push through earth.",
+      "dutch": "Groene scheuten, dringen door grond.",
+      "transliteration": "Gro-ne scheu-ten, drin-gen door grond.",
+      "category": "Nature",
+      "generated_at": "2026-11-01T23:34:38.348390"
+    },
+    {
+      "english": "A dragonfly, darts past.",
+      "dutch": "Een libel, schiet voorbij.",
+      "transliteration": "Een li-bel, schiet voor-bij.",
+      "category": "Nature",
+      "generated_at": "2026-11-01T23:34:38.348391"
+    },
+    {
+      "english": "Forest floor, smells of damp.",
+      "dutch": "Bosbodem, ruikt naar vocht.",
+      "transliteration": "Bos-bo-dem, ruikt naar vocht.",
+      "category": "Nature",
+      "generated_at": "2026-11-01T23:34:38.348392"
     }
   ],
-  "last_updated": "2026-11-01T21:08:59.235366"
+  "last_updated": "2026-11-01T23:34:38.348393"
 }
