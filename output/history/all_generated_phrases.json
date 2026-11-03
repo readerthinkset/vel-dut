@@ -22609,7 +22609,42 @@
       "transliteration": "Vijf nieuwsgierige vragen, ontgrendel de les.",
       "category": "Numbers",
       "generated_at": "2026-11-03T06:38:09.458522"
+    },
+    {
+      "english": "Breathe in, Dutch flows out.",
+      "dutch": "Adem in, Nederlands stroomt eruit.",
+      "transliteration": "Adem in, Nederlands stroomt eruit.",
+      "category": "Growth",
+      "generated_at": "2026-11-03T19:28:40.000025"
+    },
+    {
+      "english": "Slow down, pronounce the vowels clearly.",
+      "dutch": "Vertraag, spreek de klinkers helder.",
+      "transliteration": "Vertraag, spreek de klinkers helder.",
+      "category": "Growth",
+      "generated_at": "2026-11-03T19:28:40.000034"
+    },
+    {
+      "english": "Pause, then say it again.",
+      "dutch": "Pauzeer, zeg het daarna opnieuw.",
+      "transliteration": "Pauzeer, zeg het daarna opnieuw.",
+      "category": "Growth",
+      "generated_at": "2026-11-03T19:28:40.000036"
+    },
+    {
+      "english": "Feel the beat, match the stress.",
+      "dutch": "Voel het ritme, match de klemtoon.",
+      "transliteration": "Voel het ritme, match de klemtoon.",
+      "category": "Growth",
+      "generated_at": "2026-11-03T19:28:40.000038"
+    },
+    {
+      "english": "From one word, build a question.",
+      "dutch": "Van één woord, bouw een vraag.",
+      "transliteration": "Van één woord, bouw een vraag.",
+      "category": "Growth",
+      "generated_at": "2026-11-03T19:28:40.000039"
     }
   ],
-  "last_updated": "2026-11-03T06:38:09.458525"
+  "last_updated": "2026-11-03T19:28:40.000041"
 }
