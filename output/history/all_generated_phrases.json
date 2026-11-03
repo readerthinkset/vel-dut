@@ -22539,7 +22539,42 @@
       "transliteration": "Laat de zin-nen, je ver-ras-sen.",
       "category": "Motivation",
       "generated_at": "2026-11-02T23:52:31.878130"
+    },
+    {
+      "english": "Sudden, strong pain, here.",
+      "dutch": "Plotselinge, hevige pijn, hier.",
+      "transliteration": "Plotselinguh, hevige pijn, hier.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T02:17:21.982548"
+    },
+    {
+      "english": "I'm lost, can you help?",
+      "dutch": "Ik ben verdwaald, kunt u helpen?",
+      "transliteration": "Ik ben ferdwaald, kunt u helpen?",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T02:17:21.982559"
+    },
+    {
+      "english": "The power, it just went out.",
+      "dutch": "De stroom, die viel plotseling uit.",
+      "transliteration": "De stroom, die fiel plotseling uyt.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T02:17:21.982560"
+    },
+    {
+      "english": "My breathing, feels difficult.",
+      "dutch": "Mijn ademhaling, voelt moeilijk.",
+      "transliteration": "Mijn ademhaling, voelt moelyk.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T02:17:21.982561"
+    },
+    {
+      "english": "I need, a doctor, urgently.",
+      "dutch": "Ik heb, een dokter, nodig, dringend.",
+      "transliteration": "Ik heb, een dokter, nodig, dringend.",
+      "category": "Emergency",
+      "generated_at": "2026-11-03T02:17:21.982562"
     }
   ],
-  "last_updated": "2026-11-02T23:52:31.878131"
+  "last_updated": "2026-11-03T02:17:21.982564"
 }
