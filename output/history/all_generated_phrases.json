@@ -22784,7 +22784,42 @@
       "transliteration": "Geef door met plan, ren naar ruimte.",
       "category": "Sports",
       "generated_at": "2026-11-04T06:05:23.988153"
+    },
+    {
+      "english": "Cross the street, then breathe in deeply",
+      "dutch": "Steek de straat over, en adem diep in",
+      "transliteration": "Steek de straat over, en adem diep in",
+      "category": "Directions",
+      "generated_at": "2026-11-04T19:43:14.137088"
+    },
+    {
+      "english": "Keep to the sidewalk, near the bicycles",
+      "dutch": "Blijf op het trottoir, naast de fietsen",
+      "transliteration": "Blijf op het trottoir, naast de fietsen",
+      "category": "Directions",
+      "generated_at": "2026-11-04T19:43:14.137096"
+    },
+    {
+      "english": "Turn right, at the red mailbox",
+      "dutch": "Sla rechtsaf, bij de rode brievenbus",
+      "transliteration": "Sla rechtsaf, bij de rode brievenbus",
+      "category": "Directions",
+      "generated_at": "2026-11-04T19:43:14.137098"
+    },
+    {
+      "english": "Take the first left, past the bakery smell",
+      "dutch": "Sla de eerste linksaf, voorbij de bakkergeur",
+      "transliteration": "Sla de eerste linksaf, voorbij de bakkergeur",
+      "category": "Directions",
+      "generated_at": "2026-11-04T19:43:14.137099"
+    },
+    {
+      "english": "Walk forward, until the tram appears",
+      "dutch": "Loop door, tot de tram verschijnt",
+      "transliteration": "Loop door, tot de tram verschijnt",
+      "category": "Directions",
+      "generated_at": "2026-11-04T19:43:14.137101"
     }
   ],
-  "last_updated": "2026-11-04T06:05:23.988155"
+  "last_updated": "2026-11-04T19:43:14.137102"
 }
