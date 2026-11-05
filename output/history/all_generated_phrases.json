@@ -22959,7 +22959,42 @@
       "transliteration": "Controleer de verbinding, en probeer opnieuw.",
       "category": "Technology",
       "generated_at": "2026-11-05T06:34:38.296444"
+    },
+    {
+      "english": "How much does this cost, exactly, please?",
+      "dutch": "Wat kost dit precies, alstublieft?",
+      "transliteration": "Wat kost dit precies, alstublieft?",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T19:54:45.323053"
+    },
+    {
+      "english": "Is there a discount, today, maybe?",
+      "dutch": "Is er vandaag korting, misschien?",
+      "transliteration": "Is er vandaag korting, misschien?",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T19:54:45.323064"
+    },
+    {
+      "english": "Do you have this in my size?",
+      "dutch": "Heeft u dit in mijn maat?",
+      "transliteration": "Heeft u dit in mijn maat?",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T19:54:45.323065"
+    },
+    {
+      "english": "Where is this made, in which country?",
+      "dutch": "Waar wordt dit gemaakt, in welk land?",
+      "transliteration": "Waar wordt dit gemaakt, in welk land?",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T19:54:45.323065"
+    },
+    {
+      "english": "Can I check the quality, up close?",
+      "dutch": "Mag ik de kwaliteit even bekijken, van dichtbij?",
+      "transliteration": "Mag ik de kwaliteit even bekijken, van dichtbij?",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T19:54:45.323066"
     }
   ],
-  "last_updated": "2026-11-05T06:34:38.296446"
+  "last_updated": "2026-11-05T19:54:45.323067"
 }
