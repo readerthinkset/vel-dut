@@ -23064,7 +23064,42 @@
       "transliteration": "Mijn zus, lieve woorden, dapper hart",
       "category": "Family Terms",
       "generated_at": "2026-11-05T22:39:55.811994"
+    },
+    {
+      "english": "Good morning, how are you today?",
+      "dutch": "Goedemorgen, hoe gaat het met je vandaag?",
+      "transliteration": "Goede-morgen, hoe gaat het met je vandaag?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-06T00:57:59.657250"
+    },
+    {
+      "english": "Please, speak a little slower.",
+      "dutch": "Alsjeblieft, spreek iets langzamer.",
+      "transliteration": "Alsje-blieft, spreek iets langzamer.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-06T00:57:59.657260"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "dutch": "Waar is het dichtstbijzijnde treinstation?",
+      "transliteration": "Waar is het dichtstbijzijnde trein-station?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-06T00:57:59.657262"
+    },
+    {
+      "english": "I would like a coffee, please.",
+      "dutch": "Ik wil graag een kop koffie, alsjeblieft.",
+      "transliteration": "Ik wil graag een kop koffie, alsje-blieft.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-06T00:57:59.657263"
+    },
+    {
+      "english": "Do you have this in English?",
+      "dutch": "Heb je dit in het Engels?",
+      "transliteration": "Heb je dit in het Engels?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-06T00:57:59.657264"
     }
   ],
-  "last_updated": "2026-11-05T22:39:55.811996"
+  "last_updated": "2026-11-06T00:57:59.657266"
 }
