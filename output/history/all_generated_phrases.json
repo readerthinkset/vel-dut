@@ -23904,7 +23904,42 @@
       "transliteration": "De re-gen be-gint, we blij-ven sa-men ge-zellig.",
       "category": "Holidays",
       "generated_at": "2026-11-10T19:07:28.848369"
+    },
+    {
+      "english": "Hi there, fijn dat je er bent.",
+      "dutch": "Hoi, fijn dat je er bent.",
+      "transliteration": "hoi, fijn dat je er bent",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:39:15.770614"
+    },
+    {
+      "english": "Hey, hoe gaat het met je vandaag?",
+      "dutch": "Hoi, hoe gaat het met je vandaag?",
+      "transliteration": "hoi, hoe gaat het met je vandaag",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:39:15.770626"
+    },
+    {
+      "english": "Good morning, welkom bij ons gesprek!",
+      "dutch": "Goedemorgen, welkom bij ons gesprek!",
+      "transliteration": "goedemorgen, welkom bij ons gesprek",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:39:15.770627"
+    },
+    {
+      "english": "Hi, leuk dat we elkaar spreken.",
+      "dutch": "Hoi, leuk dat we elkaar spreken.",
+      "transliteration": "hoi, leuk dat we elkaar spreken",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:39:15.770629"
+    },
+    {
+      "english": "Goeie dag! Wat fijn om je te zien.",
+      "dutch": "Goeiedag! Wat fijn om je te zien.",
+      "transliteration": "goo-ie dag, wat fijn om je te zien",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T20:39:15.770630"
     }
   ],
-  "last_updated": "2026-11-10T19:07:28.848370"
+  "last_updated": "2026-11-10T20:39:15.770632"
 }
