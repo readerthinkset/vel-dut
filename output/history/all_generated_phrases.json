@@ -23834,7 +23834,42 @@
       "transliteration": "Duw door je hielen, ontspan je tenen, blijf stil.",
       "category": "Balance",
       "generated_at": "2026-11-10T07:31:23.394809"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "dutch": "Kunnen we de menukaart zien, alstublieft?",
+      "transliteration": "Kun-nen we de ME-nu-kaart zien, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T08:26:04.541919"
+    },
+    {
+      "english": "What are today’s specials, exactly?",
+      "dutch": "Wat zijn de specials van vandaag?",
+      "transliteration": "Wat zijn de SPE-zi-aels van VAN-daag",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T08:26:04.541930"
+    },
+    {
+      "english": "Do you have vegetarian options, too?",
+      "dutch": "Hebben jullie ook vegetarische opties?",
+      "transliteration": "Heb-ben jul-lie ook vege-TA-rische op-ties",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T08:26:04.541932"
+    },
+    {
+      "english": "I’m allergic to peanuts, please.",
+      "dutch": "Ik heb een allergie voor pinda’s, alstublieft.",
+      "transliteration": "Ik heb een al-ler-gie voor PIN-das, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T08:26:04.541933"
+    },
+    {
+      "english": "Is the food served quickly here?",
+      "dutch": "Wordt het eten hier snel geserveerd?",
+      "transliteration": "Wordt het E-ten hier snel ge-ser-veer’d",
+      "category": "Restaurant",
+      "generated_at": "2026-11-10T08:26:04.541935"
     }
   ],
-  "last_updated": "2026-11-10T07:31:23.394811"
+  "last_updated": "2026-11-10T08:26:04.541937"
 }
