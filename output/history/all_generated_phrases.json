@@ -24044,7 +24044,42 @@
       "transliteration": "Kan ik hier met pin betalen?",
       "category": "Shopping",
       "generated_at": "2026-11-11T05:42:43.659478"
+    },
+    {
+      "english": "Hope is a small light inside.",
+      "dutch": "Hoop is een klein licht vanbinnen.",
+      "transliteration": "hop is een klein licht van-bin-nen",
+      "category": "Hope",
+      "generated_at": "2026-11-11T19:03:57.719114"
+    },
+    {
+      "english": "Stay kind, things can turn around.",
+      "dutch": "Blijf lief, het kan keren.",
+      "transliteration": "blijf lief, het kan ke-ren",
+      "category": "Hope",
+      "generated_at": "2026-11-11T19:03:57.719129"
+    },
+    {
+      "english": "Even so, I choose to hope.",
+      "dutch": "Toch kies ik ervoor om te hopen.",
+      "transliteration": "toch kies ik er-voor om te ho-pen",
+      "category": "Hope",
+      "generated_at": "2026-11-11T19:03:57.719131"
+    },
+    {
+      "english": "Hold on, je ziet het straks.",
+      "dutch": "Houd vol, je ziet het zo.",
+      "transliteration": "houd vol, je ziet het zo",
+      "category": "Hope",
+      "generated_at": "2026-11-11T19:03:57.719133"
+    },
+    {
+      "english": "Tomorrow looks better, if we try.",
+      "dutch": "Morgen ziet er beter uit, als we proberen.",
+      "transliteration": "mor-gen ziet er be-ter uit, als we pro-be-ren",
+      "category": "Hope",
+      "generated_at": "2026-11-11T19:03:57.719135"
     }
   ],
-  "last_updated": "2026-11-11T05:42:43.659480"
+  "last_updated": "2026-11-11T19:03:57.719137"
 }
