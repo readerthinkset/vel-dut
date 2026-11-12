@@ -24184,7 +24184,42 @@
       "transliteration": "wacht even, een seconde, oke",
       "category": "Time",
       "generated_at": "2026-11-12T06:48:32.940223"
+    },
+    {
+      "english": "How late does this train run?",
+      "dutch": "Hoe laat rijdt deze trein nog?",
+      "transliteration": "Hoe laat rijdt deze trein nog?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T19:23:35.884700"
+    },
+    {
+      "english": "Where is the nearest restroom, please?",
+      "dutch": "Waar is het dichtstbijzijnde toilet?",
+      "transliteration": "Waar is het dichtstbijzijnde toilet?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T19:23:35.884716"
+    },
+    {
+      "english": "I’d like a ticket for two people.",
+      "dutch": "Ik wil graag een kaartje voor twee.",
+      "transliteration": "Ik wil graag een kaartje voor twee.",
+      "category": "Travel",
+      "generated_at": "2026-11-12T19:23:35.884719"
+    },
+    {
+      "english": "Does this bus stop near the museum?",
+      "dutch": "Stopt deze bus bij het museum?",
+      "transliteration": "Stopt deze bus bij het museum?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T19:23:35.884720"
+    },
+    {
+      "english": "What time does the canal cruise start?",
+      "dutch": "Hoe laat begint de rondvaart over de gracht?",
+      "transliteration": "Hoe laat begint de rondvaart over de gracht?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T19:23:35.884722"
     }
   ],
-  "last_updated": "2026-11-12T06:48:32.940225"
+  "last_updated": "2026-11-12T19:23:35.884724"
 }
