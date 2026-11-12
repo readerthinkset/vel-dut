@@ -24219,7 +24219,42 @@
       "transliteration": "Hoe laat begint de rondvaart over de gracht?",
       "category": "Travel",
       "generated_at": "2026-11-12T19:23:35.884722"
+    },
+    {
+      "english": "I wake up, check my phone.",
+      "dutch": "Ik word wakker, check mijn telefoon.",
+      "transliteration": "Ik vorm vak-er, chek min telefoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T21:11:40.176748"
+    },
+    {
+      "english": "I sit up, blink away sleep.",
+      "dutch": "Ik ga zitten, knipper slaap weg.",
+      "transliteration": "Ik ga zii-ten, knipper slaap weg.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T21:11:40.176763"
+    },
+    {
+      "english": "I pull on my robe, quietly.",
+      "dutch": "Ik trek mijn kamerjas aan, zachtjes.",
+      "transliteration": "Ik trek min kamerjas aan, zacht-jes.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T21:11:40.176765"
+    },
+    {
+      "english": "Curtains open, daylight comes in.",
+      "dutch": "De gordijnen gaan open, daglicht komt binnen.",
+      "transliteration": "De gordi-nen gaan oopen, daglicht komt binn-en.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T21:11:40.176766"
+    },
+    {
+      "english": "I brush my teeth, rinse, then smile.",
+      "dutch": "Ik poets mijn tanden, spoel, en glimlach.",
+      "transliteration": "Ik poets min tanden, speel, en glim-lach.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T21:11:40.176767"
     }
   ],
-  "last_updated": "2026-11-12T19:23:35.884724"
+  "last_updated": "2026-11-12T21:11:40.176769"
 }
