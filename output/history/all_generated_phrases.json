@@ -24429,7 +24429,42 @@
       "transliteration": "Stel een vraag, wees dapper",
       "category": "Courage",
       "generated_at": "2026-11-13T20:41:41.608138"
+    },
+    {
+      "english": "Excuse me, where is the tram stop?",
+      "dutch": "Pardon, waar is de tramhalte?",
+      "transliteration": "PAR-don, waar is de TRAM-hal-teh?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:22:20.983346"
+    },
+    {
+      "english": "Can you say that once more, please?",
+      "dutch": "Kun je dat nog eens zeggen, alsjeblieft?",
+      "transliteration": "KUN je dat nog eens zeg-gen, als-je-lief-t?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:22:20.983360"
+    },
+    {
+      "english": "I’m looking for this address, sorry.",
+      "dutch": "Ik zoek dit adres, sorry.",
+      "transliteration": "ik ZOEK dit AD-res, sor-ry.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:22:20.983361"
+    },
+    {
+      "english": "What time does it open, exactly?",
+      "dutch": "Hoe laat gaat het open, precies?",
+      "transliteration": "hoe laat gaat het oopen, pre-cies?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:22:20.983363"
+    },
+    {
+      "english": "I’ll be there in five minutes.",
+      "dutch": "Ik ben er over vijf minuten.",
+      "transliteration": "ik ben er o-ver vijf mi-nu-ten.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-13T22:22:20.983365"
     }
   ],
-  "last_updated": "2026-11-13T20:41:41.608139"
+  "last_updated": "2026-11-13T22:22:20.983366"
 }
