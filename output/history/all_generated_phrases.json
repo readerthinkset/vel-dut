@@ -24289,7 +24289,42 @@
       "transliteration": "var-muh dahk-hten mah-kun al-les lich-ter",
       "category": "Positive Life",
       "generated_at": "2026-11-12T22:33:13.534694"
+    },
+    {
+      "english": "It’s sunny today, really bright outside.",
+      "dutch": "Het is zonnig vandaag, echt heel helder.",
+      "transliteration": "Het is zonnig vandaag, echt heel helder.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T00:56:11.740964"
+    },
+    {
+      "english": "The sun is behind the clouds again.",
+      "dutch": "De zon zit weer achter de wolken.",
+      "transliteration": "De zon zit weer achter de wolken.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T00:56:11.740978"
+    },
+    {
+      "english": "A few clouds pass, then clear up.",
+      "dutch": "Er gaan wat wolken voorbij, dan klaart het op.",
+      "transliteration": "Er gaan wat wolken voorbij, dan klaart het op.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T00:56:11.740979"
+    },
+    {
+      "english": "The sky is bright blue right now.",
+      "dutch": "De lucht is nu helderblauw.",
+      "transliteration": "De lucht is nu helderblauw.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T00:56:11.740980"
+    },
+    {
+      "english": "It’s warm, so I’ll wear less.",
+      "dutch": "Het is warm, dus ik draag minder.",
+      "transliteration": "Het is warm, dus ik draag minder.",
+      "category": "Weather",
+      "generated_at": "2026-11-13T00:56:11.740980"
     }
   ],
-  "last_updated": "2026-11-12T22:33:13.534697"
+  "last_updated": "2026-11-13T00:56:11.740982"
 }
