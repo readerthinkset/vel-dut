@@ -24324,7 +24324,42 @@
       "transliteration": "Het is warm, dus ik draag minder.",
       "category": "Weather",
       "generated_at": "2026-11-13T00:56:11.740980"
+    },
+    {
+      "english": "I’m glowing from the inside out.",
+      "dutch": "Ik straal van binnenuit.",
+      "transliteration": "ik straa(l) van bin-nenuit",
+      "category": "Joy",
+      "generated_at": "2026-11-13T06:05:21.987436"
+    },
+    {
+      "english": "Joy is rising, so quietly.",
+      "dutch": "Blijdschap stijgt, heel zacht.",
+      "transliteration": "blij-dschap stijgt, heel zacht",
+      "category": "Joy",
+      "generated_at": "2026-11-13T06:05:21.987452"
+    },
+    {
+      "english": "I feel light, like after rain.",
+      "dutch": "Ik voel me licht, net na regen.",
+      "transliteration": "ik voel me licht, net na re-gen",
+      "category": "Joy",
+      "generated_at": "2026-11-13T06:05:21.987454"
+    },
+    {
+      "english": "Something good happens right now.",
+      "dutch": "Er gebeurt iets goeds, nu.",
+      "transliteration": "er ge-beurt iest goeds, nu",
+      "category": "Joy",
+      "generated_at": "2026-11-13T06:05:21.987455"
+    },
+    {
+      "english": "My shoulders drop, and I relax.",
+      "dutch": "Mijn schouders zakken, en ik ontspan.",
+      "transliteration": "mijn schou-ders zak-ken, en ik ont-span",
+      "category": "Joy",
+      "generated_at": "2026-11-13T06:05:21.987457"
     }
   ],
-  "last_updated": "2026-11-13T00:56:11.740982"
+  "last_updated": "2026-11-13T06:05:21.987459"
 }
