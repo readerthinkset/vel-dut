@@ -24569,7 +24569,42 @@
       "transliteration": "ehn gh-streeptuh ZE-brah driNKt bih deh drinh-plaats",
       "category": "Animals",
       "generated_at": "2026-11-14T17:30:28.912676"
+    },
+    {
+      "english": "Start with small sentences, today.",
+      "dutch": "Begin met kleine zinnen, vandaag.",
+      "transliteration": "beGIN mit KLEINE zinNEN, VAN-daag",
+      "category": "Education",
+      "generated_at": "2026-11-14T18:53:56.071113"
+    },
+    {
+      "english": "Ask a question, using Dutch.",
+      "dutch": "Stel een vraag, in het Nederlands.",
+      "transliteration": "stel een VRAAG, in het neDER-lants",
+      "category": "Education",
+      "generated_at": "2026-11-14T18:53:56.071124"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "dutch": "Herhaal na mij, rustig.",
+      "transliteration": "he-RAAL na MIJ, RUS-tig",
+      "category": "Education",
+      "generated_at": "2026-11-14T18:53:56.071126"
+    },
+    {
+      "english": "Write one word, then read it.",
+      "dutch": "Schrijf één woord, en lees het.",
+      "transliteration": "schrijf EEN woord, en LEES het",
+      "category": "Education",
+      "generated_at": "2026-11-14T18:53:56.071127"
+    },
+    {
+      "english": "Turn mistakes into helpful lessons.",
+      "dutch": "Maak fouten, leer ervan.",
+      "transliteration": "maak FOU-ten, leer er-van",
+      "category": "Education",
+      "generated_at": "2026-11-14T18:53:56.071129"
     }
   ],
-  "last_updated": "2026-11-14T17:30:28.912677"
+  "last_updated": "2026-11-14T18:53:56.071131"
 }
