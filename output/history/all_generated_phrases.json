@@ -24604,7 +24604,42 @@
       "transliteration": "maak FOU-ten, leer er-van",
       "category": "Education",
       "generated_at": "2026-11-14T18:53:56.071129"
+    },
+    {
+      "english": "Help! I think there is a gas leak.",
+      "dutch": "Help! Ik denk dat er een gaslek is.",
+      "transliteration": "help! ik denk dat er een gaslek is",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T21:04:46.616801"
+    },
+    {
+      "english": "Call emergency services right now, please.",
+      "dutch": "Bel direct de hulpdiensten, alsjeblieft.",
+      "transliteration": "bel direct de hulpdiensten, alsjeblieft",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T21:04:46.616814"
+    },
+    {
+      "english": "Please stay calm, help is coming.",
+      "dutch": "Blijf alsjeblieft kalm, de hulp komt eraan.",
+      "transliteration": "blijf alsjeblieft kalm, de hulp komt eraan",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T21:04:46.616815"
+    },
+    {
+      "english": "I can’t breathe well, it’s scary.",
+      "dutch": "Ik kan niet goed ademen, het is eng.",
+      "transliteration": "ik kan niet goed ademen, het is eng",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T21:04:46.616817"
+    },
+    {
+      "english": "There is smoke, we must move.",
+      "dutch": "Er is rook, we moeten weg.",
+      "transliteration": "er is rook, we moeten weg",
+      "category": "Emergency",
+      "generated_at": "2026-11-14T21:04:46.616818"
     }
   ],
-  "last_updated": "2026-11-14T18:53:56.071131"
+  "last_updated": "2026-11-14T21:04:46.616819"
 }
