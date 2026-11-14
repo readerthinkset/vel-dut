@@ -24639,7 +24639,42 @@
       "transliteration": "er is rook, we moeten weg",
       "category": "Emergency",
       "generated_at": "2026-11-14T21:04:46.616818"
+    },
+    {
+      "english": "Go straight ahead, then turn left.",
+      "dutch": "Ga rechtdoor, en sla linksaf.",
+      "transliteration": "Ga reCHT-door, en sla LÍNks-af.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T23:41:32.250480"
+    },
+    {
+      "english": "Turn right at the next corner.",
+      "dutch": "Sla rechtsaf bij de volgende hoek.",
+      "transliteration": "Sla RECHTsaf bij de VÓLgende hoek.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T23:41:32.250496"
+    },
+    {
+      "english": "Walk on, until you see the park.",
+      "dutch": "Loop door, tot je het park ziet.",
+      "transliteration": "Loop door, tot je het parK ziet.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T23:41:32.250498"
+    },
+    {
+      "english": "Keep going, the station is nearby.",
+      "dutch": "Blijf doorlopen, het station is dichtbij.",
+      "transliteration": "BLIF door-lo-pen, het STA-ti-on is DICHTbij.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T23:41:32.250500"
+    },
+    {
+      "english": "Head north, past the big supermarket.",
+      "dutch": "Ga noordwaarts, langs de grote supermarkt.",
+      "transliteration": "Ga NOORD-waar-ts, langs de GRO-te su-per-MARKT.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T23:41:32.250501"
     }
   ],
-  "last_updated": "2026-11-14T21:04:46.616819"
+  "last_updated": "2026-11-14T23:41:32.250504"
 }
