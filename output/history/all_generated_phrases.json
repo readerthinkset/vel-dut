@@ -24919,7 +24919,42 @@
       "transliteration": "maak je geen zor-gen, we be-grij-pen je",
       "category": "Confidence",
       "generated_at": "2026-11-16T21:28:41.695084"
+    },
+    {
+      "english": "Before we start, let's set priorities.",
+      "dutch": "Voor we beginnen, laten we prioriteiten stellen.",
+      "transliteration": "vohr we buh-ginnen, laten we pri-or-tei-ten steh-len",
+      "category": "Work",
+      "generated_at": "2026-11-16T23:05:10.958934"
+    },
+    {
+      "english": "Can you summarize the current status?",
+      "dutch": "Kun je de huidige status samenvatten?",
+      "transliteration": "kun je de huy-di-ge stah-tus saam-vatten",
+      "category": "Work",
+      "generated_at": "2026-11-16T23:05:10.958946"
+    },
+    {
+      "english": "I'll double-check the numbers, quickly.",
+      "dutch": "Ik check de cijfers snel nog eens.",
+      "transliteration": "ik chek de si-fers snel nog eens",
+      "category": "Work",
+      "generated_at": "2026-11-16T23:05:10.958948"
+    },
+    {
+      "english": "Please send the update by 3 pm.",
+      "dutch": "Stuur de update vóór drie uur.",
+      "transliteration": "stuur de up-deit voor drie uur",
+      "category": "Work",
+      "generated_at": "2026-11-16T23:05:10.958950"
+    },
+    {
+      "english": "We have time, but not too much.",
+      "dutch": "We hebben tijd, maar niet te veel.",
+      "transliteration": "we heb-ben teid, maar niet teh veul",
+      "category": "Work",
+      "generated_at": "2026-11-16T23:05:10.958951"
     }
   ],
-  "last_updated": "2026-11-16T21:28:41.695086"
+  "last_updated": "2026-11-16T23:05:10.958953"
 }
