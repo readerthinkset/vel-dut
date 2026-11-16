@@ -24884,7 +24884,42 @@
       "transliteration": "Ik waardeer het dat je aan me dacht.",
       "category": "Gratitude",
       "generated_at": "2026-11-16T05:54:01.481262"
+    },
+    {
+      "english": "You can do this, speak naturally.",
+      "dutch": "Je kunt dit, spreek gewoon.",
+      "transliteration": "yuh kunt dit, spreek gewoon",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:28:41.695067"
+    },
+    {
+      "english": "Take a breath, and say it.",
+      "dutch": "Adem in, en zeg het.",
+      "transliteration": "a-dem in, en zeg het",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:28:41.695079"
+    },
+    {
+      "english": "I believe in you, keep going.",
+      "dutch": "Ik geloof in je, ga door.",
+      "transliteration": "ik ge-loof in yuh, ga door",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:28:41.695081"
+    },
+    {
+      "english": "Start small, your Dutch will grow.",
+      "dutch": "Begin klein, je Nederlands groeit.",
+      "transliteration": "be-gin klein, yuh neder-lands groeit",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:28:41.695083"
+    },
+    {
+      "english": "Don’t worry, we understand you.",
+      "dutch": "Maak je geen zorgen, we begrijpen je.",
+      "transliteration": "maak je geen zor-gen, we be-grij-pen je",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:28:41.695084"
     }
   ],
-  "last_updated": "2026-11-16T05:54:01.481264"
+  "last_updated": "2026-11-16T21:28:41.695086"
 }
