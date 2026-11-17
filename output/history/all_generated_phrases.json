@@ -25129,7 +25129,42 @@
       "transliteration": "Wacht eev-en, ik ben bijna klaar",
       "category": "Time",
       "generated_at": "2026-11-17T21:57:40.172222"
+    },
+    {
+      "english": "I can't log in right now, sorry.",
+      "dutch": "Ik kan nu niet inloggen, sorry.",
+      "transliteration": "Ik kan nu niet inloggen, sow-ree",
+      "category": "Technology",
+      "generated_at": "2026-11-17T23:43:49.697192"
+    },
+    {
+      "english": "My Wi‑Fi is slow today, it stutters.",
+      "dutch": "Mijn wifi is vandaag traag, het hikt.",
+      "transliteration": "Mijn wie-fie is van-daag traag, het hikt",
+      "category": "Technology",
+      "generated_at": "2026-11-17T23:43:49.697203"
+    },
+    {
+      "english": "Can you help me pair these earbuds?",
+      "dutch": "Kun je helpen om deze oordopjes te koppelen?",
+      "transliteration": "Kun je hel-pen om de-ze oor-dop-jes te kop-pe-len",
+      "category": "Technology",
+      "generated_at": "2026-11-17T23:43:49.697205"
+    },
+    {
+      "english": "The battery drains fast, I'm worried.",
+      "dutch": "De batterij loopt snel leeg, ik maak me zorgen.",
+      "transliteration": "De ba-tte-rij loopt snel leeg, ik maak me zor-gen",
+      "category": "Technology",
+      "generated_at": "2026-11-17T23:43:49.697209"
+    },
+    {
+      "english": "Just reboot it, then try again.",
+      "dutch": "Herstart het even, en probeer het opnieuw.",
+      "transliteration": "Her-start het e-ven, en pro-beer het op-nieuw",
+      "category": "Technology",
+      "generated_at": "2026-11-17T23:43:49.697210"
     }
   ],
-  "last_updated": "2026-11-17T21:57:40.172227"
+  "last_updated": "2026-11-17T23:43:49.697212"
 }
