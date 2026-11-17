@@ -25059,7 +25059,42 @@
       "transliteration": "Koffie ruikt heerlijk, ik ben klaar.",
       "category": "Food",
       "generated_at": "2026-11-17T07:30:45.291166"
+    },
+    {
+      "english": "Can we get bread with our meal?",
+      "dutch": "Krijgen we brood bij onze maaltijd, alsjeblieft?",
+      "transliteration": "KRĲgen we BROOD bij OUze MAALTĲD, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T20:18:04.641859"
+    },
+    {
+      "english": "Is this dish gluten-free, please?",
+      "dutch": "Is dit gerecht glutenvrij, alsjeblieft?",
+      "transliteration": "IS dit GERECHT GLUTEN-vrij, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T20:18:04.641871"
+    },
+    {
+      "english": "Do you have lactose-free options?",
+      "dutch": "Hebben jullie lactosevrije opties, alstublieft?",
+      "transliteration": "HEBben jullie LAK-toze-vrije OP-ties, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T20:18:04.641873"
+    },
+    {
+      "english": "I'd like to order now, please.",
+      "dutch": "Ik wil nu bestellen, alsjeblieft.",
+      "transliteration": "IK wil NU BESTELLEN, alstublieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T20:18:04.641874"
+    },
+    {
+      "english": "What comes with this dish?",
+      "dutch": "Wat zit erbij bij dit gerecht?",
+      "transliteration": "WAT zit ERBIJ bij dit GERECHT",
+      "category": "Restaurant",
+      "generated_at": "2026-11-17T20:18:04.641876"
     }
   ],
-  "last_updated": "2026-11-17T07:30:45.291168"
+  "last_updated": "2026-11-17T20:18:04.641878"
 }
