@@ -25094,7 +25094,42 @@
       "transliteration": "WAT zit ERBIJ bij dit GERECHT",
       "category": "Restaurant",
       "generated_at": "2026-11-17T20:18:04.641876"
+    },
+    {
+      "english": "We’ll meet at the station, okay?",
+      "dutch": "We spreken af op het station, oké?",
+      "transliteration": "We spreeken af op het sta-tsion, o-keh?",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:57:40.172206"
+    },
+    {
+      "english": "I’m on time, don’t worry.",
+      "dutch": "Ik ben op tijd, maak je geen zorgen.",
+      "transliteration": "Ik ben op-tijd, maak je geen zor-gen",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:57:40.172217"
+    },
+    {
+      "english": "Call me soon, please.",
+      "dutch": "Bel me snel, alsjeblieft.",
+      "transliteration": "Bel me snel, al-suh-blieft",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:57:40.172219"
+    },
+    {
+      "english": "We should leave now, honestly.",
+      "dutch": "We moeten nu weggaan, echt waar.",
+      "transliteration": "We moe-ten nu weg-gaan, echt waar",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:57:40.172221"
+    },
+    {
+      "english": "Just wait, I’m almost ready.",
+      "dutch": "Wacht even, ik ben bijna klaar.",
+      "transliteration": "Wacht eev-en, ik ben bijna klaar",
+      "category": "Time",
+      "generated_at": "2026-11-17T21:57:40.172222"
     }
   ],
-  "last_updated": "2026-11-17T20:18:04.641878"
+  "last_updated": "2026-11-17T21:57:40.172227"
 }
