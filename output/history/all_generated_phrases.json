@@ -25374,7 +25374,42 @@
       "transliteration": "ik neem een ademhaling, en laat los",
       "category": "Inner Peace",
       "generated_at": "2026-11-19T01:46:32.413086"
+    },
+    {
+      "english": "It’s drizzling lightly, all afternoon.",
+      "dutch": "Het mot regenen, de hele middag.",
+      "transliteration": "het mot re-gen-en, de he-le mid-dag",
+      "category": "Weather",
+      "generated_at": "2026-11-19T07:04:09.329224"
+    },
+    {
+      "english": "The rain stops, clouds break apart.",
+      "dutch": "De regen stopt, de wolken trekken weg.",
+      "transliteration": "de re-gen stopt, de wol-ken trek-ken weg",
+      "category": "Weather",
+      "generated_at": "2026-11-19T07:04:09.329238"
+    },
+    {
+      "english": "Thunder rumbles far away, listen.",
+      "dutch": "Donder rolt ver weg, hoor maar.",
+      "transliteration": "don-der rolt ver weg, hoor maar",
+      "category": "Weather",
+      "generated_at": "2026-11-19T07:04:09.329239"
+    },
+    {
+      "english": "Lightning flashes, then darkness follows quickly.",
+      "dutch": "Bliksem flitst, en meteen wordt het donker.",
+      "transliteration": "blik-sem flitst, en me-teen wordt het don-ker",
+      "category": "Weather",
+      "generated_at": "2026-11-19T07:04:09.329240"
+    },
+    {
+      "english": "The storm passes, and the street shines.",
+      "dutch": "De storm trekt weg, en de straat glanst.",
+      "transliteration": "de storm trekt weg, en de straat glanst",
+      "category": "Weather",
+      "generated_at": "2026-11-19T07:04:09.329241"
     }
   ],
-  "last_updated": "2026-11-19T01:46:32.413088"
+  "last_updated": "2026-11-19T07:04:09.329243"
 }
