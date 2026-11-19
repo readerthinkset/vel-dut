@@ -25444,7 +25444,42 @@
       "transliteration": "Vakt, het yuiste mo-ment komt.",
       "category": "Patience",
       "generated_at": "2026-11-19T19:47:41.343512"
+    },
+    {
+      "english": "Your scarf looks so soft today.",
+      "dutch": "Je sjaal ziet er vandaag zo zacht uit.",
+      "transliteration": "je shjaal ziet er vandaag zo zaht uit",
+      "category": "Clothes",
+      "generated_at": "2026-11-19T21:53:46.931504"
+    },
+    {
+      "english": "That hat really suits you.",
+      "dutch": "Die hoed staat je echt goed.",
+      "transliteration": "die hoed staat je echt goed",
+      "category": "Clothes",
+      "generated_at": "2026-11-19T21:53:46.931522"
+    },
+    {
+      "english": "This dress fits you perfectly.",
+      "dutch": "Jij draagt deze jurk perfect.",
+      "transliteration": "yij draagt deze jurk perfect",
+      "category": "Clothes",
+      "generated_at": "2026-11-19T21:53:46.931525"
+    },
+    {
+      "english": "These socks match your sneakers.",
+      "dutch": "Deze sokken passen bij je sneakers.",
+      "transliteration": "deze sokken passen bij je sneakers",
+      "category": "Clothes",
+      "generated_at": "2026-11-19T21:53:46.931526"
+    },
+    {
+      "english": "I like this shirt’s simple style.",
+      "dutch": "Ik hou van de simpele stijl van dit shirt.",
+      "transliteration": "ik hou van de simpele stijl van dit shirt",
+      "category": "Clothes",
+      "generated_at": "2026-11-19T21:53:46.931528"
     }
   ],
-  "last_updated": "2026-11-19T19:47:41.343515"
+  "last_updated": "2026-11-19T21:53:46.931530"
 }
