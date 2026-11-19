@@ -25409,7 +25409,42 @@
       "transliteration": "de storm trekt weg, en de straat glanst",
       "category": "Weather",
       "generated_at": "2026-11-19T07:04:09.329241"
+    },
+    {
+      "english": "Be patient, it will work out.",
+      "dutch": "Wees geduldig, het komt goed.",
+      "transliteration": "Vays de-gyo-di-gh, het komt goa(d).",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:47:41.343490"
+    },
+    {
+      "english": "Take your time, no need to rush.",
+      "dutch": "Neem je tijd, het hoeft niet snel.",
+      "transliteration": "Neem je teijd, het hooft niet snel.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:47:41.343507"
+    },
+    {
+      "english": "Let it simmer, then decide.",
+      "dutch": "Laat het sudderen, dan pas beslissen.",
+      "transliteration": "Laat het sud-der-en, dan pas bay-slis-sen.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:47:41.343509"
+    },
+    {
+      "english": "Slow down, breathe, and continue.",
+      "dutch": "Langzaam, adem in, ga door.",
+      "transliteration": "Lan-ga-saam, adem in, ga doo(r).",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:47:41.343511"
+    },
+    {
+      "english": "Wait, the right moment arrives.",
+      "dutch": "Wacht, het juiste moment komt.",
+      "transliteration": "Vakt, het yuiste mo-ment komt.",
+      "category": "Patience",
+      "generated_at": "2026-11-19T19:47:41.343512"
     }
   ],
-  "last_updated": "2026-11-19T07:04:09.329243"
+  "last_updated": "2026-11-19T19:47:41.343515"
 }
