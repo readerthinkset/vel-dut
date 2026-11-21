@@ -25689,7 +25689,42 @@
       "transliteration": "ik stop mit VAAS-thou-den, aan pein",
       "category": "Forgiveness",
       "generated_at": "2026-11-20T22:56:15.676641"
+    },
+    {
+      "english": "Help, I’ve been mugged, please.",
+      "dutch": "Hulp, ik ben beroofd, alsjeblieft.",
+      "transliteration": "Hulp, ik ben beroofd, als-je-blieft.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T01:08:47.477765"
+    },
+    {
+      "english": "Stop! Someone is stealing my phone.",
+      "dutch": "Stop! Iemand steelt mijn telefoon.",
+      "transliteration": "Stop! Iemand steelt mijn te-le-foon.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T01:08:47.477782"
+    },
+    {
+      "english": "I’m having chest pain, right now.",
+      "dutch": "Ik heb pijn op de borst, nu.",
+      "transliteration": "Ik heb pijn op de borst, nu.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T01:08:47.477783"
+    },
+    {
+      "english": "I think I’m allergic, my lips swell.",
+      "dutch": "Ik denk dat ik allergisch ben, mijn lippen zwellen.",
+      "transliteration": "Ik denk dat ik al-ler-gisch ben, mijn lip-pen zwellen.",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T01:08:47.477785"
+    },
+    {
+      "english": "My child collapsed, call an ambulance!",
+      "dutch": "Mijn kind is flauwgevallen, bel een ambulance!",
+      "transliteration": "Mijn kind is flauw-ge-val-len, bel een am-bu-lance!",
+      "category": "Emergency",
+      "generated_at": "2026-11-21T01:08:47.477787"
     }
   ],
-  "last_updated": "2026-11-20T22:56:15.676643"
+  "last_updated": "2026-11-21T01:08:47.477789"
 }
