@@ -25724,7 +25724,42 @@
       "transliteration": "Mijn kind is flauw-ge-val-len, bel een am-bu-lance!",
       "category": "Emergency",
       "generated_at": "2026-11-21T01:08:47.477787"
+    },
+    {
+      "english": "Is this the right platform for Utrecht?",
+      "dutch": "Is dit perron goed voor Utrecht?",
+      "transliteration": "Is dit perron goed voor Oetrecht?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T06:41:37.578853"
+    },
+    {
+      "english": "How much is a day pass for transit?",
+      "dutch": "Wat kost een dagkaart voor het openbaar vervoer?",
+      "transliteration": "Wat kost een dagkaart voor het openbaar vervoer?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T06:41:37.578869"
+    },
+    {
+      "english": "Do you take cash here, or card?",
+      "dutch": "Neem je hier contant geld aan, of kaart?",
+      "transliteration": "Neem je hier contant geld aan, of kaart?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T06:41:37.578871"
+    },
+    {
+      "english": "Where can I buy a tram ticket?",
+      "dutch": "Waar kan ik een tramkaartje kopen?",
+      "transliteration": "Waar kan ik een tramkaartje kopen?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T06:41:37.578872"
+    },
+    {
+      "english": "Which bus goes to the city center?",
+      "dutch": "Welke bus gaat naar het centrum?",
+      "transliteration": "Welke bus gaat naar het centrum?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T06:41:37.578873"
     }
   ],
-  "last_updated": "2026-11-21T01:08:47.477789"
+  "last_updated": "2026-11-21T06:41:37.578875"
 }
