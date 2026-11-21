@@ -25759,7 +25759,42 @@
       "transliteration": "Welke bus gaat naar het centrum?",
       "category": "Travel",
       "generated_at": "2026-11-21T06:41:37.578873"
+    },
+    {
+      "english": "Ready to learn Dutch today, right?",
+      "dutch": "Klaar om vandaag Nederlands te leren, hè?",
+      "transliteration": "Klaar o m vandaag N ederlands te leren, heh?",
+      "category": "Education",
+      "generated_at": "2026-11-21T18:31:12.175906"
+    },
+    {
+      "english": "Let’s practice speaking, step by step.",
+      "dutch": "Laten we praten oefenen, stap voor stap.",
+      "transliteration": "Laten we praten oefenen, stap voor stap",
+      "category": "Education",
+      "generated_at": "2026-11-21T18:31:12.175921"
+    },
+    {
+      "english": "Repeat after me, but slower now.",
+      "dutch": "Herhaal na mij, maar nu langzamer.",
+      "transliteration": "Herhaal na mij, maar nu langzamer",
+      "category": "Education",
+      "generated_at": "2026-11-21T18:31:12.175923"
+    },
+    {
+      "english": "Don’t worry, mistakes are part of learning.",
+      "dutch": "Geen stress, fouten horen erbij bij leren.",
+      "transliteration": "Geen stress, fouten horen erbij bij leren",
+      "category": "Education",
+      "generated_at": "2026-11-21T18:31:12.175924"
+    },
+    {
+      "english": "Use simple words, it helps a lot.",
+      "dutch": "Gebruik simpele woorden, dat helpt echt.",
+      "transliteration": "Gebruik simpele woorden, dat helpt echt",
+      "category": "Education",
+      "generated_at": "2026-11-21T18:31:12.175925"
     }
   ],
-  "last_updated": "2026-11-21T06:41:37.578875"
+  "last_updated": "2026-11-21T18:31:12.175926"
 }
