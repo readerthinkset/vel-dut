@@ -25969,7 +25969,42 @@
       "transliteration": "ik voel me vei-lig, al-sof ik kan on-tspan-nen",
       "category": "Feelings",
       "generated_at": "2026-11-22T18:53:47.425992"
+    },
+    {
+      "english": "Hi, can we get a table, please?",
+      "dutch": "Hallo, mogen wij een tafel, alstublieft?",
+      "transliteration": "ha-low, mo-gen we-j een taf-el, al-stu-blieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T20:31:23.066645"
+    },
+    {
+      "english": "Do you have any specials today?",
+      "dutch": "Hebben jullie vandaag nog specials?",
+      "transliteration": "heb-ben ju-l-lie van-daag nog spee-sials",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T20:31:23.066659"
+    },
+    {
+      "english": "I’d like water, still, please.",
+      "dutch": "Ik wil graag water, plat, alstublieft.",
+      "transliteration": "ik wil gra-g water, plat, al-stu-blieft",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T20:31:23.066661"
+    },
+    {
+      "english": "Could we see the drinks menu?",
+      "dutch": "Mag ik even de drankenkaart zien?",
+      "transliteration": "mag ik e-ven de drank-en-kaar t zien",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T20:31:23.066662"
+    },
+    {
+      "english": "What do you recommend for starters?",
+      "dutch": "Wat raden jullie aan als voorgerecht?",
+      "transliteration": "wat ra-den ju-l-lie aan als voor-ge-recht",
+      "category": "Restaurant",
+      "generated_at": "2026-11-22T20:31:23.066664"
     }
   ],
-  "last_updated": "2026-11-22T18:53:47.425994"
+  "last_updated": "2026-11-22T20:31:23.066666"
 }
