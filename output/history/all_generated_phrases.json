@@ -26004,7 +26004,42 @@
       "transliteration": "wat ra-den ju-l-lie aan als voor-ge-recht",
       "category": "Restaurant",
       "generated_at": "2026-11-22T20:31:23.066664"
+    },
+    {
+      "english": "I’m here for you, really.",
+      "dutch": "Ik ben er voor je, echt.",
+      "transliteration": "ik ben er voor je, echt",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T22:17:02.349205"
+    },
+    {
+      "english": "You can take my time, please.",
+      "dutch": "Je mag mijn tijd, alsjeblieft.",
+      "transliteration": "je mag mijn tijd, alsjeblieft",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T22:17:02.349219"
+    },
+    {
+      "english": "That was so considerate of you.",
+      "dutch": "Dat was zo attent van jou.",
+      "transliteration": "dat was zo attent van jou",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T22:17:02.349221"
+    },
+    {
+      "english": "Let me help, just for a minute.",
+      "dutch": "Laat me helpen, maar één minuut.",
+      "transliteration": "laat me helpen, maar één minuut",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T22:17:02.349222"
+    },
+    {
+      "english": "Do you want to talk, or just listen?",
+      "dutch": "Wil je praten, of gewoon luisteren?",
+      "transliteration": "wil je praten, of gewoon luisteren",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T22:17:02.349223"
     }
   ],
-  "last_updated": "2026-11-22T20:31:23.066666"
+  "last_updated": "2026-11-22T22:17:02.349225"
 }
