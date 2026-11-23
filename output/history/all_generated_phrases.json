@@ -26074,7 +26074,42 @@
       "transliteration": "Neem jo-gurt, het helpt je dar-men.",
       "category": "Health",
       "generated_at": "2026-11-23T00:38:17.462491"
+    },
+    {
+      "english": "I’ll handle this part, please.",
+      "dutch": "Ik regel dit deel, alsjeblieft.",
+      "transliteration": "ik reel dis deel, ajsjeblieft",
+      "category": "Work",
+      "generated_at": "2026-11-23T07:00:58.735497"
+    },
+    {
+      "english": "Can you share your progress so far?",
+      "dutch": "Kun je je voortgang tot nu toe delen?",
+      "transliteration": "kun je je voortgang tot nou toe delen",
+      "category": "Work",
+      "generated_at": "2026-11-23T07:00:58.735508"
+    },
+    {
+      "english": "Let’s prioritize the most urgent items.",
+      "dutch": "Laten we de meest urgente dingen prioriteren.",
+      "transliteration": "laten we de meest urgente dingen prioriteren",
+      "category": "Work",
+      "generated_at": "2026-11-23T07:00:58.735510"
+    },
+    {
+      "english": "I think we need a quick check.",
+      "dutch": "Ik denk dat we een snelle check nodig hebben.",
+      "transliteration": "ik denk dat we een snelle chek nodig hebben",
+      "category": "Work",
+      "generated_at": "2026-11-23T07:00:58.735512"
+    },
+    {
+      "english": "Thanks, that helps me a lot.",
+      "dutch": "Dank je, dat helpt me enorm.",
+      "transliteration": "dank je, dat helpt me enorhm",
+      "category": "Work",
+      "generated_at": "2026-11-23T07:00:58.735514"
     }
   ],
-  "last_updated": "2026-11-23T00:38:17.462493"
+  "last_updated": "2026-11-23T07:00:58.735518"
 }
