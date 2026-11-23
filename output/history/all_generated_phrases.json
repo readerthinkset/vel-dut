@@ -26109,7 +26109,42 @@
       "transliteration": "dank je, dat helpt me enorhm",
       "category": "Work",
       "generated_at": "2026-11-23T07:00:58.735514"
+    },
+    {
+      "english": "Great, say it again, please.",
+      "dutch": "Goed, zeg het nog eens, alsjeblieft.",
+      "transliteration": "khoot, zeg het nog eens, alsyeblieft",
+      "category": "Success",
+      "generated_at": "2026-11-23T23:15:48.831781"
+    },
+    {
+      "english": "Nice work, keep going, you can!",
+      "dutch": "Leuk gedaan, ga door, je kunt het!",
+      "transliteration": "leuk gedaan, ga door, ye kunt het",
+      "category": "Success",
+      "generated_at": "2026-11-23T23:15:48.831796"
+    },
+    {
+      "english": "Perfect timing, well said today!",
+      "dutch": "Mooi op tijd, goed gezegd vandaag!",
+      "transliteration": "mooi op-tijd, khood gezegd vanden-dag",
+      "category": "Success",
+      "generated_at": "2026-11-23T23:15:48.831797"
+    },
+    {
+      "english": "Listen carefully, then repeat after me.",
+      "dutch": "Luister goed, en herhaal na mij.",
+      "transliteration": "loisteer khoud, en herhaal na mij",
+      "category": "Success",
+      "generated_at": "2026-11-23T23:15:48.831798"
+    },
+    {
+      "english": "That’s right, you’re improving fast.",
+      "dutch": "Dat klopt, je gaat vooruit snel.",
+      "transliteration": "dat klopt, ye gaat voor-ruit snel",
+      "category": "Success",
+      "generated_at": "2026-11-23T23:15:48.831799"
     }
   ],
-  "last_updated": "2026-11-23T07:00:58.735518"
+  "last_updated": "2026-11-23T23:15:48.831801"
 }
