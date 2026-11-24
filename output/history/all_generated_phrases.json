@@ -26249,7 +26249,42 @@
       "transliteration": "ehn SAYR-li-kə hert stahpt vor-zich-tihkh door hoog gras",
       "category": "Animals",
       "generated_at": "2026-11-24T04:56:15.422749"
+    },
+    {
+      "english": "Just one cookie, please.",
+      "dutch": "Nog maar één koekje, alsjeblieft.",
+      "transliteration": "Nog maar EN koek-juh, als-je-blief",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T09:27:50.796621"
+    },
+    {
+      "english": "Two coffees, please, no sugar.",
+      "dutch": "Twee koffieën, alsjeblieft, zonder suiker.",
+      "transliteration": "TwEE kof-fee-en, als-je-blief, zon-der SOY-ker",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T09:27:50.796633"
+    },
+    {
+      "english": "Three tickets, for me and you.",
+      "dutch": "Drie kaartjes, voor mij en jou.",
+      "transliteration": "Drie KAART-jes, voor mij en jouw",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T09:27:50.796635"
+    },
+    {
+      "english": "Four keys, on the table.",
+      "dutch": "Vier sleutels liggen op tafel.",
+      "transliteration": "Vier SLEu-tels lig-gen op TA-fel",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T09:27:50.796637"
+    },
+    {
+      "english": "Five minutes, and we’re ready.",
+      "dutch": "Vijf minuten, en we zijn klaar.",
+      "transliteration": "Vijf MI-nu-ten, en we zijn KLAR",
+      "category": "Numbers",
+      "generated_at": "2026-11-24T09:27:50.796638"
     }
   ],
-  "last_updated": "2026-11-24T04:56:15.422752"
+  "last_updated": "2026-11-24T09:27:50.796640"
 }
