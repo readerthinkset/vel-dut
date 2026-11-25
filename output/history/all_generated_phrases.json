@@ -26389,7 +26389,42 @@
       "transliteration": "Sorry, ik bedoelde dat niet.",
       "category": "Basic Phrases",
       "generated_at": "2026-11-25T01:14:51.020485"
+    },
+    {
+      "english": "That hoodie looks perfect for today.",
+      "dutch": "Die hoodie ziet er perfect uit vandaag.",
+      "transliteration": "Die hui-di-je ziet er per-fekt uit van-daag.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:57.637418"
+    },
+    {
+      "english": "This jacket fits me really well.",
+      "dutch": "Deze jas zit echt heel goed.",
+      "transliteration": "Deze jas zit echt heel goed.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:57.637432"
+    },
+    {
+      "english": "These trousers feel soft and light.",
+      "dutch": "Deze broeken voelen zacht en licht.",
+      "transliteration": "Deze broe-k n voe-len zacht en licht.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:57.637433"
+    },
+    {
+      "english": "Your boots look sturdy and warm.",
+      "dutch": "Je laarzen zien er stevig en warm uit.",
+      "transliteration": "Je laar-zen zien er ste-vig en warm uit.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:57.637434"
+    },
+    {
+      "english": "This shirt is breathable, not too tight.",
+      "dutch": "Dit overhemd ademt, niet te strak.",
+      "transliteration": "Dit on-de-hem ademt, niet te strak.",
+      "category": "Clothes",
+      "generated_at": "2026-11-25T03:24:57.637435"
     }
   ],
-  "last_updated": "2026-11-25T01:14:51.020490"
+  "last_updated": "2026-11-25T03:24:57.637437"
 }
