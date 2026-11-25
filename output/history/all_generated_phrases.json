@@ -26354,7 +26354,42 @@
       "transliteration": "ka-ra-MEL, zoet, zo-als war-me STRAAT-lam-pen.",
       "category": "Colors",
       "generated_at": "2026-11-24T23:19:10.833884"
+    },
+    {
+      "english": "Hi there, how’s it going today?",
+      "dutch": "Hoi, hoe gaat het vandaag?",
+      "transliteration": "Hoi, hoe gaat het vandaag?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T01:14:51.020465"
+    },
+    {
+      "english": "I’m hungry, can we grab food?",
+      "dutch": "Ik heb honger, kunnen we eten?",
+      "transliteration": "Ik heb honger, kunnen we eten?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T01:14:51.020479"
+    },
+    {
+      "english": "Where is the bathroom, please?",
+      "dutch": "Waar is het toilet, alstublieft?",
+      "transliteration": "Waar is het toilet, alstublieft?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T01:14:51.020481"
+    },
+    {
+      "english": "I like your jacket, where’d you get it?",
+      "dutch": "Ik vind je jas mooi, waar heb je die?",
+      "transliteration": "Ik vind je jas mooi, waar heb je die?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T01:14:51.020483"
+    },
+    {
+      "english": "Sorry, I didn’t mean that.",
+      "dutch": "Sorry, ik bedoelde dat niet.",
+      "transliteration": "Sorry, ik bedoelde dat niet.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-25T01:14:51.020485"
     }
   ],
-  "last_updated": "2026-11-24T23:19:10.833886"
+  "last_updated": "2026-11-25T01:14:51.020490"
 }
