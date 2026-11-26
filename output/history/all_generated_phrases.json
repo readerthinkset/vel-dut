@@ -26529,7 +26529,42 @@
       "transliteration": "Hoi, ik ben echt blij dat je er bent.",
       "category": "Greetings",
       "generated_at": "2026-11-25T22:51:10.001342"
+    },
+    {
+      "english": "Where can I find these in stock?",
+      "dutch": "Waar kan ik deze voorraad vinden?",
+      "transliteration": "Waar kan ik deze voor-raad vin-den?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:50:32.224262"
+    },
+    {
+      "english": "I’d like to see it in person.",
+      "dutch": "Ik wil het graag in het echt zien.",
+      "transliteration": "Ik wil het graag in het ech-t zien.",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:50:32.224278"
+    },
+    {
+      "english": "Does this come in other colors?",
+      "dutch": "Heeft dit ook andere kleuren?",
+      "transliteration": "Heeft dit ook an-de-re kleu-ren?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:50:32.224280"
+    },
+    {
+      "english": "Can I hold this for a moment?",
+      "dutch": "Mag ik dit even vasthouden?",
+      "transliteration": "Mag ik dit e-ven vast-hou-den?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:50:32.224281"
+    },
+    {
+      "english": "Is the material soft on skin?",
+      "dutch": "Is het materiaal zacht voor de huid?",
+      "transliteration": "Is het ma-te-ri-aal zacht voor de huid?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T00:50:32.224282"
     }
   ],
-  "last_updated": "2026-11-25T22:51:10.001346"
+  "last_updated": "2026-11-26T00:50:32.224284"
 }
