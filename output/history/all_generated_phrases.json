@@ -26634,7 +26634,42 @@
       "transliteration": "mijn mond leert nieu-we noo-der-lan-se klan-ken",
       "category": "Growth",
       "generated_at": "2026-11-26T07:50:12.617483"
+    },
+    {
+      "english": "Turn it up, I want more.",
+      "dutch": "Zet het zachter, ik wil meer.",
+      "transliteration": "zet het zach-ter, ik wil meer",
+      "category": "Music",
+      "generated_at": "2026-11-26T20:45:33.744075"
+    },
+    {
+      "english": "This track is stuck in my head.",
+      "dutch": "Deze track zit in mijn hoofd.",
+      "transliteration": "de-ze track zit in mijn hoofd",
+      "category": "Music",
+      "generated_at": "2026-11-26T20:45:33.744088"
+    },
+    {
+      "english": "I hear drums, and I smile.",
+      "dutch": "Ik hoor drums, en ik lach.",
+      "transliteration": "ik hoor drums, en ik lach",
+      "category": "Music",
+      "generated_at": "2026-11-26T20:45:33.744090"
+    },
+    {
+      "english": "The singer sounds so real.",
+      "dutch": "De zanger klinkt zo echt.",
+      "transliteration": "de zan-ger klinkt zo echt",
+      "category": "Music",
+      "generated_at": "2026-11-26T20:45:33.744091"
+    },
+    {
+      "english": "Let’s play it again, please.",
+      "dutch": "Speel het nog eens af, alsjeblieft.",
+      "transliteration": "speel het nog eens af, al-sje-blieft",
+      "category": "Music",
+      "generated_at": "2026-11-26T20:45:33.744092"
     }
   ],
-  "last_updated": "2026-11-26T07:50:12.617487"
+  "last_updated": "2026-11-26T20:45:33.744094"
 }
