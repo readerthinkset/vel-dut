@@ -26669,7 +26669,42 @@
       "transliteration": "speel het nog eens af, al-sje-blieft",
       "category": "Music",
       "generated_at": "2026-11-26T20:45:33.744092"
+    },
+    {
+      "english": "My nose is running, again.",
+      "dutch": "Mijn neus loopt weer, steeds.",
+      "transliteration": "mijn neus loopt weer, steeds",
+      "category": "Body Parts",
+      "generated_at": "2026-11-26T22:40:25.963436"
+    },
+    {
+      "english": "Her eyebrow arches, surprised.",
+      "dutch": "Haar wenkbrauw gaat omhoog, verbaasd.",
+      "transliteration": "haar wenkbrauw gaat omhoog, verbaasd",
+      "category": "Body Parts",
+      "generated_at": "2026-11-26T22:40:25.963451"
+    },
+    {
+      "english": "I rub my forehead, tired.",
+      "dutch": "Ik wrijf over mijn voorhoofd, moe.",
+      "transliteration": "ik wrijf over mijn voorhoofd, moe",
+      "category": "Body Parts",
+      "generated_at": "2026-11-26T22:40:25.963452"
+    },
+    {
+      "english": "His ear rings, after the concert.",
+      "dutch": "Zijn oor tuitert, na het concert.",
+      "transliteration": "zijn oor tuitert, na het concert",
+      "category": "Body Parts",
+      "generated_at": "2026-11-26T22:40:25.963453"
+    },
+    {
+      "english": "My cheek feels cold, outside.",
+      "dutch": "Mijn wang voelt koud, buiten.",
+      "transliteration": "mijn wang voelt koud, buiten",
+      "category": "Body Parts",
+      "generated_at": "2026-11-26T22:40:25.963454"
     }
   ],
-  "last_updated": "2026-11-26T20:45:33.744094"
+  "last_updated": "2026-11-26T22:40:25.963456"
 }
