@@ -3,6 +3,8 @@ name: Velocity Dutch - Storybook Publish
 on:
   schedule:
     - cron: '08:20 * * *'
+    - cron: '13:25 * * *'
+    - cron: '20:30 * * *'
   workflow_dispatch:
     inputs:
       category:
